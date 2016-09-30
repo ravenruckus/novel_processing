@@ -103,7 +103,28 @@ def  syl_count(sentence):
 def detect_sentiment(text):
     return TextBlob(text.decode('utf-8')).sentiment.polarity    
 
-         
+def find_this(df_novel, t,x):
+    w = 0
+    sent_stop = []
+    while w <= ratio:
+        w = df_novel['total_char'][t:x].sum()
+        sent_stop.append(x)
+        x += 1
+    return max(sent_stop)
+def twenty_pieces(df_novel):
+    t = 0
+    x = 0
+    global ratio
+    ratio = (df_novel['total_char'].sum()/20) - (.06 * (int(len(df_novel) - 1)))
+    start_point = []
+    stop_point = []
+    for n in range(1,21):
+        s = find_this(df_novel, t, x)
+        start_point.append(t)
+        stop_point.append(s)
+        t = s
+        x = s + 1
+    return start_point, stop_point         
 #takes the novel text and novel number. If a csv file was created then the code 
 # is run other wise the number goes into the second reject list. if the code is
 # run then the wrd_length, total_char, syl_count, syl_sum, and cluster colomns
@@ -167,6 +188,19 @@ def data_fr(novel_num):
         df_cluster_5['cluster'] = km.labels_
         df_novel['cluster_5'] = df_cluster_5['cluster']
         df_novel.to_csv('novel_'+nn+'list_1.csv', index=False)
+        start_point, stop_point = twenty_pieces(df_novel)
+        st = 0
+        for l in start_point:
+            strt = start_point[st]
+            stp = stop_point[st]
+            mn = df_novel['sentiment'][strt:stp].mean()
+            twenty_piece_char.append(mn)
+            st += 1
+        
+        twenty_piece_char.insert(0,novel_num)
+        with open('twenty_piece_test_3.csv', 'a') as f:
+            writer = csv.writer(f)
+            writer.writerow(twenty_piece_char)
     except:
         rejects_3.append(novel_num)
  
@@ -197,6 +231,7 @@ def novels():
     global rejects
     global rejects_2 
     global rejects_3
+    global twenty_piece_char 
     rejects = []
     rejects_2 = []
     rejects_3 = []
@@ -206,6 +241,7 @@ def novels():
     with open('list_1.csv', 'r') as csvfile:
         listreader = csv.reader(csvfile.read().splitlines())
         for row in listreader:
+            twenty_piece_char = []
             nv = row[0]
             x = Text(nv)
             x.the_text()  
@@ -218,11 +254,38 @@ def novels():
     
     rejects_csv()
     
+novels()    
+
+
+def test(test_nov):
+    global rejects
+    global rejects_2 
+    global rejects_3
+    global twenty_piece_char 
+    twenty_piece_char = []
+    rejects = []
+    rejects_2 = []
+    rejects_3 = []
+    global c
+    imports()
+    nv = test_nov
+    x = Text(nv)
+    x.the_text()
+    if x.novel_num in rejects or x.novel_num in rejects_2:
+        pass
+    else:
+        data_fr(x.novel_num)
+    print twenty_piece_char    
     
-data_fr(55)    
-            
+n = [55, 76,1342, 11 ]
+for l in n:
+    test(l)   
+    
+    
+test(55)    
+    
 
-
-novels()
+    
+    
 
 

@@ -103,7 +103,28 @@ def  syl_count(sentence):
 def detect_sentiment(text):
     return TextBlob(text.decode('utf-8')).sentiment.polarity    
 
-         
+def find_this(df_novel, t,x):
+    w = 0
+    sent_stop = []
+    while w <= ratio:
+        w = df_novel['total_char'][t:x].sum()
+        sent_stop.append(x)
+        x += 1
+    return max(sent_stop)
+def twenty_pieces(df_novel):
+    t = 0
+    x = 0
+    global ratio
+    ratio = (df_novel['total_char'].sum()/20) - (.06 * (int(len(df_novel) - 1)))
+    start_point = []
+    stop_point = []
+    for n in range(1,21):
+        s = find_this(df_novel, t, x)
+        start_point.append(t)
+        stop_point.append(s)
+        t = s
+        x = s + 1
+    return start_point, stop_point         
 #takes the novel text and novel number. If a csv file was created then the code 
 # is run other wise the number goes into the second reject list. if the code is
 # run then the wrd_length, total_char, syl_count, syl_sum, and cluster colomns
@@ -167,10 +188,85 @@ def data_fr(novel_num):
         df_cluster_5['cluster'] = km.labels_
         df_novel['cluster_5'] = df_cluster_5['cluster']
         df_novel.to_csv('novel_'+nn+'list_1.csv', index=False)
+        start_point, stop_point = twenty_pieces(df_novel)
+        #print start_point
+        #print stop_point
+        st = 0
+        for l in start_point:
+            strt = start_point[st]
+            stp = stop_point[st]
+            mn = df_novel['sentiment'][strt:stp].mean()
+            twenty_piece_char.append(mn)
+            st += 1
+        #df_twenty = pd.read_csv('twenty_pieces_list_1.csv')
+        #df_twenty[novel_num] = [novel_num, twenty_piece_char]
+        
+    
+        #with open('twenty_pieces_list_1.csv', 'wb') as f:
+                #writer = csv.writer(f)
+                #writer.writerow([novel_num])
+                #for l in twenty_piece_char:
+                    #writer.writerow([l]) 
+        twenty_piece_char.insert(0,novel_num)
+        with open('twenty_piece_test_2.csv', 'a') as f:
+            writer = csv.writer(f)
+            writer.writerow(twenty_piece_char)
     except:
         rejects_3.append(novel_num)
  
+f = open('twenty_pieces_list_1.csv')
+data = [item for item in csv.reader(f)]
+f.close()
+new_column = ["55_2", twenty_piece_char]
+new_data = []
+h = [1, 2, 4]
+h.insert(0, 55)
+for i in data:
+    item.append(new_column[i])
+    new_data.append(item)
+    
+f = open('twenty_pieces_list_1.csv' , 'w')
+csv.writer(f).writerows(new_data)
+f.close()  
 
+
+with open('twenty.csv', 'wb') as f:
+    writer = csv.writer(f)
+    for l in twenty_piece_char:
+        writer.writerow([l])
+        
+df_twenty = pd.read_csv('twenty.csv', header=None)
+df_twenty.columns = ['55']
+
+mapping = enumerate(twenty_piece_char)
+df_twenty['55_2'] = df_twenty['55'].map(mapping)
+df_twenty['55_2'] = [twenty_piece_char]
+twenty_arr = np.array(twenty_piece_char)
+df_twenty = pd.read_csv('twenty_pieces_list_1.csv')
+
+
+n = []
+for l in range(0,19):
+    n.append(twenty_piece_char[l])
+    
+n.append('3')
+df_twenty['3'] = [n]
+df_twenty['length'] = df_twenty['55'] 
+
+csvFile = open('example.csv', 'w')
+csvWriter = csv.writer(csvFile, delimiter='\t', lineterminator='\n\n')
+csvWriter.writerow(['apple', 'orange', 'grapes'])
+csvWriter.writerow(['spam', 'spam', 'spam', 'spam', 'spam', 'spam'])
+csvFile.close()
+
+df_test = pd.read_csv('example.csv', header=None)
+
+with open('twenty_piece_test.csv', 'a') as f:
+     writer = csv.writer(f)
+     writer.writerow(twenty_piece_char)
+df_test = pd.read_csv('twenty_piece_test.csv', header=None)    
+
+df_twenty = pd.read_csv('twenty_piece_test_2.csv') 
 
 def rejects_csv():        
    with open('list_1_rejects.csv', 'wb') as f:
@@ -197,6 +293,8 @@ def novels():
     global rejects
     global rejects_2 
     global rejects_3
+    global twenty_piece_char 
+    twenty_piece_char = []
     rejects = []
     rejects_2 = []
     rejects_3 = []
@@ -224,5 +322,35 @@ data_fr(55)
 
 
 novels()
+
+def test(test_nov):
+    global rejects
+    global rejects_2 
+    global rejects_3
+    global twenty_piece_char 
+    twenty_piece_char = []
+    rejects = []
+    rejects_2 = []
+    rejects_3 = []
+    global c
+    imports()
+    nv = test_nov
+    x = Text(nv)
+    x.the_text()
+    if x.novel_num in rejects or x.novel_num in rejects_2:
+        pass
+    else:
+        data_fr(x.novel_num)
+    print twenty_piece_char    
+    
+n = [55, 76,1342, 11 ]
+for l in n:
+    test(l)   
+    
+    
+test(55)    
+    
+    
+    
 
 
