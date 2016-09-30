@@ -1,0 +1,1307 @@
+0,wrd_length,total_char,syl_count,syl_sum,sentiment,cluster_20,cluster_3_syl,cluster_3no_syl,cluster_5
+"     HISTORY OF THE DECLINE AND FALL OF THE ROMAN EMPIRE  Edward Gibbon, Esq.","[7, 2, 3, 7, 3, 4, 2, 3, 5, 6, 6, 6, 3]",57,"[3, 1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 2, 1]",20,0.0,10,0,0,3
+With notes by the Rev.,"[4, 5, 2, 3, 3]",17,"[1, 1, 1, 1, 1]",5,0.0,0,0,0,0
+"H. H. Milman  Complete Contents  1782 (Written), 1845 (Revised)   The 1996 Project Gutenberg Edition Table of Contents for Ebooks 731-736 HTML file in the ASCII character set, and includes all the original footnotes now linked to the text.","[1, 1, 6, 8, 8, 4, 7, 4, 7, 3, 4, 7, 9, 7, 5, 2, 8, 3, 6, 7, 4, 4, 2, 3, 5, 9, 3, 3, 8, 3, 3, 8, 9, 3, 6, 2, 3, 4]",189,"[0, 0, 2, 2, 2, 0, 2, 0, 2, 1, 0, 2, 3, 3, 1, 1, 2, 1, 2, 0, 0, 1, 1, 1, 2, 3, 1, 1, 2, 1, 1, 4, 2, 1, 1, 1, 1, 1]",51,0.2375,17,1,1,1
+"The 1997 Project Gutenberg Edition Table of Contents for Ebooks 890-895 HTML file in the LATIN-1 character set, but the first five volumes do not have footnotes.","[3, 4, 7, 9, 7, 5, 2, 8, 3, 6, 7, 4, 4, 2, 3, 7, 9, 3, 3, 3, 5, 4, 7, 2, 3, 4, 9]",133,"[1, 0, 2, 3, 3, 1, 1, 2, 1, 2, 0, 0, 1, 1, 1, 2, 3, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2]",36,0.25,2,1,1,1
+"There are two Project Gutenberg sets produced by David Reed of the complete ""History Of The Decline And Fall Of The Roman Empire"" by Edward Gibbon: the 1996 ASCII text only edition (PG #731-736) has the advantage of including all the foonotes by Gibbin and others; the 1997 edition (PG #890-895)in the Latin-1 character set was provided at that time only in html format and footnotes were not included in the first five volumes of this set.","[5, 3, 3, 7, 9, 4, 8, 2, 5, 4, 2, 3, 8, 7, 2, 3, 7, 3, 4, 2, 3, 5, 6, 2, 6, 6, 3, 4, 5, 4, 4, 7, 2, 7, 3, 3, 9, 2, 9, 3, 3, 8, 2, 6, 3, 6, 3, 4, 7, 2, 7, 2, 3, 7, 9, 3, 3, 8, 2, 4, 4, 4, 2, 4, 6, 3, 9, 4, 3, 8, 2, 3, 5, 4, 7, 2, 4, 3]",353,"[1, 1, 1, 2, 3, 1, 2, 1, 2, 0, 1, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 2, 2, 1, 0, 2, 1, 2, 3, 0, 0, 1, 1, 3, 1, 3, 1, 1, 2, 1, 2, 1, 2, 1, 0, 3, 0, 0, 1, 1, 2, 3, 1, 1, 2, 1, 1, 1, 2, 1, 0, 2, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1]",105,0.0875,7,2,2,2
+Both of these sets have been recently completely reproofed with correction of several thousand errors.,"[4, 2, 5, 4, 4, 4, 8, 10, 9, 4, 10, 2, 7, 8, 6]",87,"[1, 1, 1, 1, 1, 1, 3, 4, 2, 1, 3, 1, 3, 2, 2]",27,0.05,19,0,0,3
+An html and text format have been provided for both sets.,"[2, 4, 3, 4, 6, 4, 4, 8, 3, 4, 4]",46,"[1, 0, 1, 1, 2, 1, 1, 2, 1, 1, 1]",12,0.0,16,0,0,3
+The HTML version of the earlier set has approximately 6000 linked footnotes.,"[3, 4, 7, 2, 3, 7, 3, 3, 13, 4, 6, 9]",64,"[1, 0, 2, 1, 1, 4, 1, 1, 6, 0, 1, 2]",20,-0.2,9,0,0,3
+Over 1000 linked footnotes were prepared for the last volume of the latter set in this updated edition.,"[4, 4, 6, 9, 4, 8, 3, 3, 4, 6, 2, 3, 6, 3, 2, 4, 7, 7]",85,"[2, 0, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 3]",25,0.0,4,0,0,3
+"Consideration was given to combining these two sets into one, however there are advantages and disadvantages to each and it was decided to keep both.","[13, 3, 5, 2, 9, 5, 3, 4, 4, 3, 7, 5, 3, 10, 3, 13, 2, 4, 3, 2, 3, 7, 2, 4, 4]",123,"[5, 1, 2, 1, 3, 1, 1, 1, 2, 1, 3, 1, 1, 3, 1, 4, 1, 2, 1, 1, 1, 2, 1, 1, 1]",42,0.0,5,2,2,3
+David Reed's note in the original Project Gutenberg 1997 edition:       I want to make this the best etext edition possible for both      scholars and the general public and would like to thank      those who have helped in making this text better.,"[5, 4, 2, 4, 2, 3, 8, 7, 9, 4, 7, 1, 4, 2, 4, 4, 3, 4, 5, 7, 8, 3, 4, 8, 3, 3, 7, 6, 3, 5, 4, 2, 5, 5, 3, 4, 6, 2, 6, 4, 4, 6]",190,"[2, 0, 0, 1, 1, 1, 4, 2, 3, 0, 3, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 1, 2, 1, 1, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2]",58,0.320833333333,17,1,1,1
+Especially      Dale R. Fredrickson who has hand entered the Greek      characters in the footnotes and who has suggested retaining      the conjoined ae character in the text.,"[10, 4, 1, 11, 3, 3, 4, 7, 3, 5, 10, 2, 3, 9, 3, 3, 3, 9, 9, 3, 9, 2, 9, 2, 3, 4]",134,"[5, 1, 0, 3, 1, 1, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1, 1, 2, 3, 1, 2, 1, 3, 1, 1, 1]",41,0.0,5,2,2,3
+A set in my library of the first original First American Edition of 1836 was used as a reference for the many questions which came up during the re-proofing and renovation of the 1996 and 1997 Project Gutenberg editions.,"[1, 3, 2, 2, 7, 2, 3, 5, 8, 5, 8, 7, 2, 4, 3, 4, 2, 1, 9, 3, 3, 4, 9, 5, 4, 2, 6, 3, 11, 3, 10, 2, 3, 4, 3, 4, 7, 9, 8]",181,"[1, 1, 1, 1, 3, 1, 1, 1, 4, 1, 4, 3, 1, 0, 1, 1, 1, 1, 3, 1, 1, 2, 2, 1, 1, 1, 2, 1, 3, 1, 4, 1, 1, 0, 1, 0, 2, 3, 3]",61,0.275,17,1,1,1
+"Images of spines, front-leaf, frontispiece, and the titlepage of the 1836 set are inserted below along with the two large fold out maps.","[6, 2, 6, 10, 12, 3, 3, 9, 2, 3, 4, 3, 3, 8, 5, 5, 4, 3, 3, 5, 4, 3, 4]",110,"[2, 1, 1, 3, 4, 1, 1, 3, 1, 1, 0, 1, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]",33,0.214285714286,2,1,1,1
+"DAVID WIDGER For Project Gutenberg    1996 Project Gutenberg Edition Table of Contents for Ebooks 731-736 ABREVIATED       DETAILED    ABREVIATED CONTENTS  VOLUME ONE Introduction Preface By The Editor, Author and To the First and Fourth Volumes.","[5, 6, 3, 7, 9, 4, 7, 9, 7, 5, 2, 8, 3, 6, 7, 10, 8, 10, 8, 6, 3, 12, 7, 2, 3, 6, 6, 3, 2, 3, 5, 3, 6, 7]",198,"[2, 2, 1, 2, 3, 0, 2, 3, 3, 1, 1, 2, 1, 2, 0, 4, 2, 4, 2, 2, 1, 4, 2, 1, 1, 3, 2, 1, 1, 1, 1, 1, 1, 2]",61,0.216666666667,14,1,1,1
+Chapter I: The Extent Of The Empire In The Age Of The Antonines--Part I.,"[7, 1, 3, 6, 2, 3, 6, 2, 3, 3, 2, 3, 9, 4, 1]",55,"[2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1]",20,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part I.,"[7, 2, 3, 8, 10, 2, 3, 3, 2, 3, 9, 4, 1]",57,"[2, 1, 1, 3, 4, 1, 1, 1, 1, 1, 3, 1, 1]",21,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter III: The Constitution In The Age Of The Antonines.--Part I.,"[7, 3, 3, 12, 2, 3, 3, 2, 3, 9, 4, 1]",52,"[2, 1, 1, 4, 1, 1, 1, 1, 1, 3, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter IV: The Cruelty, Follies And Murder Of Commodus.--Part I.","[7, 2, 3, 7, 7, 3, 6, 2, 8, 4, 1]",50,"[2, 1, 1, 2, 2, 1, 2, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter V: Sale Of The Empire To Didius Julianus.--Part I.,"[7, 1, 4, 2, 3, 6, 2, 6, 8, 4, 1]",44,"[2, 0, 1, 1, 1, 2, 1, 2, 4, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part I.","[7, 2, 5, 2, 7, 7, 2, 9, 10, 2, 8, 4, 1]",66,"[2, 1, 2, 1, 3, 3, 1, 4, 4, 1, 3, 1, 1]",27,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part I.","[7, 3, 7, 2, 7, 9, 5, 4, 5, 2, 7, 4, 1]",63,"[2, 1, 3, 1, 3, 3, 2, 1, 2, 1, 3, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter VIII: State Of Persion And Restoration Of The Monarchy.--Part I.,"[7, 4, 5, 2, 7, 3, 11, 2, 3, 8, 4, 1]",57,"[2, 1, 1, 1, 2, 1, 4, 1, 1, 3, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter IX: State Of Germany Until The Barbarians.--Part I.,"[7, 2, 5, 2, 7, 5, 3, 10, 4, 1]",46,"[2, 1, 1, 1, 3, 2, 1, 4, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus--Part I.","[7, 1, 8, 6, 6, 10, 8, 3, 9, 4, 1]",63,"[2, 0, 3, 2, 2, 5, 4, 1, 4, 1, 1]",25,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part I.","[7, 2, 5, 2, 8, 6, 2, 3, 5, 4, 1]",45,"[2, 1, 1, 1, 2, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part I.","[7, 3, 6, 2, 7, 6, 5, 3, 3, 4, 4, 1]",51,"[2, 1, 1, 1, 3, 2, 2, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XIII: Reign Of Diocletian And This Three Associates.--Part I.,"[7, 4, 5, 2, 10, 3, 4, 5, 10, 4, 1]",55,"[2, 1, 1, 1, 4, 1, 1, 1, 4, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part I.","[7, 3, 3, 8, 2, 3, 4, 4, 7, 2, 3, 6, 4, 1]",57,"[2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XV: Progress Of The Christian Religion.--Part I.,"[7, 2, 8, 2, 3, 9, 8, 4, 1]",44,"[2, 0, 2, 1, 1, 3, 3, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII Part VIII.,"[4, 3, 4, 4]",15,"[1, 1, 1, 1]",4,0.0,0,0,0,0
+Part IX.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"VOLUME TWO  Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.--Part I.","[6, 3, 7, 3, 7, 7, 3, 10, 4, 4, 2, 11, 4, 1]",72,"[2, 1, 2, 1, 2, 2, 1, 3, 1, 2, 1, 3, 1, 1]",23,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Chapter XVII: Foundation Of Constantinople.--Part I.,"[7, 4, 10, 2, 14, 4, 1]",42,"[2, 1, 3, 1, 4, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Chapter XVIII: Character Of Constantine And His Sons.--Part I.,"[7, 5, 9, 2, 11, 3, 3, 4, 4, 1]",49,"[2, 1, 3, 1, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XIX: Constantius Sole Emperor.--Part I.,"[7, 3, 11, 4, 7, 4, 1]",37,"[2, 1, 3, 1, 3, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XX: Conversion Of Constantine.--Part I.,"[7, 2, 10, 2, 11, 4, 1]",37,"[2, 0, 3, 1, 3, 1, 1]",11,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XXI: Persecution Of Heresy, State Of The Church.--Part I.","[7, 3, 11, 2, 6, 5, 2, 3, 6, 4, 1]",50,"[2, 1, 4, 1, 3, 1, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXII: Julian Declared Emperor.--Part I.,"[7, 4, 6, 8, 7, 4, 1]",37,"[2, 1, 3, 2, 3, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXIII: Reign Of Julian.--Part I.,"[7, 5, 5, 2, 6, 4, 1]",30,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter XXIV: The Retreat And Death Of Julian.--Part I.,"[4, 1, 7, 4, 3, 7, 3, 5, 2, 6, 4, 1]",47,"[1, 0, 2, 1, 1, 3, 1, 2, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.  Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.--Part I.","[4, 1, 7, 3, 6, 2, 6, 3, 11, 8, 2, 3, 6, 4, 1]",67,"[1, 0, 2, 0, 1, 1, 3, 1, 5, 3, 1, 1, 2, 1, 1]",23,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXVI: Progress of The Huns.--Part I.,"[7, 4, 8, 2, 3, 4, 4, 1]",33,"[2, 1, 2, 1, 1, 1, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.  VOLUME THREE  Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part I.","[4, 1, 6, 5, 7, 5, 5, 4, 5, 2, 10, 4, 1]",59,"[1, 0, 2, 1, 2, 1, 2, 1, 1, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter XXVIII: Destruction Of Paganism.--Part I.,"[4, 1, 7, 6, 11, 2, 8, 4, 1]",44,"[1, 0, 2, 1, 3, 1, 3, 1, 1]",13,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXIX: Division Of Roman Empire Between Sons Of Theodosius.--Part I.,"[7, 4, 8, 2, 5, 6, 7, 4, 2, 10, 4, 1]",60,"[2, 1, 3, 1, 2, 2, 2, 1, 1, 3, 1, 1]",20,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXX: Revolt Of The Goths.--Part I.,"[7, 3, 6, 2, 3, 5, 4, 1]",31,"[2, 0, 2, 1, 1, 1, 1, 1]",9,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.  Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.--Part I.","[4, 1, 7, 4, 8, 2, 5, 10, 2, 11, 2, 10, 4, 1]",71,"[1, 0, 2, 1, 3, 1, 3, 4, 1, 4, 1, 4, 1, 1]",27,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.--Part I.","[7, 5, 8, 8, 9, 10, 2, 4, 1]",54,"[2, 1, 3, 3, 3, 3, 1, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXXIII: Conquest Of Africa By The Vandals.--Part I.,"[7, 6, 8, 2, 6, 2, 3, 7, 4, 1]",46,"[2, 1, 2, 1, 3, 1, 1, 2, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXXIV: Attila.--Part I.,"[7, 5, 6, 4, 1]",23,"[2, 1, 3, 1, 1]",8,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXXV: Invasion By Attila.--Part I.,"[7, 4, 8, 2, 6, 4, 1]",32,"[2, 0, 3, 1, 3, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXXVI: Total Extinction Of The Western Empire.--Part I.,"[7, 5, 5, 10, 2, 3, 7, 6, 4, 1]",50,"[2, 1, 2, 3, 1, 1, 2, 2, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part I.,"[4, 1, 7, 6, 10, 2, 3, 10, 2, 12, 4, 1]",62,"[1, 0, 2, 1, 3, 1, 1, 4, 1, 5, 1, 1]",21,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXXVIII: Reign Of Clovis.--Part I.,"[7, 7, 5, 2, 6, 4, 1]",32,"[2, 1, 1, 1, 2, 1, 1]",9,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+VOLUME FOUR  Chapter XXXIX: Gothic Kingdom Of Italy.--Part I.,"[6, 4, 7, 5, 6, 7, 2, 5, 4, 1]",47,"[2, 1, 2, 1, 2, 2, 1, 3, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XL: Reign Of Justinian.--Part I.,"[7, 2, 5, 2, 9, 4, 1]",30,"[2, 0, 1, 1, 4, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.  Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part I.","[4, 1, 7, 3, 9, 2, 9, 7, 2, 10, 4, 1]",59,"[1, 0, 2, 1, 2, 1, 4, 2, 1, 4, 1, 1]",20,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter XLII: State Of The Barbaric World.--Part I.,"[4, 1, 7, 4, 5, 2, 3, 8, 5, 4, 1]",44,"[1, 0, 2, 1, 1, 1, 1, 3, 1, 1, 1]",13,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part I.","[7, 5, 4, 7, 3, 5, 2, 10, 5, 2, 9, 4, 1]",64,"[2, 1, 1, 3, 1, 2, 1, 4, 2, 1, 4, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XLIV: Idea Of The Roman Jurisprudence.--Part I.,"[7, 4, 4, 2, 3, 5, 13, 4, 1]",43,"[2, 1, 3, 1, 1, 2, 4, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Chapter XLV: State Of Italy Under The Lombards.--Part I.,"[7, 3, 5, 2, 5, 5, 3, 8, 4, 1]",43,"[2, 0, 1, 1, 3, 2, 1, 2, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XLVI: Troubles In Persia.--Part I.,"[7, 4, 8, 2, 6, 4, 1]",32,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XLVII: Ecclesiastical Discord.--Part I.,"[7, 5, 14, 7, 4, 1]",38,"[2, 1, 6, 2, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part I.,"[7, 6, 10, 3, 10, 2, 3, 5, 8, 4, 1]",59,"[2, 1, 3, 1, 3, 1, 1, 1, 3, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  VOLUME FIVE  Chapter XLIX: Conquest Of Italy By The Franks.--Part I.,"[4, 1, 6, 4, 7, 4, 8, 2, 5, 2, 3, 6, 4, 1]",57,"[1, 0, 2, 1, 2, 1, 2, 1, 3, 1, 1, 1, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Chapter L: Description Of Arabia And Its Inhabitants.--Part I.,"[7, 1, 11, 2, 6, 3, 3, 11, 4, 1]",49,"[2, 0, 3, 1, 4, 1, 1, 4, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Chapter LI: Conquests By The Arabs.--Part I.,"[7, 2, 9, 2, 3, 5, 4, 1]",33,"[2, 1, 2, 1, 1, 2, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LII: More Conquests By The Arabs.--Part I.,"[7, 3, 4, 9, 2, 3, 5, 4, 1]",38,"[2, 1, 1, 2, 1, 1, 2, 1, 1]",12,0.5,6,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter LIII: Fate Of The Eastern Empire.--Part I.,"[4, 1, 7, 4, 4, 2, 3, 7, 6, 4, 1]",43,"[1, 0, 2, 1, 1, 1, 1, 3, 2, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LIV: Origin And Doctrine Of The Paulicians.--Part I.,"[7, 3, 6, 3, 8, 2, 3, 10, 4, 1]",47,"[2, 1, 3, 1, 2, 1, 1, 4, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part I.","[7, 2, 3, 10, 3, 10, 3, 3, 8, 4, 1]",54,"[2, 0, 1, 4, 1, 4, 1, 1, 3, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LVI: The Saracens, The Franks And The Normans.--Part I.","[7, 3, 3, 8, 3, 6, 3, 3, 7, 4, 1]",48,"[2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter LVII: The Turks.--Part I.,"[4, 1, 7, 4, 3, 5, 4, 1]",29,"[1, 0, 2, 1, 1, 1, 1, 1]",8,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LVIII: The First Crusade.--Part I.,"[7, 5, 3, 5, 7, 4, 1]",32,"[2, 1, 1, 1, 2, 1, 1]",9,0.25,12,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  VOLUME SIX  Chapter LIX: The Crusades.--Part I.,"[4, 1, 6, 3, 7, 3, 3, 8, 4, 1]",40,"[1, 0, 2, 1, 2, 1, 1, 2, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LX: The Fourth Crusade.--Part I.,"[7, 2, 3, 6, 7, 4, 1]",30,"[2, 0, 1, 1, 2, 1, 1]",8,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXI: Partition Of The Empire By The French And Venetians.--Part I.,"[7, 3, 9, 2, 3, 6, 2, 3, 6, 3, 9, 4, 1]",58,"[2, 1, 3, 1, 1, 2, 1, 1, 1, 1, 4, 1, 1]",20,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part I.,"[7, 4, 5, 8, 2, 4, 3, 14, 4, 1]",52,"[2, 1, 1, 3, 1, 1, 1, 4, 1, 1]",16,0.3,12,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.--Part I.,"[7, 5, 5, 4, 3, 3, 4, 2, 3, 5, 6, 4, 1]",52,"[2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LXIV: Moguls, Ottoman Turks.--Part I.","[7, 4, 6, 7, 5, 4, 1]",34,"[2, 1, 2, 3, 1, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part I.","[7, 3, 9, 2, 6, 2, 9, 3, 3, 5, 4, 1]",54,"[2, 0, 4, 1, 2, 1, 3, 1, 1, 2, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXVI: Union Of The Greek And Latin Churches.--Part I.,"[7, 4, 5, 2, 3, 5, 3, 5, 8, 4, 1]",47,"[2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXVII: Schism Of The Greeks And Latins.--Part I.,"[7, 5, 6, 2, 3, 6, 3, 6, 4, 1]",43,"[2, 1, 1, 1, 1, 1, 1, 2, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part I.","[7, 6, 5, 2, 7, 3, 6, 10, 2, 7, 6, 4, 1]",66,"[2, 1, 1, 1, 3, 1, 2, 3, 1, 3, 2, 1, 1]",22,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXIX: State Of Rome From The Twelfth Century.--Part I.,"[7, 4, 5, 2, 4, 4, 3, 7, 7, 4, 1]",48,"[2, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part I.,"[7, 3, 5, 10, 2, 3, 14, 5, 4, 1]",54,"[2, 0, 2, 3, 1, 1, 6, 1, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.--Part I.,"[7, 4, 8, 2, 3, 5, 2, 4, 2, 3, 9, 7, 4, 1]",61,"[2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1]",19,-0.15,9,0,0,3
+"Part II    DETAILED CONTENTS  VOLUME ONE Introduction  Preface By The Editor, Author and To the First and Fourth Volumes.","[4, 2, 8, 8, 6, 3, 12, 7, 2, 3, 6, 6, 3, 2, 3, 5, 3, 6, 7]",96,"[1, 1, 2, 2, 2, 1, 4, 2, 1, 1, 3, 2, 1, 1, 1, 1, 1, 1, 2]",30,0.216666666667,2,1,1,1
+Chapter I: The Extent Of The Empire In The Age Of The Antonines--Part I.,"[7, 1, 3, 6, 2, 3, 6, 2, 3, 3, 2, 3, 9, 4, 1]",55,"[2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1]",20,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+The Extent And Military Force Of The Empire In The Age Of      The Antonines.,"[3, 6, 3, 8, 5, 2, 3, 6, 2, 3, 3, 2, 3, 9]",58,"[1, 2, 1, 4, 1, 1, 1, 2, 1, 1, 1, 1, 1, 3]",21,-0.1,9,0,0,3
+Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part I.,"[7, 2, 3, 8, 10, 2, 3, 3, 2, 3, 9, 4, 1]",57,"[2, 1, 1, 3, 4, 1, 1, 1, 1, 1, 3, 1, 1]",21,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Of The Union And Internal Prosperity Of The Roman Empire, In      The Age Of The Antonines.","[2, 3, 5, 3, 8, 10, 2, 3, 5, 6, 2, 3, 3, 2, 3, 9]",69,"[1, 1, 2, 1, 3, 4, 1, 1, 2, 2, 1, 1, 1, 1, 1, 3]",26,0.0,4,0,0,3
+Chapter III: The Constitution In The Age Of The Antonines.--Part I.,"[7, 3, 3, 12, 2, 3, 3, 2, 3, 9, 4, 1]",52,"[2, 1, 1, 4, 1, 1, 1, 1, 1, 3, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Of The Constitution Of The Roman Empire, In The Age Of The      Antonines.","[2, 3, 12, 2, 3, 5, 6, 2, 3, 3, 2, 3, 9]",55,"[1, 1, 4, 1, 1, 2, 2, 1, 1, 1, 1, 1, 3]",20,0.0,10,0,0,3
+"Chapter IV: The Cruelty, Follies And Murder Of Commodus.--Part I.","[7, 2, 3, 7, 7, 3, 6, 2, 8, 4, 1]",50,"[2, 1, 1, 2, 2, 1, 2, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Cruelty, Follies, And Murder Of Commodus--Election Of      Pertinax--His Attempts To Reform The State--His      Assassination By The Praetorian Guards.","[3, 7, 7, 3, 6, 2, 8, 8, 2, 8, 3, 8, 2, 6, 3, 5, 3, 13, 2, 3, 10, 6]",118,"[1, 2, 2, 1, 2, 1, 3, 3, 1, 3, 1, 2, 1, 2, 1, 1, 1, 5, 1, 1, 4, 1]",40,0.0,5,0,0,3
+Chapter V: Sale Of The Empire To Didius Julianus.--Part I.,"[7, 1, 4, 2, 3, 6, 2, 6, 8, 4, 1]",44,"[2, 0, 1, 1, 1, 2, 1, 2, 4, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Public Sale Of The Empire To Didius Julianus By The      Praetorian Guards--Clodius Albinus In Britain, Pescennius      Niger In Syria, And Septimius Severus In Pannonia, Declare      Against The Murderers Of Pertinax--Civil Wars And Victory Of      Severus Over His Three Rivals--Relaxation Of Discipline--New      Maxims Of Government.","[6, 4, 2, 3, 6, 2, 6, 8, 2, 3, 10, 6, 7, 7, 2, 7, 10, 5, 2, 5, 3, 9, 7, 2, 8, 7, 7, 3, 9, 2, 8, 5, 4, 3, 7, 2, 7, 4, 3, 5, 6, 10, 2, 10, 3, 6, 2, 10]",257,"[2, 1, 1, 1, 2, 1, 2, 4, 1, 1, 4, 1, 2, 3, 1, 2, 3, 2, 1, 3, 1, 3, 3, 1, 4, 2, 2, 1, 3, 1, 3, 2, 1, 1, 3, 1, 3, 2, 1, 1, 2, 4, 1, 3, 1, 2, 1, 3]",94,0.0,13,2,2,2
+"Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part I.","[7, 2, 5, 2, 7, 7, 2, 9, 10, 2, 8, 4, 1]",66,"[2, 1, 2, 1, 3, 3, 1, 4, 4, 1, 3, 1, 1]",27,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+The Death Of Severus.--Tyranny Of Caracalla.--Usurpation Of      Macrinus.--Follies Of Elagabalus.--Virtues Of Alexander      Severus.--Licentiousness Of The Army.--General State Of The      Roman Finances.,"[3, 5, 2, 7, 7, 2, 9, 10, 2, 8, 7, 2, 10, 7, 2, 9, 7, 14, 2, 3, 4, 7, 5, 2, 3, 5, 8]",152,"[1, 2, 1, 3, 3, 1, 4, 4, 1, 3, 2, 1, 5, 1, 1, 4, 3, 4, 1, 1, 2, 3, 1, 1, 1, 2, 2]",58,0.0,11,2,2,2
+"Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part I.","[7, 3, 7, 2, 7, 9, 5, 4, 5, 2, 7, 4, 1]",63,"[2, 1, 3, 1, 3, 3, 2, 1, 2, 1, 3, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Elevation And Tyranny Of Maximin.--Rebellion In Africa      And Italy, Under The Authority Of The Senate.--Civil Wars      And Seditions.--Violent Deaths Of Maximin And His Son, Of      Maximus And Balbinus, And Of The Three Gordians.--      Usurpation And Secular Games Of Philip.","[3, 9, 3, 7, 2, 7, 9, 2, 6, 3, 5, 5, 3, 9, 2, 3, 6, 5, 4, 3, 9, 7, 6, 2, 7, 3, 3, 3, 2, 7, 3, 8, 3, 2, 3, 5, 8, 10, 3, 7, 5, 2, 6]",210,"[1, 4, 1, 3, 1, 3, 3, 1, 3, 1, 3, 2, 1, 4, 1, 1, 2, 2, 1, 1, 3, 2, 2, 1, 3, 1, 1, 1, 1, 3, 1, 3, 1, 1, 1, 1, 3, 4, 1, 3, 1, 1, 2]",80,0.0,1,2,2,2
+Chapter VIII: State Of Persion And Restoration Of The Monarchy.--Part I.,"[7, 4, 5, 2, 7, 3, 11, 2, 3, 8, 4, 1]",57,"[2, 1, 1, 1, 2, 1, 4, 1, 1, 3, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Of The State Of Persia After The Restoration Of The Monarchy      By Artaxerxes.,"[2, 3, 5, 2, 6, 5, 3, 11, 2, 3, 8, 2, 10]",62,"[1, 1, 1, 1, 3, 2, 1, 4, 1, 1, 3, 1, 3]",23,0.0,4,0,0,3
+Chapter IX: State Of Germany Until The Barbarians.--Part I.,"[7, 2, 5, 2, 7, 5, 3, 10, 4, 1]",46,"[2, 1, 1, 1, 3, 2, 1, 4, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+The State Of Germany Till The Invasion Of The Barbarians In      The Time Of The Emperor Decius.,"[3, 5, 2, 7, 4, 3, 8, 2, 3, 10, 2, 3, 4, 2, 3, 7, 6]",74,"[1, 1, 1, 3, 1, 1, 3, 1, 1, 4, 1, 1, 1, 1, 1, 3, 2]",27,0.0,4,0,0,3
+"Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus--Part I.","[7, 1, 8, 6, 6, 10, 8, 3, 9, 4, 1]",63,"[2, 0, 3, 2, 2, 5, 4, 1, 4, 1, 1]",25,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Emperors Decius, Gallus, Aemilianus, Valerian, And      Gallienus.--The General Irruption Of The Barbari Ans.--The      Thirty Tyrants.","[3, 8, 6, 6, 10, 8, 3, 9, 3, 7, 9, 2, 3, 7, 3, 3, 6, 7]",103,"[1, 3, 2, 2, 5, 4, 1, 4, 1, 3, 3, 1, 1, 3, 1, 1, 2, 2]",40,0.05,19,0,0,3
+"Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part I.","[7, 2, 5, 2, 8, 6, 2, 3, 5, 4, 1]",45,"[2, 1, 1, 1, 2, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Reign Of Claudius.--Defeat Of The Goths.--Victories,      Triumph, And Death Of Aurelian.","[5, 2, 8, 6, 2, 3, 5, 9, 7, 3, 5, 2, 8]",65,"[1, 1, 2, 3, 1, 1, 1, 3, 1, 1, 2, 1, 4]",22,0.0,4,0,0,3
+"Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part I.","[7, 3, 6, 2, 7, 6, 5, 3, 3, 4, 4, 1]",51,"[2, 1, 1, 1, 3, 2, 2, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Conduct Of The Army And Senate After The Death Of Aurelian.,"[7, 2, 3, 4, 3, 6, 5, 3, 5, 2, 8]",48,"[2, 1, 1, 2, 1, 2, 2, 1, 2, 1, 4]",19,0.0,10,0,0,3
+"--Reigns Of Tacitus, Probus, Carus, And His Sons.","[6, 2, 7, 6, 5, 3, 3, 4]",36,"[1, 1, 3, 2, 2, 1, 1, 1]",12,0.0,16,0,0,3
+Chapter XIII: Reign Of Diocletian And This Three Associates.--Part I.,"[7, 4, 5, 2, 10, 3, 4, 5, 10, 4, 1]",55,"[2, 1, 1, 1, 4, 1, 1, 1, 4, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Reign Of Diocletian And His Three Associates, Maximian,      Galerius, And Constantius.--General Reestablishment Of Order      And Tranquillity.--The Persian War, Victory, And Triumph.--      The New Form Of Administration.--Abdication And Retirement      Of Diocletian And Maximian.","[3, 5, 2, 10, 3, 3, 5, 10, 8, 8, 3, 11, 7, 15, 2, 5, 3, 12, 3, 7, 3, 7, 3, 7, 3, 3, 4, 2, 14, 10, 3, 10, 2, 10, 3, 8]",217,"[1, 1, 1, 4, 1, 1, 1, 4, 4, 3, 1, 3, 3, 4, 1, 2, 1, 4, 1, 3, 1, 3, 1, 1, 1, 1, 1, 1, 5, 4, 1, 4, 1, 4, 1, 4]",78,0.136363636364,8,2,2,2
+"Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part I.","[7, 3, 3, 8, 2, 3, 4, 4, 7, 2, 3, 6, 4, 1]",57,"[2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Troubles After The Abdication Of Diocletian.--Death Of      Constantius.--Elevation Of Constantine And Maxen Tius.--      Six Emperors At The Same Time.--Death Of Maximian And      Galerius.--Victories Of Constantine Over Maxentius And      Licinus.--Reunion Of The Empire Under The Authority Of      Constantine.,"[8, 5, 3, 10, 2, 10, 5, 2, 11, 9, 2, 11, 3, 5, 4, 3, 8, 2, 3, 4, 4, 5, 2, 8, 3, 8, 9, 2, 11, 4, 9, 3, 7, 7, 2, 3, 6, 5, 3, 9, 2, 11]",233,"[1, 2, 1, 4, 1, 4, 2, 1, 3, 4, 1, 3, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 4, 1, 3, 3, 1, 3, 2, 3, 1, 3, 2, 1, 1, 2, 2, 1, 4, 1, 3]",83,0.0,1,2,2,2
+Chapter XV: Progress Of The Christian Religion.--Part I.,"[7, 2, 8, 2, 3, 9, 8, 4, 1]",44,"[2, 0, 2, 1, 1, 3, 3, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII Part VIII.,"[4, 3, 4, 4]",15,"[1, 1, 1, 1]",4,0.0,0,0,0,0
+Part IX.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Progress Of The Christian Religion, And The Sentiments,      Manners, Numbers, And Condition Of The Primitive Christians.","[3, 8, 2, 3, 9, 8, 3, 3, 10, 7, 7, 3, 9, 2, 3, 9, 10]",99,"[1, 2, 1, 1, 3, 3, 1, 1, 3, 2, 2, 1, 3, 1, 1, 3, 3]",32,0.0,19,0,0,3
+"VOLUME TWO  Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.--Part I.","[6, 3, 7, 3, 7, 7, 3, 10, 4, 4, 2, 11, 4, 1]",72,"[2, 1, 2, 1, 2, 2, 1, 3, 1, 2, 1, 3, 1, 1]",23,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+"The Conduct Of The Roman Government Towards The Christians,      From The Reign Of Nero To That Of Constantine.","[3, 7, 2, 3, 5, 10, 7, 3, 10, 4, 3, 5, 2, 4, 2, 4, 2, 11]",87,"[1, 2, 1, 1, 2, 3, 2, 1, 3, 1, 1, 1, 1, 2, 1, 1, 1, 3]",28,0.0,19,0,0,3
+Chapter XVII: Foundation Of Constantinople.--Part I.,"[7, 4, 10, 2, 14, 4, 1]",42,"[2, 1, 3, 1, 4, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Foundation Of Constantinople.--Political System Constantine,      And His Successors.--Military Discipline.--The Palace.--The      Finances.","[10, 2, 14, 9, 6, 11, 3, 3, 10, 8, 10, 3, 6, 3, 8]",106,"[3, 1, 4, 4, 2, 3, 1, 1, 3, 4, 3, 1, 2, 1, 2]",35,0.0,19,0,0,3
+Chapter XVIII: Character Of Constantine And His Sons.--Part I.,"[7, 5, 9, 2, 11, 3, 3, 4, 4, 1]",49,"[2, 1, 3, 1, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Character Of Constantine.--Gothic War.--Death Of      Constantine.--Division Of The Empire Among His Three Sons.--      Persian War.--Tragic Deaths Of Constantine The Younger And      Constans.--Usurpation Of Magnentius.--Civil War.--Victory Of      Constantius.,"[9, 2, 11, 6, 3, 5, 2, 11, 8, 2, 3, 6, 5, 3, 5, 4, 7, 3, 6, 6, 2, 11, 3, 7, 3, 8, 10, 2, 10, 5, 3, 7, 2, 11]",191,"[3, 1, 3, 2, 1, 2, 1, 3, 3, 1, 1, 2, 2, 1, 1, 1, 3, 1, 2, 2, 1, 3, 1, 2, 1, 2, 4, 1, 3, 2, 1, 3, 1, 3]",64,0.0,11,2,2,2
+Chapter XIX: Constantius Sole Emperor.--Part I.,"[7, 3, 11, 4, 7, 4, 1]",37,"[2, 1, 3, 1, 3, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Constantius Sole Emperor.--Elevation And Death Of Gallus.--      Danger And Elevation Of Julian.--Sarmatian And Persian      Wars.--Victories Of Julian In Gaul.,"[11, 4, 7, 9, 3, 5, 2, 6, 6, 3, 9, 2, 6, 9, 3, 7, 4, 9, 2, 6, 2, 4]",119,"[3, 1, 3, 4, 1, 2, 1, 2, 2, 1, 4, 1, 3, 4, 1, 3, 1, 3, 1, 3, 1, 1]",46,0.0,5,2,2,3
+Chapter XX: Conversion Of Constantine.--Part I.,"[7, 2, 10, 2, 11, 4, 1]",37,"[2, 0, 3, 1, 3, 1, 1]",11,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Motives, Progress, And Effects Of The Conversion Of      Constantine.--Legal Establishment And Constitution Of The      Christian Or Catholic Church.","[3, 7, 8, 3, 7, 2, 3, 10, 2, 11, 5, 13, 3, 12, 2, 3, 9, 2, 8, 6]",119,"[1, 2, 2, 1, 2, 1, 1, 3, 1, 3, 2, 4, 1, 4, 1, 1, 3, 1, 3, 1]",38,0.0,5,0,0,3
+"Chapter XXI: Persecution Of Heresy, State Of The Church.--Part I.","[7, 3, 11, 2, 6, 5, 2, 3, 6, 4, 1]",50,"[2, 1, 4, 1, 3, 1, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Persecution Of Heresy.--The Schism Of The Donatists.--The      Arian Controversy.--Athanasius.--Distracted State Of The      Church And Empire Under Constantine And His Sons.--      Toleration Of Paganism.,"[11, 2, 6, 3, 6, 2, 3, 9, 3, 5, 11, 10, 10, 5, 2, 3, 6, 3, 6, 5, 11, 3, 3, 4, 10, 2, 8]",152,"[4, 1, 3, 1, 1, 1, 1, 3, 1, 3, 4, 4, 2, 1, 1, 1, 1, 1, 2, 2, 3, 1, 1, 1, 4, 1, 3]",52,0.0,5,2,2,2
+Chapter XXII: Julian Declared Emperor.--Part I.,"[7, 4, 6, 8, 7, 4, 1]",37,"[2, 1, 3, 2, 3, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Julian Is Declared Emperor By The Legions Of Gaul.--His      March And Success.--The Death Of Constantius.--Civil      Administration Of Julian.,"[6, 2, 8, 7, 2, 3, 7, 2, 4, 3, 5, 3, 7, 3, 5, 2, 11, 5, 14, 2, 6]",107,"[3, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 3, 2, 5, 1, 3]",38,0.0,19,0,0,3
+Chapter XXIII: Reign Of Julian.--Part I.,"[7, 5, 5, 2, 6, 4, 1]",30,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       The Religion Of Julian.--Universal Toleration.--He Attempts      To Restore And Reform The Pagan Worship--To Rebuild The      Temple Of Jerusalem--His Artful Persecution Of The      Christians.--Mutual Zeal And Injustice.,"[4, 1, 3, 8, 2, 6, 9, 10, 2, 8, 2, 7, 3, 6, 3, 5, 7, 2, 7, 3, 6, 2, 9, 3, 6, 11, 2, 3, 10, 6, 4, 3, 9]",172,"[1, 0, 1, 3, 1, 3, 4, 4, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 1, 1, 4, 1, 2, 4, 1, 1, 3, 2, 2, 1, 3]",61,0.0,11,2,2,2
+Chapter XXIV: The Retreat And Death Of Julian.--Part I.,"[7, 4, 3, 7, 3, 5, 2, 6, 4, 1]",42,"[2, 1, 1, 3, 1, 2, 1, 3, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       Residence Of Julian At Antioch.--His Successful Expedition      Against The Persians.--Passage Of The Tigris--The Retreat      And Death Of Julian.--Election Of Jovian.--He Saves The      Roman Army By A Disgraceful Treaty.,"[4, 1, 9, 2, 6, 2, 7, 3, 10, 10, 7, 3, 8, 7, 2, 3, 6, 3, 7, 3, 5, 2, 6, 8, 2, 6, 2, 5, 3, 5, 4, 2, 1, 11, 6]",171,"[1, 0, 3, 1, 3, 1, 2, 1, 3, 4, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 2, 1, 3, 3, 1, 3, 1, 1, 1, 2, 2, 1, 1, 4, 3]",65,0.75,3,1,1,4
+"Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.--Part I.","[7, 3, 6, 2, 6, 3, 11, 8, 2, 3, 6, 4, 1]",62,"[2, 0, 1, 1, 3, 1, 5, 3, 1, 1, 2, 1, 1]",22,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Government And Death Of Jovian.--Election Of      Valentinian, Who Associates His Brother Valens, And Makes      The Final Division Of The Eastern And Western Empires.--      Revolt Of Procopius.--Civil And Ecclesiastical      Administration.--Germany.","[3, 10, 3, 5, 2, 6, 8, 2, 11, 3, 10, 3, 7, 6, 3, 5, 3, 5, 8, 2, 3, 7, 3, 7, 7, 6, 2, 9, 5, 3, 14, 14, 7]",192,"[1, 3, 1, 2, 1, 3, 3, 1, 5, 1, 4, 1, 2, 2, 1, 1, 1, 2, 3, 1, 1, 3, 1, 2, 2, 2, 1, 3, 2, 1, 6, 5, 3]",71,0.0,11,2,2,2
+"--Britain.--Africa.--The East.--      The Danube.--Death Of Valentinian.--His Two Sons, Gratian      And Valentinian II., Succeed To The Western Empire.","[7, 6, 3, 4, 3, 6, 5, 2, 11, 3, 3, 4, 7, 3, 11, 2, 7, 2, 3, 7, 6]",105,"[2, 3, 1, 2, 1, 2, 2, 1, 5, 1, 1, 1, 3, 1, 5, 1, 1, 1, 1, 2, 2]",39,0.0,19,0,0,3
+Chapter XXVI: Progress of The Huns.--Part I.,"[7, 4, 8, 2, 3, 4, 4, 1]",33,"[2, 1, 2, 1, 1, 1, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       Manners Of The Pastoral Nations.--Progress Of The Huns, From      China To Europe.--Flight Of The Goths.--They Pass The      Danube.--Gothic War.--Defeat And Death Of Valens.--Gratian      Invests Theodosius With The Eastern Empire.--His Character      And Success.--Peace And Settlement Of The Goths.","[4, 1, 7, 2, 3, 8, 7, 8, 2, 3, 4, 4, 5, 2, 6, 6, 2, 3, 5, 4, 4, 3, 6, 6, 3, 6, 3, 5, 2, 6, 7, 7, 10, 4, 3, 7, 6, 3, 9, 3, 7, 5, 3, 10, 2, 3, 5]",224,"[1, 0, 2, 1, 1, 3, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 3, 1, 2, 1, 2, 3, 2, 3, 1, 1, 3, 2, 1, 3, 1, 2, 2, 1, 3, 1, 1, 1]",73,0.0,1,2,2,2
+"VOLUME THREE  Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part I.","[6, 5, 7, 5, 5, 4, 5, 2, 10, 4, 1]",54,"[2, 1, 2, 1, 2, 1, 1, 1, 3, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       Death Of Gratian.--Ruin Of Arianism.--St.,"[4, 1, 5, 2, 7, 4, 2, 8, 2]",35,"[1, 0, 2, 1, 3, 1, 1, 4, 0]",13,0.0,16,0,0,3
+"Ambrose.--First      Civil War, Against Maximus.--Character, Administration, And      Penance Of Theodosius.--Death Of Valentinian II.--Second      Civil War, Against Eugenius.--Death Of Theodosius.","[7, 5, 5, 3, 7, 7, 9, 14, 3, 7, 2, 10, 5, 2, 11, 2, 6, 5, 3, 7, 8, 5, 2, 10]",145,"[2, 1, 2, 1, 2, 3, 3, 5, 1, 2, 1, 3, 2, 1, 5, 1, 2, 2, 1, 2, 3, 2, 1, 3]",51,0.0,5,2,2,3
+Chapter XXVIII: Destruction Of Paganism.--Part I.,"[7, 6, 11, 2, 8, 4, 1]",39,"[2, 1, 3, 1, 3, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Final Destruction Of Paganism.--Introduction Of The Worship      Of Saints, And Relics, Among The Christians.","[5, 11, 2, 8, 12, 2, 3, 7, 2, 6, 3, 6, 5, 3, 10]",85,"[2, 3, 1, 3, 4, 1, 1, 2, 1, 1, 1, 2, 2, 1, 3]",28,0.0,19,0,0,3
+Chapter XXIX: Division Of Roman Empire Between Sons Of Theodosius.--Part I.,"[7, 4, 8, 2, 5, 6, 7, 4, 2, 10, 4, 1]",60,"[2, 1, 3, 1, 2, 2, 2, 1, 1, 3, 1, 1]",20,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Final Division Of The Roman Empire Between The Sons Of      Theodosius.--Reign Of Arcadius And Honorius--Administration      Of Rufinus And Stilicho.--Revolt And Defeat Of Gildo In      Africa.,"[5, 8, 2, 3, 5, 6, 7, 3, 4, 2, 10, 5, 2, 8, 3, 8, 14, 2, 7, 3, 8, 6, 3, 6, 2, 5, 2, 6]",145,"[2, 3, 1, 1, 2, 2, 2, 1, 1, 1, 3, 1, 1, 3, 1, 3, 5, 1, 3, 1, 3, 2, 1, 3, 1, 2, 1, 3]",54,0.0,5,2,2,2
+Chapter XXX: Revolt Of The Goths.--Part I.,"[7, 3, 6, 2, 3, 5, 4, 1]",31,"[2, 0, 2, 1, 1, 1, 1, 1]",9,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       Revolt Of The Goths.--They Plunder Greece.--Two Great      Invasions Of Italy By Alaric And Radagaisus.--They Are      Repulsed By Stilicho.--The Germans Overrun Gaul.--Usurpation      Of Constantine In The West.--Disgrace And Death Of Stilicho.,"[4, 1, 6, 2, 3, 5, 4, 7, 6, 3, 5, 9, 2, 5, 2, 6, 3, 10, 4, 3, 8, 2, 8, 3, 7, 7, 4, 10, 2, 11, 2, 3, 4, 8, 3, 5, 2, 8]",187,"[1, 0, 2, 1, 1, 1, 1, 2, 1, 1, 2, 3, 1, 3, 1, 3, 1, 4, 1, 1, 2, 1, 3, 1, 2, 3, 1, 4, 1, 3, 1, 1, 1, 2, 1, 2, 1, 3]",64,0.8,3,1,1,4
+"Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.--Part I.","[7, 4, 8, 2, 5, 10, 2, 11, 2, 10, 4, 1]",66,"[2, 1, 3, 1, 3, 4, 1, 4, 1, 4, 1, 1]",26,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Invasion Of Italy By Alaric.--Manners Of The Roman Senate      And People.--Rome Is Thrice Besieged, And At Length      Pillaged, By The Goths.--Death Of Alaric.--The Goths      Evacuate Italy.--Fall Of Constantine.--Gaul And Spain Are      Occupied By The Barbarians.","[8, 2, 5, 2, 6, 7, 2, 3, 5, 6, 3, 6, 4, 2, 6, 8, 3, 2, 6, 8, 2, 3, 5, 5, 2, 6, 3, 5, 8, 5, 4, 2, 11, 4, 3, 5, 3, 8, 2, 3, 10]",193,"[3, 1, 3, 1, 3, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 2, 1, 3, 1, 1, 3, 3, 1, 1, 3, 1, 1, 1, 1, 3, 1, 1, 4]",67,0.0,11,2,2,2
+--Independence Of Britain.,"[12, 2, 7]",21,"[4, 1, 2]",7,0.0,16,0,0,0
+"Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.--Part I.","[7, 5, 8, 8, 9, 10, 2, 4, 1]",54,"[2, 1, 3, 3, 3, 3, 1, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Arcadius Emperor Of The East.--Administration And Disgrace      Of Eutropius.--Revolt Of Gainas.--Persecution Of St. John      Chrysostom.--Theodosius II.,"[8, 7, 2, 3, 4, 14, 3, 8, 2, 9, 6, 2, 6, 11, 2, 2, 4, 10, 10, 2]",115,"[3, 3, 1, 1, 2, 5, 1, 2, 1, 3, 2, 1, 2, 4, 1, 0, 1, 3, 3, 1]",40,0.0,5,0,0,3
+"Emperor Of The East.--His Sister      Pulcheria.--His Wife Eudocia.--The Persian War, And Division      Of Armenia.","[7, 2, 3, 4, 3, 6, 9, 3, 4, 7, 3, 7, 3, 3, 8, 2, 7]",81,"[3, 1, 1, 2, 1, 2, 4, 1, 1, 4, 1, 3, 1, 1, 3, 1, 4]",34,0.0,19,0,0,3
+Chapter XXXIII: Conquest Of Africa By The Vandals.--Part I.,"[7, 6, 8, 2, 6, 2, 3, 7, 4, 1]",46,"[2, 1, 2, 1, 3, 1, 1, 2, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Death Of Honorius.--Valentinian III.--Emperor Of The East.,"[5, 2, 8, 11, 3, 7, 2, 3, 4]",45,"[2, 1, 3, 5, 1, 3, 1, 1, 2]",19,0.0,10,0,0,3
+-      -Administration Of His Mother Placidia--Aetius And      Boniface.--Conquest Of Africa By The Vandals.,"[14, 2, 3, 6, 8, 6, 3, 8, 8, 2, 6, 2, 3, 7]",78,"[5, 1, 1, 2, 4, 2, 1, 3, 2, 1, 3, 1, 1, 2]",29,0.0,4,0,0,3
+Chapter XXXIV: Attila.--Part I.,"[7, 5, 6, 4, 1]",23,"[2, 1, 3, 1, 1]",8,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Character, Conquests, And Court Of Attila, King Of The      Huns.--Death Of Theodosius The Younger.--Elevation Of      Marcian To The Empire Of The East.","[3, 9, 9, 3, 5, 2, 6, 4, 2, 3, 4, 5, 2, 10, 3, 7, 9, 2, 7, 2, 3, 6, 2, 3, 4]",115,"[1, 3, 2, 1, 1, 1, 3, 1, 1, 1, 1, 2, 1, 3, 1, 2, 4, 1, 3, 1, 1, 2, 1, 1, 2]",41,0.0,5,0,0,3
+Chapter XXXV: Invasion By Attila.--Part I.,"[7, 4, 8, 2, 6, 4, 1]",32,"[2, 0, 3, 1, 3, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Invasion Of Gaul By Attila.--He Is Repulsed By Aetius And      The Visigoths.--Attila Invades And Evacuates Italy.--The      Deaths Of Attila, Aetius, And Valentinian The Third.","[8, 2, 4, 2, 6, 2, 2, 8, 2, 6, 3, 3, 9, 6, 7, 3, 9, 5, 3, 6, 2, 6, 6, 3, 11, 3, 5]",132,"[3, 1, 1, 1, 3, 1, 1, 2, 1, 2, 1, 1, 3, 3, 2, 1, 3, 3, 1, 2, 1, 3, 2, 1, 5, 1, 1]",50,0.0,5,2,2,3
+Chapter XXXVI: Total Extinction Of The Western Empire.--Part I.,"[7, 5, 5, 10, 2, 3, 7, 6, 4, 1]",50,"[2, 1, 2, 3, 1, 1, 2, 2, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       Sack Of Rome By Genseric, King Of The Vandals.--His Naval      Depredations.--Succession Of The Last Emperors Of The West,      Maximus, Avitus, Majorian, Severus, Anthemius, Olybrius,      Glycerius, Nepos, Augustulus.--Total Extinction Of The      Western Empire.--Reign Of Odoacer, The First Barbarian King      Of Italy.","[4, 1, 4, 2, 4, 2, 8, 4, 2, 3, 7, 3, 5, 12, 10, 2, 3, 4, 8, 2, 3, 4, 7, 6, 8, 7, 9, 8, 9, 5, 10, 5, 10, 2, 3, 7, 6, 5, 2, 7, 3, 5, 9, 4, 2, 5]",241,"[1, 0, 1, 1, 1, 1, 3, 1, 1, 1, 2, 1, 2, 4, 3, 1, 1, 1, 3, 1, 1, 1, 3, 3, 4, 3, 3, 3, 3, 2, 4, 2, 3, 1, 1, 2, 2, 1, 1, 3, 1, 1, 4, 1, 1, 3]",87,-0.1125,13,2,2,2
+Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part I.,"[7, 6, 10, 2, 3, 10, 2, 12, 4, 1]",57,"[2, 1, 3, 1, 1, 4, 1, 5, 1, 1]",20,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Origin Progress, And Effects Of The Monastic Life.--      Conversion Of The Barbarians To Christianity And Arianism.--      Persecution Of The Vandals In Africa.--Extinction Of      Arianism Among The Barbarians.","[6, 8, 3, 7, 2, 3, 8, 4, 10, 2, 3, 10, 2, 12, 3, 8, 11, 2, 3, 7, 2, 6, 10, 2, 8, 5, 3, 10]",160,"[3, 2, 1, 2, 1, 1, 3, 1, 3, 1, 1, 4, 1, 5, 1, 4, 4, 1, 1, 2, 1, 3, 3, 1, 4, 2, 1, 4]",61,0.0,11,2,2,2
+Chapter XXXVIII: Reign Of Clovis.--Part I.,"[7, 7, 5, 2, 6, 4, 1]",32,"[2, 1, 1, 1, 2, 1, 1]",9,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Reign And Conversion Of Clovis.--His Victories Over The      Alemanni, Burgundians, And Visigoths.--Establishment Of The      French Monarchy In Gaul.--Laws Of The Barbarians.--State Of      The Romans.--The Visigoths Of Spain.--Conquest Of Britain By      The Saxons.","[5, 3, 10, 2, 6, 3, 9, 4, 3, 8, 11, 3, 9, 13, 2, 3, 6, 8, 2, 4, 4, 2, 3, 10, 5, 2, 3, 6, 3, 9, 2, 5, 8, 2, 7, 2, 3, 6]",196,"[1, 1, 3, 1, 2, 1, 3, 2, 1, 4, 4, 1, 3, 4, 1, 1, 1, 3, 1, 1, 1, 1, 1, 4, 1, 1, 1, 2, 1, 3, 1, 1, 2, 1, 2, 1, 1, 2]",66,0.0,11,2,2,2
+VOLUME FOUR  Chapter XXXIX: Gothic Kingdom Of Italy.--Part I.,"[6, 4, 7, 5, 6, 7, 2, 5, 4, 1]",47,"[2, 1, 2, 1, 2, 2, 1, 3, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Zeno And Anastasius, Emperors Of The East.--Birth,      Education, And First Exploits Of Theodoric The Ostrogoth.--      His Invasion And Conquest Of Italy.--The Gothic Kingdom Of      Italy.--State Of The West.--Military And Civil Government.--      The Senator Boethius.--Last Acts And Death Of Theodoric.","[4, 3, 10, 8, 2, 3, 4, 5, 9, 3, 5, 8, 2, 9, 3, 9, 3, 8, 3, 8, 2, 5, 3, 6, 7, 2, 5, 5, 2, 3, 4, 8, 3, 5, 10, 3, 7, 8, 4, 4, 3, 5, 2, 9]",224,"[2, 1, 4, 3, 1, 1, 2, 1, 4, 1, 1, 2, 1, 3, 1, 3, 1, 3, 1, 2, 1, 3, 1, 2, 2, 1, 3, 1, 1, 1, 1, 4, 1, 2, 3, 1, 3, 2, 1, 1, 1, 2, 1, 3]",80,0.25,14,1,1,1
+Chapter XL: Reign Of Justinian.--Part I.,"[7, 2, 5, 2, 9, 4, 1]",30,"[2, 0, 1, 1, 4, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       Elevation Of Justin The Elder.--Reign Of Justinian.--I.,"[4, 1, 9, 2, 6, 3, 5, 5, 2, 9, 1]",47,"[1, 0, 4, 1, 2, 1, 2, 1, 1, 4, 1]",18,0.0,10,0,0,3
+The      Empress Theodora.--II.,"[3, 7, 8, 2]",20,"[1, 2, 3, 1]",7,0.0,16,0,0,0
+"Factions Of The Circus, And Sedition      Of Constantinople.--III.","[8, 2, 3, 6, 3, 8, 2, 14, 3]",49,"[2, 1, 1, 2, 1, 3, 1, 4, 1]",16,0.0,10,0,0,3
+Trade And Manufacture Of Silk.--      IV.,"[5, 3, 11, 2, 4, 2]",27,"[1, 1, 4, 1, 1, 1]",9,0.0,16,0,0,0
+Finances And Taxes.--V.,"[8, 3, 5, 1]",17,"[2, 1, 1, 0]",4,0.0,0,0,0,0
+Edifices Of Justinian.--Church      Of St.,"[8, 2, 9, 6, 2, 2]",29,"[3, 1, 4, 1, 1, 0]",10,0.0,16,0,0,0
+"Sophia.--Fortifications And Frontiers Of The Eastern      Empire.--Abolition Of The Schools Of Athens, And The      Consulship Of Rome.","[6, 14, 3, 9, 2, 3, 7, 6, 9, 2, 3, 7, 2, 6, 3, 3, 10, 2, 4]",101,"[3, 5, 1, 3, 1, 1, 3, 2, 4, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1]",36,0.0,19,0,0,3
+"Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part I.","[7, 3, 9, 2, 9, 7, 2, 10, 4, 1]",54,"[2, 1, 2, 1, 4, 2, 1, 4, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       Conquests Of Justinian In The West.--Character And First      Campaigns Of Belisarius--He Invades And Subdues The Vandal      Kingdom Of Africa--His Triumph.--The Gothic War.--He      Recovers Sicily, Naples, And Rome.--Siege Of Rome By The      Goths.--Their Retreat And Losses.--Surrender Of Ravenna.--      Glory Of Belisarius.--His Domestic Shame And Misfortunes.","[4, 1, 9, 2, 9, 2, 3, 4, 9, 3, 5, 9, 2, 10, 2, 7, 3, 7, 3, 6, 7, 2, 6, 3, 7, 3, 6, 3, 2, 8, 6, 6, 3, 4, 5, 2, 4, 2, 3, 5, 5, 7, 3, 6, 9, 2, 7, 5, 2, 10, 3, 8, 5, 3, 11]",273,"[1, 0, 2, 1, 4, 1, 1, 1, 3, 1, 1, 2, 1, 4, 1, 2, 1, 1, 1, 2, 2, 1, 3, 1, 1, 1, 2, 1, 1, 3, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 3, 1, 3, 2, 1, 4, 1, 3, 1, 1, 3]",89,0.125,8,2,2,2
+Chapter XLII: State Of The Barbaric World.--Part I.,"[7, 4, 5, 2, 3, 8, 5, 4, 1]",39,"[2, 1, 1, 1, 1, 3, 1, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"State Of The Barbaric World.--Establishment Of The Lombards      On the Danube.--Tribes And Inroads Of The Sclavonians.--      Origin, Empire, And Embassies Of The Turks.--The Flight Of      The Avars.--Chosroes I, Or Nushirvan, King Of Persia.--His      Prosperous Reign And Wars With The Romans.--The Colchian Or      Lazic War.--The Aethiopians.","[5, 2, 3, 8, 5, 13, 2, 3, 8, 2, 3, 6, 6, 3, 7, 2, 3, 11, 6, 6, 3, 9, 2, 3, 5, 3, 6, 2, 3, 5, 8, 1, 2, 9, 4, 2, 6, 3, 10, 5, 3, 4, 4, 3, 6, 3, 8, 2, 5, 3, 3, 11]",250,"[1, 1, 1, 3, 1, 4, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 4, 3, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 3, 1, 3, 1, 1, 1, 1, 1, 2, 1, 3, 1, 2, 1, 1, 4]",82,0.0,1,2,2,2
+"Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part I.","[7, 5, 4, 7, 3, 5, 2, 10, 5, 2, 9, 4, 1]",64,"[2, 1, 1, 3, 1, 2, 1, 4, 2, 1, 4, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Rebellions Of Africa.--Restoration Of The Gothic Kingdom By      Totila.--Loss And Recovery Of Rome.--Final Conquest Of Italy      By Narses.--Extinction Of The Ostrogoths.--Defeat Of The      Franks And Alemanni.--Last Victory, Disgrace, And Death Of      Belisarius.--Death And Character Of Justinian.--Comet,      Earthquakes, And Plague.","[10, 2, 6, 11, 2, 3, 6, 7, 2, 6, 4, 3, 8, 2, 4, 5, 8, 2, 5, 2, 6, 10, 2, 3, 10, 6, 2, 3, 6, 3, 8, 4, 7, 8, 3, 5, 2, 10, 5, 3, 9, 2, 9, 5, 11, 3, 6]",249,"[3, 1, 3, 4, 1, 1, 2, 2, 1, 3, 1, 1, 4, 1, 1, 2, 2, 1, 3, 1, 1, 3, 1, 1, 3, 3, 1, 1, 1, 1, 4, 1, 3, 2, 1, 2, 1, 4, 2, 1, 3, 1, 4, 2, 3, 1, 1]",90,0.0,13,2,2,2
+Chapter XLIV: Idea Of The Roman Jurisprudence.--Part I.,"[7, 4, 4, 2, 3, 5, 13, 4, 1]",43,"[2, 1, 3, 1, 1, 2, 4, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+"Idea Of The Roman Jurisprudence.--The Laws Of The Kings--The      Twelve Of The Decemvirs.--The Laws Of The People.--The      Decrees Of The Senate.--The Edicts Of The Magistrates And      Emperors--Authority Of The Civilians.--Code, Pandects,      Novels, And Institutes Of Justinian:--I.","[4, 2, 3, 5, 13, 3, 4, 2, 3, 5, 3, 6, 2, 3, 9, 3, 4, 2, 3, 6, 3, 7, 2, 3, 6, 3, 6, 2, 3, 11, 3, 8, 9, 2, 3, 9, 4, 8, 6, 3, 10, 2, 9, 1]",208,"[3, 1, 1, 2, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 3, 1, 3, 4, 1, 1, 4, 1, 2, 2, 1, 3, 1, 4, 1]",71,0.0,1,2,2,2
+Rights Of      Persons.--II.,"[6, 2, 7, 2]",17,"[1, 1, 2, 1]",5,0.0,0,0,0,0
+Rights Of Things.--III.,"[6, 2, 6, 3]",17,"[1, 1, 1, 1]",4,0.0,0,0,0,0
+Private Injuries And      Actions.--IV.,"[7, 8, 3, 7, 2]",27,"[2, 3, 1, 2, 1]",9,0.0,16,0,0,0
+Crimes And Punishments.,"[6, 3, 11]",20,"[1, 1, 3]",5,0.0,0,0,0,0
+Chapter XLV: State Of Italy Under The Lombards.--Part I.,"[7, 3, 5, 2, 5, 5, 3, 8, 4, 1]",43,"[2, 0, 1, 1, 3, 2, 1, 2, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Reign Of The Younger Justin.--Embassy Of The Avars.--Their      Settlement On The Danube.--Conquest Of Italy By The      Lombards.--Adoption And Reign Of Tiberius.--Of Maurice.--      State Of Italy Under The Lombards And The Exarchs.--Of      Ravenna.--Distress Of Rome.--Character And Pontificate Of      Gregory The First.,"[5, 2, 3, 7, 6, 7, 2, 3, 5, 5, 10, 2, 3, 6, 8, 2, 5, 2, 3, 8, 8, 3, 5, 2, 8, 2, 7, 5, 2, 5, 5, 3, 8, 3, 3, 7, 2, 7, 8, 2, 4, 9, 3, 11, 2, 7, 3, 5]",233,"[1, 1, 1, 2, 2, 3, 1, 1, 2, 1, 3, 1, 1, 2, 2, 1, 3, 1, 1, 2, 3, 1, 1, 1, 3, 1, 2, 1, 1, 3, 2, 1, 2, 1, 1, 2, 1, 3, 2, 1, 1, 3, 1, 4, 1, 3, 1, 1]",80,0.125,8,2,2,2
+Chapter XLVI: Troubles In Persia.--Part I.,"[7, 4, 8, 2, 6, 4, 1]",32,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Revolutions On Persia After The Death Of Chosroes On      Nushirvan.--His Son Hormouz, A Tyrant, Is Deposed.--      Usurpation Of Baharam.--Flight And Restoration Of Chosroes      II.--His Gratitude To The Romans.--The Chagan Of The Avars.-      -Revolt Of The Army Against Maurice.--His Death.--Tyranny Of      Phocas.--Elevation Of Heraclius.--The Persian War.--Chosroes      Subdues Syria, Egypt, And Asia Minor.--Siege Of      Constantinople By The Persians And Avars.--Persian      Expeditions.--Victories And Triumph Of Heraclius.","[11, 2, 6, 5, 3, 5, 2, 8, 2, 9, 3, 3, 7, 1, 6, 2, 7, 10, 2, 7, 6, 3, 11, 2, 8, 2, 3, 9, 2, 3, 6, 3, 6, 2, 3, 5, 6, 2, 3, 4, 7, 7, 3, 5, 7, 2, 6, 9, 2, 9, 3, 7, 3, 8, 7, 5, 5, 3, 4, 5, 5, 2, 14, 2, 3, 8, 3, 5, 7, 11, 9, 3, 7, 2, 9]",387,"[4, 1, 3, 2, 1, 2, 1, 1, 1, 3, 1, 1, 2, 1, 2, 1, 2, 4, 1, 3, 1, 1, 4, 1, 1, 1, 1, 3, 1, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 2, 2, 2, 1, 2, 3, 1, 2, 4, 1, 3, 1, 3, 1, 1, 1, 3, 2, 1, 3, 2, 2, 1, 4, 1, 1, 3, 1, 2, 3, 4, 3, 1, 1, 1, 3]",137,0.0,15,2,2,2
+Chapter XLVII: Ecclesiastical Discord.--Part I.,"[7, 5, 14, 7, 4, 1]",38,"[2, 1, 6, 2, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Theological History Of The Doctrine Of The Incarnation.--The      Human And Divine Nature Of Christ.--Enmity Of The Patriarchs      Of Alexandria And Constantinople.--St.,"[11, 7, 2, 3, 8, 2, 3, 11, 3, 5, 3, 6, 6, 2, 6, 6, 2, 3, 10, 2, 10, 3, 14, 2]",130,"[4, 3, 1, 1, 2, 1, 1, 4, 1, 2, 1, 2, 2, 1, 1, 3, 1, 1, 3, 1, 5, 1, 4, 0]",46,0.0,5,2,2,3
+Cyril And Nestorius.,"[5, 3, 9]",17,"[2, 1, 3]",6,0.0,0,0,0,0
+--Third General Council Of Ephesus.--Heresy Of Eutyches.--      Fourth General Council Of Chalcedon.--Civil And      Ecclesiastical Discord.--Intolerance Of Justinian.--The      Three Chapters.--The Monothelite Controversy.--State Of The      Oriental Sects:--I.,"[5, 7, 7, 2, 7, 6, 2, 8, 6, 7, 7, 2, 9, 5, 3, 14, 7, 11, 2, 9, 3, 5, 8, 3, 11, 11, 5, 2, 3, 8, 5, 1]",191,"[1, 3, 2, 1, 3, 3, 1, 2, 1, 3, 2, 1, 3, 2, 1, 6, 2, 4, 1, 4, 1, 1, 2, 1, 4, 4, 1, 1, 1, 4, 1, 1]",68,0.025,11,2,2,2
+The Nestorians.--II.,"[3, 10, 2]",15,"[1, 4, 1]",6,0.0,0,0,0,0
+The Jacobites.--      III.,"[3, 9, 3]",15,"[1, 3, 1]",5,0.0,0,0,0,0
+The Maronites.--IV.,"[3, 9, 2]",14,"[1, 3, 1]",5,0.0,0,0,0,0
+The Armenians.--V.,"[3, 9, 1]",13,"[1, 4, 0]",5,0.0,0,0,0,0
+The Copts And      Abyssinians.,"[3, 5, 3, 11]",22,"[1, 1, 1, 5]",8,0.0,16,0,0,0
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part I.,"[7, 6, 10, 3, 10, 2, 3, 5, 8, 4, 1]",59,"[2, 1, 3, 1, 3, 1, 1, 1, 3, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       Plan Of The Two Last Volumes.--Succession And Characters Of      The Greek Emperors Of Constantinople, From The Time Of      Heraclius To The Latin Conquest.","[4, 1, 4, 2, 3, 3, 4, 7, 10, 3, 10, 2, 3, 5, 8, 2, 14, 4, 3, 4, 2, 9, 2, 3, 5, 8]",125,"[1, 0, 1, 1, 1, 1, 1, 2, 3, 1, 3, 1, 1, 1, 3, 1, 4, 1, 1, 1, 1, 3, 1, 1, 2, 2]",39,0.0,5,0,0,3
+VOLUME FIVE  Chapter XLIX: Conquest Of Italy By The Franks.--Part I.,"[6, 4, 7, 4, 8, 2, 5, 2, 3, 6, 4, 1]",52,"[2, 1, 2, 1, 2, 1, 3, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Introduction, Worship, And Persecution Of Images.--Revolt Of      Italy And Rome.--Temporal Dominion Of The Popes.--Conquest      Of Italy By The Franks.--Establishment Of Images.--Character      And Coronation Of Charlemagne.--Restoration And Decay Of The      Roman Empire In The West.--Independence Of Italy.--      Constitution Of The Germanic Body.","[12, 7, 3, 11, 2, 6, 6, 2, 5, 3, 4, 8, 8, 2, 3, 5, 8, 2, 5, 2, 3, 6, 13, 2, 6, 9, 3, 10, 2, 11, 11, 3, 5, 2, 3, 5, 6, 2, 3, 4, 12, 2, 5, 12, 2, 3, 8, 4]",261,"[4, 2, 1, 4, 1, 2, 2, 1, 3, 1, 1, 3, 3, 1, 1, 1, 2, 1, 3, 1, 1, 1, 4, 1, 2, 3, 1, 4, 1, 3, 4, 1, 2, 1, 1, 2, 2, 1, 1, 1, 4, 1, 3, 4, 1, 1, 3, 2]",94,0.0,13,2,2,2
+Chapter L: Description Of Arabia And Its Inhabitants.--Part I.,"[7, 1, 11, 2, 6, 3, 3, 11, 4, 1]",49,"[2, 0, 3, 1, 4, 1, 1, 4, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+"Description Of Arabia And Its Inhabitants.--Birth,      Character, And Doctrine Of Mahomet.--He Preaches At Mecca.--      Flies To Medina.--Propagates His Religion By The Sword.--      Voluntary Or Reluctant Submission Of The Arabs.--His Death      And Successors.--The Claims And Fortunes Of All And His      Descendants.","[11, 2, 6, 3, 3, 11, 5, 9, 3, 8, 2, 7, 2, 8, 2, 5, 5, 2, 6, 10, 3, 8, 2, 3, 5, 9, 2, 9, 10, 2, 3, 5, 3, 5, 3, 10, 3, 6, 3, 8, 2, 3, 3, 3, 11]",234,"[3, 1, 4, 1, 1, 4, 1, 3, 1, 2, 1, 3, 1, 2, 1, 2, 1, 1, 3, 3, 1, 3, 1, 1, 1, 4, 1, 3, 3, 1, 1, 2, 1, 2, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 3]",80,0.0,1,2,2,2
+Chapter LI: Conquests By The Arabs.--Part I.,"[7, 2, 9, 2, 3, 5, 4, 1]",33,"[2, 1, 2, 1, 1, 2, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Conquest Of Persia, Syria, Egypt, Africa, And Spain, By      The Arabs Or Saracens.--Empire Of The Caliphs, Or Successors      Of Mahomet.--State Of The Christians, &c., Under Their      Government.","[3, 8, 2, 6, 5, 5, 6, 3, 5, 2, 3, 5, 2, 8, 6, 2, 3, 7, 2, 10, 2, 7, 5, 2, 3, 10, 1, 5, 5, 10]",143,"[1, 2, 1, 3, 3, 2, 3, 1, 1, 1, 1, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 3, 1, 1, 1, 3, 0, 2, 1, 3]",51,0.0,5,2,2,3
+Chapter LII: More Conquests By The Arabs.--Part I.,"[7, 3, 4, 9, 2, 3, 5, 4, 1]",38,"[2, 1, 1, 2, 1, 1, 2, 1, 1]",12,0.5,6,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       The Two Sieges Of Constantinople By The Arabs.--Their      Invasion Of France, And Defeat By Charles Martel.--Civil War      Of The Ommiades And Abbassides.--Learning Of The Arabs.--      Luxury Of The Caliphs.--Naval Enterprises On Crete, Sicily,      And Rome.--Decay And Division Of The Empire Of The Caliphs.","[4, 1, 3, 3, 6, 2, 14, 2, 3, 5, 5, 8, 2, 6, 3, 6, 2, 7, 6, 5, 3, 2, 3, 8, 3, 10, 8, 2, 3, 5, 6, 2, 3, 7, 5, 11, 2, 5, 6, 3, 4, 5, 3, 8, 2, 3, 6, 2, 3, 7]",233,"[1, 0, 1, 1, 2, 1, 4, 1, 1, 2, 1, 3, 1, 1, 1, 3, 1, 1, 2, 2, 1, 1, 1, 3, 1, 3, 3, 1, 1, 2, 3, 1, 1, 2, 2, 3, 1, 1, 3, 1, 1, 2, 1, 3, 1, 1, 2, 1, 1, 2]",80,0.0,1,2,2,2
+--Defeats And Victories Of The Greek Emperors.,"[7, 3, 9, 2, 3, 5, 8]",37,"[3, 1, 3, 1, 1, 1, 3]",13,0.0,16,0,0,3
+Chapter LIII: Fate Of The Eastern Empire.--Part I.,"[7, 4, 4, 2, 3, 7, 6, 4, 1]",38,"[2, 1, 1, 1, 1, 3, 2, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Fate Of The Eastern Empire In The Tenth Century.--Extent And      Division.--Wealth And Revenue.--Palace Of Constantinople.--      Titles And Offices.--Pride And Power Of The Emperors.--      Tactics Of The Greeks, Arabs, And Franks.--Loss Of The Latin      Tongue.--Studies And Solitude Of The Greeks.","[4, 2, 3, 7, 6, 2, 3, 5, 7, 6, 3, 8, 6, 3, 7, 6, 2, 14, 6, 3, 7, 5, 3, 5, 2, 3, 8, 7, 2, 3, 6, 5, 3, 6, 4, 2, 3, 5, 6, 7, 3, 8, 2, 3, 6]",217,"[1, 1, 1, 3, 2, 1, 1, 1, 3, 2, 1, 3, 2, 1, 2, 2, 1, 4, 1, 1, 2, 1, 1, 2, 1, 1, 3, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 3, 1, 1, 1]",69,0.0,1,2,2,2
+Chapter LIV: Origin And Doctrine Of The Paulicians.--Part I.,"[7, 3, 6, 3, 8, 2, 3, 10, 4, 1]",47,"[2, 1, 3, 1, 2, 1, 1, 4, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Origin And Doctrine Of The Paulicians.--Their Persecution By      The Greek Emperors.--Revolt In Armenia &c.--Transplantation      Into Thrace.--Propagation In The West.--The Seeds,      Character, And Consequences Of The Reformation.","[6, 3, 8, 2, 3, 10, 5, 11, 2, 3, 5, 8, 6, 2, 7, 1, 15, 4, 6, 11, 2, 3, 4, 3, 5, 9, 3, 12, 2, 3, 11]",175,"[3, 1, 2, 1, 1, 4, 1, 4, 1, 1, 1, 3, 2, 1, 4, 0, 4, 2, 1, 4, 1, 1, 1, 1, 1, 3, 1, 3, 1, 1, 4]",59,0.0,11,2,2,2
+"Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part I.","[7, 2, 3, 10, 3, 10, 3, 3, 8, 4, 1]",54,"[2, 0, 1, 4, 1, 4, 1, 1, 3, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Bulgarians.--Origin, Migrations, And Settlement Of The      Hungarians.--Their Inroads In The East And West.--The      Monarchy Of Russia.--Geography And Trade.--Wars Of The      Russians Against The Greek Empire.--Conversion Of The      Barbarians.","[3, 10, 6, 10, 3, 10, 2, 3, 10, 5, 7, 2, 3, 4, 3, 4, 3, 8, 2, 6, 9, 3, 5, 4, 2, 3, 8, 7, 3, 5, 6, 10, 2, 3, 10]",184,"[1, 4, 3, 3, 1, 3, 1, 1, 4, 1, 2, 1, 1, 2, 1, 1, 1, 3, 1, 3, 3, 1, 1, 1, 1, 1, 3, 2, 1, 1, 2, 3, 1, 1, 4]",64,0.0,11,2,2,2
+"Chapter LVI: The Saracens, The Franks And The Normans.--Part I.","[7, 3, 3, 8, 3, 6, 3, 3, 7, 4, 1]",48,"[2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       The Saracens, Franks, And Greeks, In Italy.--First      Adventures And Settlement Of The Normans.--Character And      Conquest Of Robert Guiscard, Duke Of Apulia--Deliverance Of      Sicily By His Brother Roger.--Victories Of Robert Over The      Emperors Of The East And West.--Roger, King Of Sicily,      Invades Africa And Greece.--The Emperor Manuel Comnenus.--      Wars Of The Greeks And Normans.--Extinction Of The Normans.","[4, 1, 3, 8, 6, 3, 6, 2, 5, 5, 10, 3, 10, 2, 3, 7, 9, 3, 8, 2, 6, 8, 4, 2, 6, 11, 2, 6, 2, 3, 7, 5, 9, 2, 6, 4, 3, 8, 2, 3, 4, 3, 4, 5, 4, 2, 6, 7, 6, 3, 6, 3, 7, 6, 8, 4, 2, 3, 6, 3, 7, 10, 2, 3, 7]",320,"[1, 0, 1, 3, 1, 1, 1, 1, 3, 1, 3, 1, 3, 1, 1, 2, 3, 1, 2, 1, 2, 2, 1, 1, 4, 4, 1, 3, 1, 1, 2, 2, 3, 1, 2, 2, 1, 3, 1, 1, 2, 1, 1, 2, 1, 1, 3, 2, 3, 1, 1, 1, 3, 2, 3, 1, 1, 1, 1, 1, 2, 3, 1, 1, 2]",110,0.0,18,2,2,2
+Chapter LVII: The Turks.--Part I.,"[7, 4, 3, 5, 4, 1]",24,"[2, 1, 1, 1, 1, 1]",7,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Turks Of The House Of Seljuk.--Their Revolt Against      Mahmud Conqueror Of Hindostan.--Togrul Subdues Persia, And      Protects The Caliphs.--Defeat And Captivity Of The Emperor      Romanus Diogenes By Alp Arslan.--Power And Magnificence Of      Malek Shah.--Conquest Of Asia Minor And Syria.--State And      Oppression Of Jerusalem.--Pilgrimages To The Holy Sepulchre.","[3, 5, 2, 3, 5, 2, 6, 5, 6, 7, 6, 9, 2, 9, 6, 7, 6, 3, 8, 3, 7, 6, 3, 9, 2, 3, 7, 7, 8, 2, 3, 6, 5, 3, 12, 2, 5, 4, 8, 2, 4, 5, 3, 5, 5, 3, 10, 2, 9, 11, 2, 3, 4, 9]",282,"[1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 1, 3, 2, 1, 3, 1, 2, 1, 2, 3, 1, 4, 1, 1, 3, 3, 2, 1, 1, 2, 2, 1, 4, 1, 2, 1, 2, 1, 3, 2, 1, 3, 1, 1, 3, 1, 4, 3, 1, 1, 2, 2]",98,-0.05,13,2,2,2
+Chapter LVIII: The First Crusade.--Part I.,"[7, 5, 3, 5, 7, 4, 1]",32,"[2, 1, 1, 1, 2, 1, 1]",9,0.25,12,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       Origin And Numbers Of The First Crusade.--Characters Of The      Latin Princes.--Their March To Constantinople.--Policy Of      The Greek Emperor Alexius.--Conquest Of Nice, Antioch, And      Jerusalem, By The Franks.--Deliverance Of The Holy      Sepulchre.-- Godfrey Of Bouillon, First King Of Jerusalem.--      Institutions Of The French Or Latin Kingdom.","[4, 1, 6, 3, 7, 2, 3, 5, 7, 10, 2, 3, 5, 7, 5, 5, 2, 14, 6, 2, 3, 5, 7, 7, 8, 2, 4, 7, 3, 9, 2, 3, 6, 11, 2, 3, 4, 9, 7, 2, 8, 5, 4, 2, 9, 12, 2, 3, 6, 2, 5, 7]",268,"[1, 0, 3, 1, 2, 1, 1, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1, 4, 3, 1, 1, 1, 3, 3, 2, 1, 1, 2, 1, 4, 1, 1, 1, 4, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 4, 4, 1, 1, 1, 1, 2, 2]",87,0.22,14,2,2,2
+VOLUME SIX  Chapter LIX: The Crusades.--Part I.,"[6, 3, 7, 3, 3, 8, 4, 1]",35,"[2, 1, 2, 1, 1, 2, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Preservation Of The Greek Empire.--Numbers, Passage, And      Event, Of The Second And Third Crusades.--St.","[12, 2, 3, 5, 6, 7, 7, 3, 5, 2, 3, 6, 3, 5, 8, 2]",79,"[4, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 1, 1, 2, 0]",24,0.0,4,0,0,3
+Bernard.--      Reign Of Saladin In Egypt And Syria.--His Conquest Of      Jerusalem.--Naval Crusades.--Richard The First Of England.--      Pope Innocent The Third; And The Fourth And Fifth Crusades.-      -The Emperor Frederic The Second.--Louis The Ninth Of      France; And The Two Last Crusades.--Expulsion Of The Latins      Or Franks By The Mamelukes.,"[7, 5, 2, 7, 2, 5, 3, 5, 3, 8, 2, 9, 5, 8, 7, 3, 5, 2, 7, 4, 8, 3, 5, 3, 3, 6, 3, 5, 8, 3, 7, 8, 3, 6, 5, 3, 5, 2, 6, 3, 3, 3, 4, 8, 9, 2, 3, 6, 2, 6, 2, 3, 9]",254,"[2, 1, 1, 3, 1, 2, 1, 3, 1, 2, 1, 4, 2, 2, 2, 1, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 2, 1, 3, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1, 3]",81,0.15,8,2,2,2
+Chapter LX: The Fourth Crusade.--Part I.,"[7, 2, 3, 6, 7, 4, 1]",30,"[2, 0, 1, 1, 2, 1, 1]",8,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Schism Of The Greeks And Latins.--State Of Constantinople.--      Revolt Of The Bulgarians.--Isaac Angelus Dethroned By His      Brother Alexius.--Origin Of The Fourth Crusade.--Alliance Of      The French And Venetians With The Son Of Isaac.--Their Naval      Expedition To Constantinople.--The Two Sieges And Final      Conquest Of The City By The Latins.,"[6, 2, 3, 6, 3, 6, 5, 2, 14, 6, 2, 3, 10, 5, 7, 9, 2, 3, 7, 7, 6, 2, 3, 6, 7, 8, 2, 3, 6, 3, 9, 4, 3, 3, 2, 5, 5, 5, 10, 2, 14, 3, 3, 6, 3, 5, 8, 2, 3, 4, 2, 3, 6]",264,"[1, 1, 1, 1, 1, 2, 1, 1, 4, 2, 1, 1, 4, 2, 3, 2, 1, 1, 2, 3, 3, 1, 1, 1, 2, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 2, 1, 2, 4, 1, 4, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 1, 2]",89,0.0,13,2,2,2
+Chapter LXI: Partition Of The Empire By The French And Venetians.--Part I.,"[7, 3, 9, 2, 3, 6, 2, 3, 6, 3, 9, 4, 1]",58,"[2, 1, 3, 1, 1, 2, 1, 1, 1, 1, 4, 1, 1]",20,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Partition Of The Empire By The French And Venetians,--Five      Latin Emperors Of The Houses Of Flanders And Courtenay.--      Their Wars Against The Bulgarians And Greeks.--Weakness And      Poverty Of The Latin Empire.--Recovery Of Constantinople By      The Greeks.--General Consequences Of The Crusades.","[9, 2, 3, 6, 2, 3, 6, 3, 9, 4, 5, 8, 2, 3, 6, 2, 8, 3, 9, 5, 4, 7, 3, 10, 3, 6, 8, 3, 7, 2, 3, 5, 6, 8, 2, 14, 2, 3, 6, 7, 12, 2, 3, 8]",232,"[3, 1, 1, 2, 1, 1, 1, 1, 4, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 1, 1, 2, 1, 4, 1, 1, 3, 1, 3, 1, 1, 2, 2, 4, 1, 4, 1, 1, 1, 3, 3, 1, 1, 2]",77,0.0,1,2,2,2
+Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part I.,"[7, 4, 5, 8, 2, 4, 3, 14, 4, 1]",52,"[2, 1, 1, 3, 1, 1, 1, 4, 1, 1]",16,0.3,12,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+The Greek Emperors Of Nice And Constantinople.--Elevation      And Reign Of Michael Palaeologus.--His False Union With The      Pope And The Latin Church.--Hostile Designs Of Charles Of      Anjou.--Revolt Of Sicily.--War Of The Catalans In Asia And      Greece.--Revolutions And Present State Of Athens.,"[3, 5, 8, 2, 4, 3, 14, 9, 3, 5, 2, 7, 11, 3, 5, 5, 4, 3, 4, 3, 3, 5, 6, 7, 7, 2, 7, 2, 5, 6, 2, 6, 3, 2, 3, 8, 2, 4, 3, 6, 11, 3, 7, 5, 2, 6]",226,"[1, 1, 3, 1, 1, 1, 4, 4, 1, 1, 1, 2, 4, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 2, 1, 3, 1, 1, 1, 3, 1, 3, 1, 1, 4, 1, 2, 1, 1, 2]",75,0.05,1,2,2,2
+Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.--Part I.,"[7, 5, 5, 4, 3, 3, 4, 2, 3, 5, 6, 4, 1]",52,"[2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Civil Wars, And Ruin Of The Greek Empire.--Reigns Of      Andronicus, The Elder And Younger, And John Palaeologus.--      Regency, Revolt, Reign, And Abdication Of John Cantacuzene.--      Establishment Of A Genoese Colony At Pera Or Galata.--Their      Wars With The Empire And City Of Constantinople.","[5, 4, 3, 4, 2, 3, 5, 6, 6, 2, 10, 3, 5, 3, 7, 3, 4, 11, 7, 6, 5, 3, 10, 2, 4, 11, 13, 2, 1, 7, 6, 2, 4, 2, 6, 5, 4, 4, 3, 6, 3, 4, 2, 14]",222,"[2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 4, 1, 2, 1, 2, 1, 1, 4, 3, 2, 1, 1, 4, 1, 1, 4, 4, 1, 1, 2, 3, 1, 2, 1, 3, 1, 1, 1, 1, 2, 1, 2, 1, 4]",77,0.0,1,2,2,2
+"Chapter LXIV: Moguls, Ottoman Turks.--Part I.","[7, 4, 6, 7, 5, 4, 1]",34,"[2, 1, 2, 3, 1, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Conquests Of Zingis Khan And The Moguls From China To      Poland.--Escape Of Constantinople And The Greeks.--Origin Of      The Ottoman Turks In Bithynia.--Reigns And Victories Of      Othman, Orchan, Amurath The First, And Bajazet The First.--      Foundation And Progress Of The Turkish Monarchy In Asia And      Europe.--Danger Of Constantinople And The Greek Empire.","[9, 2, 6, 4, 3, 3, 6, 4, 5, 2, 6, 6, 2, 14, 3, 3, 6, 6, 2, 3, 7, 5, 2, 8, 6, 3, 9, 2, 6, 6, 7, 3, 5, 3, 7, 3, 5, 10, 3, 8, 2, 3, 7, 8, 2, 4, 3, 6, 6, 2, 14, 3, 3, 5, 6]",277,"[2, 1, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 4, 1, 1, 1, 3, 1, 1, 3, 1, 1, 4, 1, 1, 3, 1, 2, 2, 3, 1, 1, 1, 3, 1, 1, 3, 1, 2, 1, 1, 2, 3, 1, 3, 1, 2, 2, 1, 4, 1, 1, 1, 2]",93,0.166666666667,8,2,2,2
+"Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part I.","[7, 3, 9, 2, 6, 2, 9, 3, 3, 5, 4, 1]",54,"[2, 0, 4, 1, 2, 1, 3, 1, 1, 2, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Elevation Of Timour Or Tamerlane To The Throne Of      Samarcand.--His Conquests In Persia, Georgia, Tartary      Russia, India, Syria, And Anatolia.--His Turkish War.--      Defeat And Captivity Of Bajazet.--Death Of Timour.--Civil      War Of The Sons Of Bajazet.--Restoration Of The Turkish      Monarchy By Mahomet The First.--Siege Of Constantinople By      Amurath The Second.","[9, 2, 6, 2, 9, 2, 3, 6, 2, 9, 3, 9, 2, 6, 7, 7, 6, 5, 5, 3, 8, 3, 7, 3, 6, 3, 9, 2, 7, 5, 2, 6, 5, 3, 2, 3, 4, 2, 7, 11, 2, 3, 7, 8, 2, 7, 3, 5, 5, 2, 14, 2, 7, 3, 6]",277,"[4, 1, 2, 1, 3, 1, 1, 1, 1, 3, 1, 2, 1, 3, 3, 3, 3, 3, 3, 1, 5, 1, 2, 1, 3, 1, 4, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 1, 3, 4, 1, 1, 2, 3, 1, 3, 1, 1, 2, 1, 4, 1, 3, 1, 2]",108,0.0,18,2,2,2
+Chapter LXVI: Union Of The Greek And Latin Churches.--Part I.,"[7, 4, 5, 2, 3, 5, 3, 5, 8, 4, 1]",47,"[2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Applications Of The Eastern Emperors To The Popes.--Visits      To The West, Of John The First, Manuel, And John The Second,      Palaeologus.--Union Of The Greek And Latin Churches, Promoted      By The Council Of Basil, And Concluded At Ferrara And      Florence.--State Of Literature At Constantinople.--Its      Revival In Italy By The Greek Fugitives.--Curiosity And      Emulation Of The Latins.","[12, 2, 3, 7, 8, 2, 3, 5, 6, 2, 3, 4, 2, 4, 3, 5, 6, 3, 4, 3, 6, 11, 5, 2, 3, 5, 3, 5, 8, 8, 2, 3, 7, 2, 5, 3, 9, 2, 7, 3, 8, 5, 2, 10, 2, 14, 3, 7, 2, 5, 2, 3, 5, 9, 9, 3, 9, 2, 3, 6]",295,"[4, 1, 1, 3, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 4, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 1, 4, 1, 4, 1, 3, 1, 3, 1, 1, 1, 3, 4, 1, 4, 1, 1, 2]",101,0.0625,7,2,2,2
+Chapter LXVII: Schism Of The Greeks And Latins.--Part I.,"[7, 5, 6, 2, 3, 6, 3, 6, 4, 1]",43,"[2, 1, 1, 1, 1, 1, 1, 2, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Schism Of The Greeks And Latins.--Reign And Character Of      Amurath The Second.--Crusade Of Ladislaus, King Of Hungary.-      -His Defeat And Death.--John Huniades.--Scanderbeg.--      Constantine Palaeologus, Last Emperor Of The East.","[6, 2, 3, 6, 3, 6, 5, 3, 9, 2, 7, 3, 6, 7, 2, 9, 4, 2, 7, 3, 6, 3, 5, 4, 8, 10, 11, 11, 4, 7, 2, 3, 4]",173,"[1, 1, 1, 1, 1, 2, 1, 1, 3, 1, 3, 1, 2, 2, 1, 3, 1, 1, 3, 1, 3, 1, 2, 1, 3, 3, 3, 4, 1, 3, 1, 1, 2]",59,0.0,11,2,2,2
+"Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part I.","[7, 6, 5, 2, 7, 3, 6, 10, 2, 7, 6, 4, 1]",66,"[2, 1, 1, 1, 3, 1, 2, 3, 1, 3, 2, 1, 1]",22,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Reign And Character Of Mahomet The Second.--Siege, Assault,      And Final Conquest, Of Constantinople By The Turks.--Death      Of Constantine Palaeologus.--Servitude Of The Greeks.--      Extinction Of The Roman Empire In The East.--Consternation      Of Europe.--Conquests And Death Of Mahomet The Second.","[5, 3, 9, 2, 7, 3, 6, 5, 7, 3, 5, 8, 2, 14, 2, 3, 5, 5, 2, 11, 11, 9, 2, 3, 6, 10, 2, 3, 5, 6, 2, 3, 4, 13, 2, 6, 9, 3, 5, 2, 7, 3, 6]",229,"[1, 1, 3, 1, 3, 1, 2, 2, 2, 1, 2, 2, 1, 4, 1, 1, 1, 2, 1, 3, 4, 3, 1, 1, 1, 3, 1, 1, 2, 2, 1, 1, 2, 4, 1, 2, 2, 1, 2, 1, 3, 1, 2]",77,0.0,1,2,2,2
+Chapter LXIX: State Of Rome From The Twelfth Century.--Part I.,"[7, 4, 5, 2, 4, 4, 3, 7, 7, 4, 1]",48,"[2, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"State Of Rome From The Twelfth Century.--Temporal Dominion      Of The Popes.--Seditions Of The City.--Political Heresy Of      Arnold Of Brescia.--Restoration Of The Republic.--The      Senators.--Pride Of The Romans.--Their Wars.--They Are      Deprived Of The Election And Presence Of The Popes, Who      Retire To Avignon.--The Jubilee.--Noble Families Of Rome.--      Feud Of The Colonna And Ursini.","[5, 2, 4, 4, 3, 7, 7, 8, 8, 2, 3, 5, 9, 2, 3, 4, 9, 6, 2, 6, 2, 7, 11, 2, 3, 8, 3, 8, 5, 2, 3, 6, 5, 4, 4, 3, 8, 2, 3, 8, 3, 8, 2, 3, 5, 3, 6, 2, 7, 3, 7, 5, 8, 2, 4, 4, 2, 3, 7, 3, 6]",289,"[1, 1, 1, 1, 1, 1, 3, 3, 3, 1, 1, 1, 3, 1, 1, 2, 4, 3, 1, 2, 1, 3, 4, 1, 1, 3, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 2, 1, 1, 1, 1, 2, 1, 3, 1, 3, 1, 3, 1, 1, 1, 1, 1, 3, 1, 3]",101,0.0,18,2,2,2
+Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part I.,"[7, 3, 5, 10, 2, 3, 14, 5, 4, 1]",54,"[2, 0, 2, 3, 1, 1, 6, 1, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Character And Coronation Of Petrarch.--Restoration Of The      Freedom And Government Of Rome By The Tribune Rienzi.--His      Virtues And Vices, His Expulsion And Death.--Return Of The      Popes From Avignon.--Great Schism Of The West.--Reunion Of      The Latin Church.--Last Struggles Of Roman Liberty.--      Statutes Of Rome.--Final Settlement Of The Ecclesiastical      State.","[9, 3, 10, 2, 8, 11, 2, 3, 7, 3, 10, 2, 4, 2, 3, 7, 6, 3, 7, 3, 5, 3, 9, 3, 5, 6, 2, 3, 5, 4, 7, 5, 6, 2, 3, 4, 7, 2, 3, 5, 6, 4, 9, 2, 5, 7, 8, 2, 4, 5, 10, 2, 3, 14, 5]",280,"[3, 1, 4, 1, 2, 4, 1, 1, 2, 1, 3, 1, 1, 1, 1, 2, 3, 1, 1, 1, 1, 1, 3, 1, 2, 2, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 3, 2, 1, 1, 2, 3, 1, 1, 6, 1]",91,0.0,13,2,2,2
+Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.--Part I.,"[7, 4, 8, 2, 3, 5, 2, 4, 2, 3, 9, 7, 4, 1]",61,"[2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1]",19,-0.15,9,0,0,3
+Part II       Prospect Of The Ruins Of Rome In The Fifteenth Century.--      Four Causes Of Decay And Destruction.--Example Of The      Coliseum.--Renovation Of The City.--Conclusion Of The Whole      Work.,"[4, 2, 8, 2, 3, 5, 2, 4, 2, 3, 9, 7, 4, 6, 2, 5, 3, 11, 7, 2, 3, 8, 10, 2, 3, 4, 10, 2, 3, 5, 4]",145,"[1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1, 1, 2, 1, 3, 2, 1, 1, 3, 4, 1, 1, 2, 3, 1, 1, 1, 1]",47,0.025,5,2,2,3
+***********************************************    1997 Project Gutenberg Edition Table of Contents for Ebooks 890-895 ABREVIATED DETAILED    ABREVIATED CONTENTS:  VOLUME ONE Introduction Preface By The Editor Preface Of The Author Preface To The First Volume   Chapter I: The Extent Of The Empire In The Age Of The Antoninies.--Part I.,"[4, 7, 9, 7, 5, 2, 8, 3, 6, 7, 10, 8, 10, 8, 6, 3, 12, 7, 2, 3, 6, 7, 2, 3, 6, 7, 2, 3, 5, 6, 7, 1, 3, 6, 2, 3, 6, 2, 3, 3, 2, 3, 10, 4, 1]",230,"[0, 2, 3, 3, 1, 1, 2, 1, 2, 0, 4, 2, 4, 2, 2, 1, 4, 2, 1, 1, 3, 2, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 4, 1, 1]",75,0.325,17,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part I.,"[7, 2, 3, 8, 10, 2, 3, 3, 2, 3, 9, 4, 1]",57,"[2, 1, 1, 3, 4, 1, 1, 1, 1, 1, 3, 1, 1]",21,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter III: The Constitution In The Age Of The Antonines.--Part I.,"[7, 3, 3, 12, 2, 3, 3, 2, 3, 9, 4, 1]",52,"[2, 1, 1, 4, 1, 1, 1, 1, 1, 3, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter IV: The Cruelty, Follies And Murder Of Commodus.--Part I.","[7, 2, 3, 7, 7, 3, 6, 2, 8, 4, 1]",50,"[2, 1, 1, 2, 2, 1, 2, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter V: Sale Of The Empire To Didius Julianus.--Part I.,"[7, 1, 4, 2, 3, 6, 2, 6, 8, 4, 1]",44,"[2, 0, 1, 1, 1, 2, 1, 2, 4, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part I.","[7, 2, 5, 2, 7, 7, 2, 9, 10, 2, 8, 4, 1]",66,"[2, 1, 2, 1, 3, 3, 1, 4, 4, 1, 3, 1, 1]",27,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part I.","[7, 3, 7, 2, 7, 9, 5, 4, 5, 2, 7, 4, 1]",63,"[2, 1, 3, 1, 3, 3, 2, 1, 2, 1, 3, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter VIII: State Of Persion And Restoration Of The Monarchy.--Part I.,"[7, 4, 5, 2, 7, 3, 11, 2, 3, 8, 4, 1]",57,"[2, 1, 1, 1, 2, 1, 4, 1, 1, 3, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter IX: State Of Germany Until The Barbarians.--Part I.,"[7, 2, 5, 2, 7, 5, 3, 10, 4, 1]",46,"[2, 1, 1, 1, 3, 2, 1, 4, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Chapter X: Emperors Decius, Gallus, AEmilianus, Valerian And Gallienus.--Part I.","[7, 1, 8, 6, 6, 10, 8, 3, 9, 4, 1]",63,"[2, 0, 3, 2, 2, 5, 4, 1, 4, 1, 1]",25,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part I.","[7, 2, 5, 2, 8, 6, 2, 3, 5, 4, 1]",45,"[2, 1, 1, 1, 2, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part I.","[7, 3, 6, 2, 7, 6, 5, 3, 3, 4, 4, 1]",51,"[2, 1, 1, 1, 3, 2, 2, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XIII: Reign Of Diocletian And This Three Associates.--Part I.,"[7, 4, 5, 2, 10, 3, 4, 5, 10, 4, 1]",55,"[2, 1, 1, 1, 4, 1, 1, 1, 4, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part I.","[7, 3, 3, 8, 2, 3, 4, 4, 7, 2, 3, 6, 4, 1]",57,"[2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XV: Progress Of The Christian Religion.--Part I.,"[7, 2, 8, 2, 3, 9, 8, 4, 1]",44,"[2, 0, 2, 1, 1, 3, 3, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Part IX.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"VOLUME TWO  Chapter XVI--Conduct Towards The Christians, From Nero To Constantine.--Part I.","[6, 3, 7, 3, 7, 7, 3, 10, 4, 4, 2, 11, 4, 1]",72,"[2, 1, 2, 1, 2, 2, 1, 3, 1, 2, 1, 3, 1, 1]",23,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Chapter XVII: Foundation Of Constantinople.--Part I.,"[7, 4, 10, 2, 14, 4, 1]",42,"[2, 1, 3, 1, 4, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Chapter XVIII: Character Of Constantine And His Sons.--Part I.,"[7, 5, 9, 2, 11, 3, 3, 4, 4, 1]",49,"[2, 1, 3, 1, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XIX: Constantius Sole Emperor.--Part I. PartII.,"[7, 3, 11, 4, 7, 4, 1, 6]",43,"[2, 1, 3, 1, 3, 1, 1, 2]",14,0.0,10,0,0,3
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XX: Conversion Of Constantine.--Part I.,"[7, 2, 10, 2, 11, 4, 1]",37,"[2, 0, 3, 1, 3, 1, 1]",11,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+PartIV.,[6],6,[2],2,0.0,0,0,0,0
+"Chapter XXI: Persecution Of Heresy, State Of The Church.--Part I.","[7, 3, 11, 2, 6, 5, 2, 3, 6, 4, 1]",50,"[2, 1, 4, 1, 3, 1, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXII: Julian Declared Emperor.--Part I Part II.,"[7, 4, 6, 8, 7, 4, 1, 4, 2]",43,"[2, 1, 3, 2, 3, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXIII: Reign Of Julian.--Part I.,"[7, 5, 5, 2, 6, 4, 1]",30,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter XXIV: The Retreat And Death Of Julian.--Part I.,"[4, 1, 7, 4, 3, 7, 3, 5, 2, 6, 4, 1]",47,"[1, 0, 2, 1, 1, 3, 1, 2, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.  Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.--Part I.","[4, 1, 7, 3, 6, 2, 6, 3, 11, 8, 2, 3, 6, 4, 1]",67,"[1, 0, 2, 0, 1, 1, 3, 1, 5, 3, 1, 1, 2, 1, 1]",23,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXVI: Progress of The Huns.--Part I.,"[7, 4, 8, 2, 3, 4, 4, 1]",33,"[2, 1, 2, 1, 1, 1, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.  VOLUME THREE  Chapter XVI--Conduct Towards The Christians, From Nero To Constantine.--Part I.","[4, 1, 6, 5, 7, 3, 7, 7, 3, 10, 4, 4, 2, 11, 4, 1]",79,"[1, 0, 2, 1, 2, 1, 2, 2, 1, 3, 1, 2, 1, 3, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Chapter XVII: Foundation Of Constantinople.--Part I.,"[7, 4, 10, 2, 14, 4, 1]",42,"[2, 1, 3, 1, 4, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Chapter XVIII: Character Of Constantine And His Sons.--Part I.,"[7, 5, 9, 2, 11, 3, 3, 4, 4, 1]",49,"[2, 1, 3, 1, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XIX: Constantius Sole Emperor.--Part I. PartII.,"[7, 3, 11, 4, 7, 4, 1, 6]",43,"[2, 1, 3, 1, 3, 1, 1, 2]",14,0.0,10,0,0,3
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XX: Conversion Of Constantine.--Part I.,"[7, 2, 10, 2, 11, 4, 1]",37,"[2, 0, 3, 1, 3, 1, 1]",11,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+PartIV.,[6],6,[2],2,0.0,0,0,0,0
+"Chapter XXI: Persecution Of Heresy, State Of The Church.--Part I.","[7, 3, 11, 2, 6, 5, 2, 3, 6, 4, 1]",50,"[2, 1, 4, 1, 3, 1, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXII: Julian Declared Emperor.--Part I Part II.,"[7, 4, 6, 8, 7, 4, 1, 4, 2]",43,"[2, 1, 3, 2, 3, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXIII: Reign Of Julian.--Part I.,"[7, 5, 5, 2, 6, 4, 1]",30,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter XXIV: The Retreat And Death Of Julian.--Part I.,"[4, 1, 7, 4, 3, 7, 3, 5, 2, 6, 4, 1]",47,"[1, 0, 2, 1, 1, 3, 1, 2, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.  Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.--Part I.","[4, 1, 7, 3, 6, 2, 6, 3, 11, 8, 2, 3, 6, 4, 1]",67,"[1, 0, 2, 0, 1, 1, 3, 1, 5, 3, 1, 1, 2, 1, 1]",23,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XXVI: Progress of The Huns.--Part I.,"[7, 4, 8, 2, 3, 4, 4, 1]",33,"[2, 1, 2, 1, 1, 1, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  VOLUME FOUR  Chapter XXXIX: Gothic Kingdom Of Italy.--Part I.,"[4, 1, 6, 4, 7, 5, 6, 7, 2, 5, 4, 1]",52,"[1, 0, 2, 1, 2, 1, 2, 2, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XL: Reign Of Justinian.--Part I.,"[7, 2, 5, 2, 9, 4, 1]",30,"[2, 0, 1, 1, 4, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.  Chapter XLI: Conquests Of Justinian, Character Of Balisarius.--Part I.","[4, 1, 7, 3, 9, 2, 9, 9, 2, 10, 4, 1]",61,"[1, 0, 2, 1, 2, 1, 4, 3, 1, 4, 1, 1]",21,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Chapter XLII: State Of The Barbaric World.--Part I.,"[7, 4, 5, 2, 3, 8, 5, 4, 1]",39,"[2, 1, 1, 1, 1, 3, 1, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part I.","[7, 5, 4, 7, 3, 5, 2, 10, 5, 2, 9, 4, 1]",64,"[2, 1, 1, 3, 1, 2, 1, 4, 2, 1, 4, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XLIV: Idea Of The Roman Jurisprudence.--Part I.,"[7, 4, 4, 2, 3, 5, 13, 4, 1]",43,"[2, 1, 3, 1, 1, 2, 4, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Chapter XLV: State Of Italy Under The Lombards.--Part I.,"[7, 3, 5, 2, 5, 5, 3, 8, 4, 1]",43,"[2, 0, 1, 1, 3, 2, 1, 2, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter XLVI: Troubles In Persia.--Part I.,"[7, 4, 8, 2, 6, 4, 1]",32,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter XLVII: Ecclesiastical Discord.--Part I.,"[7, 5, 14, 7, 4, 1]",38,"[2, 1, 6, 2, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part I.,"[7, 6, 10, 3, 10, 2, 3, 5, 8, 4, 1]",59,"[2, 1, 3, 1, 3, 1, 1, 1, 3, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part VI.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+VOLUME FIVE  Chapter XLIX: Conquest Of Italy By The Franks.--Part I.,"[6, 4, 7, 4, 8, 2, 5, 2, 3, 6, 4, 1]",52,"[2, 1, 2, 1, 2, 1, 3, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Chapter L: Description Of Arabia And Its Inhabitants.--Part I.,"[7, 1, 11, 2, 6, 3, 3, 11, 4, 1]",49,"[2, 0, 3, 1, 4, 1, 1, 4, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Chapter LI: Conquests By The Arabs.--Part I.,"[7, 2, 9, 2, 3, 5, 4, 1]",33,"[2, 1, 2, 1, 1, 2, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Part IX.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LII: More Conquests By The Arabs.--Part I.,"[7, 3, 4, 9, 2, 3, 5, 4, 1]",38,"[2, 1, 1, 2, 1, 1, 2, 1, 1]",12,0.5,6,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter LIII: Fate Of The Eastern Empire.--Part I.,"[4, 1, 7, 4, 4, 2, 3, 7, 6, 4, 1]",43,"[1, 0, 2, 1, 1, 1, 1, 3, 2, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LIV: Origin And Doctrine Of The Paulicians.--Part I.,"[7, 3, 6, 3, 8, 2, 3, 10, 4, 1]",47,"[2, 1, 3, 1, 2, 1, 1, 4, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part I.","[7, 2, 3, 10, 3, 10, 3, 3, 8, 4, 1]",54,"[2, 0, 1, 4, 1, 4, 1, 1, 3, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LVI: The Saracens, The Franks And The Normans.--Part I.","[7, 3, 3, 8, 3, 6, 3, 3, 7, 4, 1]",48,"[2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  Chapter LVII: The Turks.--Part I.,"[4, 1, 7, 4, 3, 5, 4, 1]",29,"[1, 0, 2, 1, 1, 1, 1, 1]",8,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LVIII: The First Crusade.--Part I.,"[7, 5, 3, 5, 7, 4, 1]",32,"[2, 1, 1, 1, 2, 1, 1]",9,0.25,12,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.  VOLUME SIX  Chapter LIX: The Crusades.--Part I.,"[4, 1, 6, 3, 7, 3, 3, 8, 4, 1]",40,"[1, 0, 2, 1, 2, 1, 1, 2, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LX: The Fourth Crusade.--Part I.,"[7, 2, 3, 6, 7, 4, 1]",30,"[2, 0, 1, 1, 2, 1, 1]",8,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXI: Partition Of The Empire By The French And Venetians.--Part I.,"[7, 3, 9, 2, 3, 6, 2, 3, 6, 3, 9, 4, 1]",58,"[2, 1, 3, 1, 1, 2, 1, 1, 1, 1, 4, 1, 1]",20,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part I.,"[7, 4, 5, 8, 2, 4, 3, 14, 4, 1]",52,"[2, 1, 1, 3, 1, 1, 1, 4, 1, 1]",16,0.3,12,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.--Part I.,"[7, 5, 5, 4, 3, 3, 4, 2, 3, 5, 6, 4, 1]",52,"[2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LXIV: Moguls, Ottoman Turks.--Part I.","[7, 4, 6, 7, 5, 4, 1]",34,"[2, 1, 2, 3, 1, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part I.","[7, 3, 9, 2, 6, 2, 9, 3, 3, 5, 4, 1]",54,"[2, 0, 4, 1, 2, 1, 3, 1, 1, 2, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXVI: Union Of The Greek And Latin Churches.--Part I.,"[7, 4, 5, 2, 3, 5, 3, 5, 8, 4, 1]",47,"[2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXVII: Schism Of The Greeks And Latins.--Part I.,"[7, 5, 6, 2, 3, 6, 3, 6, 4, 1]",43,"[2, 1, 1, 1, 1, 1, 1, 2, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part I.","[7, 6, 5, 2, 7, 3, 6, 10, 2, 7, 6, 4, 1]",66,"[2, 1, 1, 1, 3, 1, 2, 3, 1, 3, 2, 1, 1]",22,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXIX: State Of Rome From The Twelfth Century.--Part I.,"[7, 4, 5, 2, 4, 4, 3, 7, 7, 4, 1]",48,"[2, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part I.,"[7, 3, 5, 10, 2, 3, 14, 5, 4, 1]",54,"[2, 0, 2, 3, 1, 1, 6, 1, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.--Part I.,"[7, 4, 8, 2, 3, 5, 2, 4, 2, 3, 9, 7, 4, 1]",61,"[2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1]",19,-0.15,9,0,0,3
+Part II    DETAILED TABLE OF CONTENTS  VOLUME ONE  Introduction Preface By The Editor Preface Of The Author Preface To The First Volume  Chapter I: The Extent Of The Empire In The Age Of The Antoninies.--Part I.,"[4, 2, 8, 5, 2, 8, 6, 3, 12, 7, 2, 3, 6, 7, 2, 3, 6, 7, 2, 3, 5, 6, 7, 1, 3, 6, 2, 3, 6, 2, 3, 3, 2, 3, 10, 4, 1]",165,"[1, 1, 2, 1, 1, 2, 2, 1, 4, 2, 1, 1, 3, 2, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 4, 1, 1]",56,0.325,17,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Introduction--The Extent And Military Force Of The Empire In      The Age Of The Antonines.,"[12, 3, 6, 3, 8, 5, 2, 3, 6, 2, 3, 3, 2, 3, 9]",70,"[4, 1, 2, 1, 4, 1, 1, 1, 2, 1, 1, 1, 1, 1, 3]",25,-0.1,9,0,0,3
+Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part I.,"[7, 2, 3, 8, 10, 2, 3, 3, 2, 3, 9, 4, 1]",57,"[2, 1, 1, 3, 4, 1, 1, 1, 1, 1, 3, 1, 1]",21,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Of The Union And Internal Prosperity Of The Roman Empire, In      The Age Of The Antonines.","[2, 3, 5, 3, 8, 10, 2, 3, 5, 6, 2, 3, 3, 2, 3, 9]",69,"[1, 1, 2, 1, 3, 4, 1, 1, 2, 2, 1, 1, 1, 1, 1, 3]",26,0.0,4,0,0,3
+Chapter III: The Constitution In The Age Of The Antonines.--Part I.,"[7, 3, 3, 12, 2, 3, 3, 2, 3, 9, 4, 1]",52,"[2, 1, 1, 4, 1, 1, 1, 1, 1, 3, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Of The Constitution Of The Roman Empire, In The Age Of The      Antonines.","[2, 3, 12, 2, 3, 5, 6, 2, 3, 3, 2, 3, 9]",55,"[1, 1, 4, 1, 1, 2, 2, 1, 1, 1, 1, 1, 3]",20,0.0,10,0,0,3
+"Chapter IV: The Cruelty, Follies And Murder Of Commodus.--Part I.","[7, 2, 3, 7, 7, 3, 6, 2, 8, 4, 1]",50,"[2, 1, 1, 2, 2, 1, 2, 1, 3, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Cruelty, Follies, And Murder Of Commodus.","[3, 7, 7, 3, 6, 2, 8]",36,"[1, 2, 2, 1, 2, 1, 3]",12,0.0,16,0,0,3
+Election Of      Pertinax--His Attempts To Reform The State--His      Assassination By The Praetorian Guards.,"[8, 2, 8, 3, 8, 2, 6, 3, 5, 3, 13, 2, 3, 10, 6]",82,"[3, 1, 3, 1, 2, 1, 2, 1, 1, 1, 5, 1, 1, 4, 1]",28,0.0,4,0,0,3
+Chapter V: Sale Of The Empire To Didius Julianus.--Part I.,"[7, 1, 4, 2, 3, 6, 2, 6, 8, 4, 1]",44,"[2, 0, 1, 1, 1, 2, 1, 2, 4, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Public Sale Of The Empire To Didius Julianus By The      Praetorian Guards--Clodius Albinus In Britain, Pescennius      Niger In Syria, And Septimius Severus In Pannonia, Declare      Against The Murderers Of Pertinax--Civil Wars And Victory Of      Severus Over His Three Rivals--Relaxation Of Discipline--New      Maxims Of Government.","[6, 4, 2, 3, 6, 2, 6, 8, 2, 3, 10, 6, 7, 7, 2, 7, 10, 5, 2, 5, 3, 9, 7, 2, 8, 7, 7, 3, 9, 2, 8, 5, 4, 3, 7, 2, 7, 4, 3, 5, 6, 10, 2, 10, 3, 6, 2, 10]",257,"[2, 1, 1, 1, 2, 1, 2, 4, 1, 1, 4, 1, 2, 3, 1, 2, 3, 2, 1, 3, 1, 3, 3, 1, 4, 2, 2, 1, 3, 1, 3, 2, 1, 1, 3, 1, 3, 2, 1, 1, 2, 4, 1, 3, 1, 2, 1, 3]",94,0.0,13,2,2,2
+"Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part I.","[7, 2, 5, 2, 7, 7, 2, 9, 10, 2, 8, 4, 1]",66,"[2, 1, 2, 1, 3, 3, 1, 4, 4, 1, 3, 1, 1]",27,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+The Death Of Severus.--Tyranny Of Caracalla.--Usurpation Of      Macrinus.--Follies Of Elagabalus.--Virtues Of Alexander      Severus.--Licentiousness Of The Army.--General State Of The      Roman Finances.,"[3, 5, 2, 7, 7, 2, 9, 10, 2, 8, 7, 2, 10, 7, 2, 9, 7, 14, 2, 3, 4, 7, 5, 2, 3, 5, 8]",152,"[1, 2, 1, 3, 3, 1, 4, 4, 1, 3, 2, 1, 5, 1, 1, 4, 3, 4, 1, 1, 2, 3, 1, 1, 1, 2, 2]",58,0.0,11,2,2,2
+"Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part I.","[7, 3, 7, 2, 7, 9, 5, 4, 5, 2, 7, 4, 1]",63,"[2, 1, 3, 1, 3, 3, 2, 1, 2, 1, 3, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Elevation And Tyranny Of Maximin.--Rebellion In Africa      And Italy, Under The Authority Of The Senate.--Civil Wars      And Seditions.--Violent Deaths Of Maximin And His Son, Of      Maximus And Balbinus, And Of The Three Gordians.--Usurpation      And Secular Games Of Philip.","[3, 9, 3, 7, 2, 7, 9, 2, 6, 3, 5, 5, 3, 9, 2, 3, 6, 5, 4, 3, 9, 7, 6, 2, 7, 3, 3, 3, 2, 7, 3, 8, 3, 2, 3, 5, 8, 10, 3, 7, 5, 2, 6]",210,"[1, 4, 1, 3, 1, 3, 3, 1, 3, 1, 3, 2, 1, 4, 1, 1, 2, 2, 1, 1, 3, 2, 2, 1, 3, 1, 1, 1, 1, 3, 1, 3, 1, 1, 1, 1, 3, 4, 1, 3, 1, 1, 2]",80,0.0,1,2,2,2
+Chapter VIII: State Of Persion And Restoration Of The Monarchy.--Part I.,"[7, 4, 5, 2, 7, 3, 11, 2, 3, 8, 4, 1]",57,"[2, 1, 1, 1, 2, 1, 4, 1, 1, 3, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Of The State Of Persia After The Restoration Of The Monarchy      By Artaxerxes.,"[2, 3, 5, 2, 6, 5, 3, 11, 2, 3, 8, 2, 10]",62,"[1, 1, 1, 1, 3, 2, 1, 4, 1, 1, 3, 1, 3]",23,0.0,4,0,0,3
+Chapter IX: State Of Germany Until The Barbarians.--Part I.,"[7, 2, 5, 2, 7, 5, 3, 10, 4, 1]",46,"[2, 1, 1, 1, 3, 2, 1, 4, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+The State Of Germany Till The Invasion Of The Barbarians In      The Time Of The Emperor Decius.,"[3, 5, 2, 7, 4, 3, 8, 2, 3, 10, 2, 3, 4, 2, 3, 7, 6]",74,"[1, 1, 1, 3, 1, 1, 3, 1, 1, 4, 1, 1, 1, 1, 1, 3, 2]",27,0.0,4,0,0,3
+"Chapter X: Emperors Decius, Gallus, AEmilianus, Valerian And Gallienus.--Part I.","[7, 1, 8, 6, 6, 10, 8, 3, 9, 4, 1]",63,"[2, 0, 3, 2, 2, 5, 4, 1, 4, 1, 1]",25,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Emperors Decius, Gallus, AEmilianus, Valerian, And      Gallienus.--The General Irruption Of The Barbari Ans.--The      Thirty Tyrants.","[3, 8, 6, 6, 10, 8, 3, 9, 3, 7, 9, 2, 3, 7, 3, 3, 6, 7]",103,"[1, 3, 2, 2, 5, 4, 1, 4, 1, 3, 3, 1, 1, 3, 1, 1, 2, 2]",40,0.05,19,0,0,3
+"Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part I.","[7, 2, 5, 2, 8, 6, 2, 3, 5, 4, 1]",45,"[2, 1, 1, 1, 2, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Reign Of Claudius.--Defeat Of The Goths.--Victories,      Triumph, And Death Of Aurelian.","[5, 2, 8, 6, 2, 3, 5, 9, 7, 3, 5, 2, 8]",65,"[1, 1, 2, 3, 1, 1, 1, 3, 1, 1, 2, 1, 4]",22,0.0,4,0,0,3
+"Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part I.","[7, 3, 6, 2, 7, 6, 5, 3, 3, 4, 4, 1]",51,"[2, 1, 1, 1, 3, 2, 2, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Conduct Of The Army And Senate After The Death Of Aurelian.-      -Reigns Of Tacitus, Probus, Carus, And His Sons.","[7, 2, 3, 4, 3, 6, 5, 3, 5, 2, 8, 6, 2, 7, 6, 5, 3, 3, 4]",84,"[2, 1, 1, 2, 1, 2, 2, 1, 2, 1, 4, 1, 1, 3, 2, 2, 1, 1, 1]",31,0.0,19,0,0,3
+Chapter XIII: Reign Of Diocletian And This Three Associates.--Part I.,"[7, 4, 5, 2, 10, 3, 4, 5, 10, 4, 1]",55,"[2, 1, 1, 1, 4, 1, 1, 1, 4, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Reign Of Diocletian And His Three Associates, Maximian,      Galerius, And Constantius.--General Reestablishment Of Order      And Tranquillity.--The Persian War, Victory, And Triumph.--      The New Form Of Administration.--Abdication And Retirement      Of Diocletian And Maximian.","[3, 5, 2, 10, 3, 3, 5, 10, 8, 8, 3, 11, 7, 15, 2, 5, 3, 12, 3, 7, 3, 7, 3, 7, 3, 3, 4, 2, 14, 10, 3, 10, 2, 10, 3, 8]",217,"[1, 1, 1, 4, 1, 1, 1, 4, 4, 3, 1, 3, 3, 4, 1, 2, 1, 4, 1, 3, 1, 3, 1, 1, 1, 1, 1, 1, 5, 4, 1, 4, 1, 4, 1, 4]",78,0.136363636364,8,2,2,2
+"Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part I.","[7, 3, 3, 8, 2, 3, 4, 4, 7, 2, 3, 6, 4, 1]",57,"[2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Troubles After The Abdication Of Diocletian.--Death Of      Constantius.--Elevation Of Constantine And Maxen Tius.,"[8, 5, 3, 10, 2, 10, 5, 2, 11, 9, 2, 11, 3, 5, 4]",90,"[1, 2, 1, 4, 1, 4, 2, 1, 3, 4, 1, 3, 1, 2, 1]",31,0.0,19,0,0,3
+- Six      Emperors At The Same Time.--Death Of Maximian And Galerius.,"[3, 8, 2, 3, 4, 4, 5, 2, 8, 3, 8]",50,"[1, 3, 1, 1, 1, 1, 2, 1, 4, 1, 3]",19,0.0,10,0,0,3
+--Victories Of Constantine Over Maxentius And Licinus.--      Reunion Of The Empire Under The Authority Of Constantine.,"[9, 2, 11, 4, 9, 3, 7, 7, 2, 3, 6, 5, 3, 9, 2, 11]",93,"[3, 1, 3, 2, 3, 1, 3, 2, 1, 1, 2, 2, 1, 4, 1, 3]",33,0.0,19,0,0,3
+Chapter XV: Progress Of The Christian Religion.--Part I.,"[7, 2, 8, 2, 3, 9, 8, 4, 1]",44,"[2, 0, 2, 1, 1, 3, 3, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Part IX.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Progress Of The Christian Religion, And The Sentiments,      Manners, Numbers, And Condition Of The Primitive Christians.","[3, 8, 2, 3, 9, 8, 3, 3, 10, 7, 7, 3, 9, 2, 3, 9, 10]",99,"[1, 2, 1, 1, 3, 3, 1, 1, 3, 2, 2, 1, 3, 1, 1, 3, 3]",32,0.0,19,0,0,3
+"VOLUME TWO  Chapter XVI--Conduct Towards The Christians, From Nero To Constantine.--Part I.","[6, 3, 7, 3, 7, 7, 3, 10, 4, 4, 2, 11, 4, 1]",72,"[2, 1, 2, 1, 2, 2, 1, 3, 1, 2, 1, 3, 1, 1]",23,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+"The Conduct Of The Roman Government Towards The Christians,      From The Reign Of Nero To That Of Constantine.","[3, 7, 2, 3, 5, 10, 7, 3, 10, 4, 3, 5, 2, 4, 2, 4, 2, 11]",87,"[1, 2, 1, 1, 2, 3, 2, 1, 3, 1, 1, 1, 1, 2, 1, 1, 1, 3]",28,0.0,19,0,0,3
+Chapter XVII: Foundation Of Constantinople.--Part I.,"[7, 4, 10, 2, 14, 4, 1]",42,"[2, 1, 3, 1, 4, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Foundation Of Constantinople.--Political System Constantine,      And His Successors.--Military Discipline.--The Palace.--The      Finances.","[10, 2, 14, 9, 6, 11, 3, 3, 10, 8, 10, 3, 6, 3, 8]",106,"[3, 1, 4, 4, 2, 3, 1, 1, 3, 4, 3, 1, 2, 1, 2]",35,0.0,19,0,0,3
+Chapter XVIII: Character Of Constantine And His Sons.--Part I.,"[7, 5, 9, 2, 11, 3, 3, 4, 4, 1]",49,"[2, 1, 3, 1, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Character Of Constantine.--Gothic War.--Death Of      Constantine.--Division Of The Empire Among His Three Sons.--      Persian War.--Tragic Deaths Of Constantine The Younger And      Constans.--Usurpation Of Magnentius.--Civil War.--Victory Of      Constantius.,"[9, 2, 11, 6, 3, 5, 2, 11, 8, 2, 3, 6, 5, 3, 5, 4, 7, 3, 6, 6, 2, 11, 3, 7, 3, 8, 10, 2, 10, 5, 3, 7, 2, 11]",191,"[3, 1, 3, 2, 1, 2, 1, 3, 3, 1, 1, 2, 2, 1, 1, 1, 3, 1, 2, 2, 1, 3, 1, 2, 1, 2, 4, 1, 3, 2, 1, 3, 1, 3]",64,0.0,11,2,2,2
+Chapter XIX: Constantius Sole Emperor.--Part I. PartII.,"[7, 3, 11, 4, 7, 4, 1, 6]",43,"[2, 1, 3, 1, 3, 1, 1, 2]",14,0.0,10,0,0,3
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Constantius Sole Emperor.--Elevation And Death Of Gallus.--      Danger And Elevation Of Julian.--Sarmatian And Persian      Wars.--Victories Of Julian In Gaul.,"[11, 4, 7, 9, 3, 5, 2, 6, 6, 3, 9, 2, 6, 9, 3, 7, 4, 9, 2, 6, 2, 4]",119,"[3, 1, 3, 4, 1, 2, 1, 2, 2, 1, 4, 1, 3, 4, 1, 3, 1, 3, 1, 3, 1, 1]",46,0.0,5,2,2,3
+Chapter XX: Conversion Of Constantine.--Part I.,"[7, 2, 10, 2, 11, 4, 1]",37,"[2, 0, 3, 1, 3, 1, 1]",11,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+PartIV.,[6],6,[2],2,0.0,0,0,0,0
+"The Motives, Progress, And Effects Of The Conversion Of      Constantine.--Legal Establishment And Constitution Of The      Christian Or Catholic Church.","[3, 7, 8, 3, 7, 2, 3, 10, 2, 11, 5, 13, 3, 12, 2, 3, 9, 2, 8, 6]",119,"[1, 2, 2, 1, 2, 1, 1, 3, 1, 3, 2, 4, 1, 4, 1, 1, 3, 1, 3, 1]",38,0.0,5,0,0,3
+"Chapter XXI: Persecution Of Heresy, State Of The Church.--Part I.","[7, 3, 11, 2, 6, 5, 2, 3, 6, 4, 1]",50,"[2, 1, 4, 1, 3, 1, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Persecution Of Heresy.--The Schism Of The Donatists.--The      Arian Controversy.--Athanasius.--Distracted State Of The      Church And Empire Under Constantine And His Sons.--      Toleration Of Paganism.,"[11, 2, 6, 3, 6, 2, 3, 9, 3, 5, 11, 10, 10, 5, 2, 3, 6, 3, 6, 5, 11, 3, 3, 4, 10, 2, 8]",152,"[4, 1, 3, 1, 1, 1, 1, 3, 1, 3, 4, 4, 2, 1, 1, 1, 1, 1, 2, 2, 3, 1, 1, 1, 4, 1, 3]",52,0.0,5,2,2,2
+Chapter XXII: Julian Declared Emperor.--Part I Part II.,"[7, 4, 6, 8, 7, 4, 1, 4, 2]",43,"[2, 1, 3, 2, 3, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Julian Is Declared Emperor By The Legions Of Gaul.--His      March And Success.--The Death Of Constantius.--Civil      Administration Of Julian.,"[6, 2, 8, 7, 2, 3, 7, 2, 4, 3, 5, 3, 7, 3, 5, 2, 11, 5, 14, 2, 6]",107,"[3, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 3, 2, 5, 1, 3]",38,0.0,19,0,0,3
+Chapter XXIII: Reign Of Julian.--Part I.,"[7, 5, 5, 2, 6, 4, 1]",30,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       The Religion Of Julian.--Universal Toleration.--He Attempts      To Restore And Reform The Pagan Worship--To Rebuild The      Temple Of Jerusalem--His Artful Persecution Of The      Christians.--Mutual Zeal And Injustice.,"[4, 1, 3, 8, 2, 6, 9, 10, 2, 8, 2, 7, 3, 6, 3, 5, 7, 2, 7, 3, 6, 2, 9, 3, 6, 11, 2, 3, 10, 6, 4, 3, 9]",172,"[1, 0, 1, 3, 1, 3, 4, 4, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 1, 1, 4, 1, 2, 4, 1, 1, 3, 2, 2, 1, 3]",61,0.0,11,2,2,2
+Chapter XXIV: The Retreat And Death Of Julian.--Part I.,"[7, 4, 3, 7, 3, 5, 2, 6, 4, 1]",42,"[2, 1, 1, 3, 1, 2, 1, 3, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       Residence Of Julian At Antioch.--His Successful Expedition      Against The Persians.--Passage Of The Tigris--The Retreat      And Death Of Julian.--Election Of Jovian.--He Saves The      Roman Army By A Disgraceful Treaty.,"[4, 1, 9, 2, 6, 2, 7, 3, 10, 10, 7, 3, 8, 7, 2, 3, 6, 3, 7, 3, 5, 2, 6, 8, 2, 6, 2, 5, 3, 5, 4, 2, 1, 11, 6]",171,"[1, 0, 3, 1, 3, 1, 2, 1, 3, 4, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 2, 1, 3, 3, 1, 3, 1, 1, 1, 2, 2, 1, 1, 4, 3]",65,0.75,3,1,1,4
+"Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.--Part I.","[7, 3, 6, 2, 6, 3, 11, 8, 2, 3, 6, 4, 1]",62,"[2, 0, 1, 1, 3, 1, 5, 3, 1, 1, 2, 1, 1]",22,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Government And Death Of Jovian.--Election Of      Valentinian, Who Associates His Brother Valens, And Makes      The Final Division Of The Eastern And Western Empires.--      Revolt Of Procopius.--Civil And Ecclesiastical      Administration.--Germany.--Britain.--Africa.--The East.--The      Danube.--Death Of Valentinian.--His Two Sons, Gratian And      Valentinian II., Succeed To The Western Empire.","[3, 10, 3, 5, 2, 6, 8, 2, 11, 3, 10, 3, 7, 6, 3, 5, 3, 5, 8, 2, 3, 7, 3, 7, 7, 6, 2, 9, 5, 3, 14, 14, 7, 7, 6, 3, 4, 3, 6, 5, 2, 11, 3, 3, 4, 7, 3, 11, 2, 7, 2, 3, 7, 6]",297,"[1, 3, 1, 2, 1, 3, 3, 1, 5, 1, 4, 1, 2, 2, 1, 1, 1, 2, 3, 1, 1, 3, 1, 2, 2, 2, 1, 3, 2, 1, 6, 5, 3, 2, 3, 1, 2, 1, 2, 2, 1, 5, 1, 1, 1, 3, 1, 5, 1, 1, 1, 1, 2, 2]",110,0.0,18,2,2,2
+Chapter XXVI: Progress of The Huns.--Part I.,"[7, 4, 8, 2, 3, 4, 4, 1]",33,"[2, 1, 2, 1, 1, 1, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       Manners Of The Pastoral Nations.--Progress Of The Huns, From      China To Europe.--Flight Of The Goths.--They Pass The      Danube.","[4, 1, 7, 2, 3, 8, 7, 8, 2, 3, 4, 4, 5, 2, 6, 6, 2, 3, 5, 4, 4, 3, 6]",99,"[1, 0, 2, 1, 1, 3, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2]",30,0.0,19,0,0,3
+--Gothic War.--Defeat And Death Of Valens.--Gratian      Invests Theodosius With The Eastern Empire.--His Character      And Success.,"[6, 3, 6, 3, 5, 2, 6, 7, 7, 10, 4, 3, 7, 6, 3, 9, 3, 7]",97,"[2, 1, 3, 1, 2, 1, 2, 3, 2, 3, 1, 1, 3, 2, 1, 3, 1, 2]",34,0.3,2,1,1,1
+--Peace And Settlement Of The Goths.,"[5, 3, 10, 2, 3, 5]",28,"[2, 1, 3, 1, 1, 1]",9,0.0,16,0,0,0
+"VOLUME THREE  Chapter XVI--Conduct Towards The Christians, From Nero To Constantine.--Part I.","[6, 5, 7, 3, 7, 7, 3, 10, 4, 4, 2, 11, 4, 1]",74,"[2, 1, 2, 1, 2, 2, 1, 3, 1, 2, 1, 3, 1, 1]",23,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+"The Conduct Of The Roman Government Towards The Christians,      From The Reign Of Nero To That Of Constantine.","[3, 7, 2, 3, 5, 10, 7, 3, 10, 4, 3, 5, 2, 4, 2, 4, 2, 11]",87,"[1, 2, 1, 1, 2, 3, 2, 1, 3, 1, 1, 1, 1, 2, 1, 1, 1, 3]",28,0.0,19,0,0,3
+Chapter XVII: Foundation Of Constantinople.--Part I.,"[7, 4, 10, 2, 14, 4, 1]",42,"[2, 1, 3, 1, 4, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Foundation Of Constantinople.--Political System Constantine,      And His Successors.--Military Discipline.--The Palace.--The      Finances.","[10, 2, 14, 9, 6, 11, 3, 3, 10, 8, 10, 3, 6, 3, 8]",106,"[3, 1, 4, 4, 2, 3, 1, 1, 3, 4, 3, 1, 2, 1, 2]",35,0.0,19,0,0,3
+Chapter XVIII: Character Of Constantine And His Sons.--Part I.,"[7, 5, 9, 2, 11, 3, 3, 4, 4, 1]",49,"[2, 1, 3, 1, 3, 1, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Character Of Constantine.--Gothic War.--Death Of      Constantine.--Division Of The Empire Among His Three Sons.--      Persian War.--Tragic Deaths Of Constantine The Younger And      Constans.--Usurpation Of Magnentius.--Civil War.--Victory Of      Constantius.,"[9, 2, 11, 6, 3, 5, 2, 11, 8, 2, 3, 6, 5, 3, 5, 4, 7, 3, 6, 6, 2, 11, 3, 7, 3, 8, 10, 2, 10, 5, 3, 7, 2, 11]",191,"[3, 1, 3, 2, 1, 2, 1, 3, 3, 1, 1, 2, 2, 1, 1, 1, 3, 1, 2, 2, 1, 3, 1, 2, 1, 2, 4, 1, 3, 2, 1, 3, 1, 3]",64,0.0,11,2,2,2
+Chapter XIX: Constantius Sole Emperor.--Part I. PartII.,"[7, 3, 11, 4, 7, 4, 1, 6]",43,"[2, 1, 3, 1, 3, 1, 1, 2]",14,0.0,10,0,0,3
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Constantius Sole Emperor.--Elevation And Death Of Gallus.--      Danger And Elevation Of Julian.--Sarmatian And Persian      Wars.--Victories Of Julian In Gaul.,"[11, 4, 7, 9, 3, 5, 2, 6, 6, 3, 9, 2, 6, 9, 3, 7, 4, 9, 2, 6, 2, 4]",119,"[3, 1, 3, 4, 1, 2, 1, 2, 2, 1, 4, 1, 3, 4, 1, 3, 1, 3, 1, 3, 1, 1]",46,0.0,5,2,2,3
+Chapter XX: Conversion Of Constantine.--Part I.,"[7, 2, 10, 2, 11, 4, 1]",37,"[2, 0, 3, 1, 3, 1, 1]",11,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+PartIV.,[6],6,[2],2,0.0,0,0,0,0
+"The Motives, Progress, And Effects Of The Conversion Of      Constantine.--Legal Establishment And Constitution Of The      Christian Or Catholic Church.","[3, 7, 8, 3, 7, 2, 3, 10, 2, 11, 5, 13, 3, 12, 2, 3, 9, 2, 8, 6]",119,"[1, 2, 2, 1, 2, 1, 1, 3, 1, 3, 2, 4, 1, 4, 1, 1, 3, 1, 3, 1]",38,0.0,5,0,0,3
+"Chapter XXI: Persecution Of Heresy, State Of The Church.--Part I.","[7, 3, 11, 2, 6, 5, 2, 3, 6, 4, 1]",50,"[2, 1, 4, 1, 3, 1, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Persecution Of Heresy.--The Schism Of The Donatists.--The      Arian Controversy.--Athanasius.--Distracted State Of The      Church And Empire Under Constantine And His Sons.--      Toleration Of Paganism.,"[11, 2, 6, 3, 6, 2, 3, 9, 3, 5, 11, 10, 10, 5, 2, 3, 6, 3, 6, 5, 11, 3, 3, 4, 10, 2, 8]",152,"[4, 1, 3, 1, 1, 1, 1, 3, 1, 3, 4, 4, 2, 1, 1, 1, 1, 1, 2, 2, 3, 1, 1, 1, 4, 1, 3]",52,0.0,5,2,2,2
+Chapter XXII: Julian Declared Emperor.--Part I Part II.,"[7, 4, 6, 8, 7, 4, 1, 4, 2]",43,"[2, 1, 3, 2, 3, 1, 1, 1, 1]",15,0.0,10,0,0,3
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Julian Is Declared Emperor By The Legions Of Gaul.--His      March And Success.--The Death Of Constantius.--Civil      Administration Of Julian.,"[6, 2, 8, 7, 2, 3, 7, 2, 4, 3, 5, 3, 7, 3, 5, 2, 11, 5, 14, 2, 6]",107,"[3, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 3, 2, 5, 1, 3]",38,0.0,19,0,0,3
+Chapter XXIII: Reign Of Julian.--Part I.,"[7, 5, 5, 2, 6, 4, 1]",30,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       The Religion Of Julian.--Universal Toleration.--He Attempts      To Restore And Reform The Pagan Worship--To Rebuild The      Temple Of Jerusalem--His Artful Persecution Of The      Christians.--Mutual Zeal And Injustice.,"[4, 1, 3, 8, 2, 6, 9, 10, 2, 8, 2, 7, 3, 6, 3, 5, 7, 2, 7, 3, 6, 2, 9, 3, 6, 11, 2, 3, 10, 6, 4, 3, 9]",172,"[1, 0, 1, 3, 1, 3, 4, 4, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 1, 1, 4, 1, 2, 4, 1, 1, 3, 2, 2, 1, 3]",61,0.0,11,2,2,2
+Chapter XXIV: The Retreat And Death Of Julian.--Part I.,"[7, 4, 3, 7, 3, 5, 2, 6, 4, 1]",42,"[2, 1, 1, 3, 1, 2, 1, 3, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       Residence Of Julian At Antioch.--His Successful Expedition      Against The Persians.--Passage Of The Tigris--The Retreat      And Death Of Julian.--Election Of Jovian.--He Saves The      Roman Army By A Disgraceful Treaty.,"[4, 1, 9, 2, 6, 2, 7, 3, 10, 10, 7, 3, 8, 7, 2, 3, 6, 3, 7, 3, 5, 2, 6, 8, 2, 6, 2, 5, 3, 5, 4, 2, 1, 11, 6]",171,"[1, 0, 3, 1, 3, 1, 2, 1, 3, 4, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 2, 1, 3, 3, 1, 3, 1, 1, 1, 2, 2, 1, 1, 4, 3]",65,0.75,3,1,1,4
+"Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.--Part I.","[7, 3, 6, 2, 6, 3, 11, 8, 2, 3, 6, 4, 1]",62,"[2, 0, 1, 1, 3, 1, 5, 3, 1, 1, 2, 1, 1]",22,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Government And Death Of Jovian.--Election Of      Valentinian, Who Associates His Brother Valens, And Makes      The Final Division Of The Eastern And Western Empires.--      Revolt Of Procopius.--Civil And Ecclesiastical      Administration.--Germany.--Britain.--Africa.--The East.--The      Danube.--Death Of Valentinian.--His Two Sons, Gratian And      Valentinian II., Succeed To The Western Empire.","[3, 10, 3, 5, 2, 6, 8, 2, 11, 3, 10, 3, 7, 6, 3, 5, 3, 5, 8, 2, 3, 7, 3, 7, 7, 6, 2, 9, 5, 3, 14, 14, 7, 7, 6, 3, 4, 3, 6, 5, 2, 11, 3, 3, 4, 7, 3, 11, 2, 7, 2, 3, 7, 6]",297,"[1, 3, 1, 2, 1, 3, 3, 1, 5, 1, 4, 1, 2, 2, 1, 1, 1, 2, 3, 1, 1, 3, 1, 2, 2, 2, 1, 3, 2, 1, 6, 5, 3, 2, 3, 1, 2, 1, 2, 2, 1, 5, 1, 1, 1, 3, 1, 5, 1, 1, 1, 1, 2, 2]",110,0.0,18,2,2,2
+Chapter XXVI: Progress of The Huns.--Part I.,"[7, 4, 8, 2, 3, 4, 4, 1]",33,"[2, 1, 2, 1, 1, 1, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       Manners Of The Pastoral Nations.--Progress Of The Huns, From      China To Europe.--Flight Of The Goths.--They Pass The      Danube.","[4, 1, 7, 2, 3, 8, 7, 8, 2, 3, 4, 4, 5, 2, 6, 6, 2, 3, 5, 4, 4, 3, 6]",99,"[1, 0, 2, 1, 1, 3, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2]",30,0.0,19,0,0,3
+--Gothic War.--Defeat And Death Of Valens.--Gratian      Invests Theodosius With The Eastern Empire.--His Character      And Success.,"[6, 3, 6, 3, 5, 2, 6, 7, 7, 10, 4, 3, 7, 6, 3, 9, 3, 7]",97,"[2, 1, 3, 1, 2, 1, 2, 3, 2, 3, 1, 1, 3, 2, 1, 3, 1, 2]",34,0.3,2,1,1,1
+--Peace And Settlement Of The Goths.,"[5, 3, 10, 2, 3, 5]",28,"[2, 1, 3, 1, 1, 1]",9,0.0,16,0,0,0
+VOLUME FOUR  Chapter XXXIX: Gothic Kingdom Of Italy.--Part I.,"[6, 4, 7, 5, 6, 7, 2, 5, 4, 1]",47,"[2, 1, 2, 1, 2, 2, 1, 3, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Zeno And Anastasius, Emperors Of The East.--Birth,      Education, And First Exploits Of Theodoric The Ostrogoth.--      His Invasion And Conquest Of Italy.--The Gothic Kingdom Of      Italy.--State Of The West.--Military And Civil Government.--      The Senator Boethius.--Last Acts And Death Of Theodoric.","[4, 3, 10, 8, 2, 3, 4, 5, 9, 3, 5, 8, 2, 9, 3, 9, 3, 8, 3, 8, 2, 5, 3, 6, 7, 2, 5, 5, 2, 3, 4, 8, 3, 5, 10, 3, 7, 8, 4, 4, 3, 5, 2, 9]",224,"[2, 1, 4, 3, 1, 1, 2, 1, 4, 1, 1, 2, 1, 3, 1, 3, 1, 3, 1, 2, 1, 3, 1, 2, 2, 1, 3, 1, 1, 1, 1, 4, 1, 2, 3, 1, 3, 2, 1, 1, 1, 2, 1, 3]",80,0.25,14,1,1,1
+Chapter XL: Reign Of Justinian.--Part I.,"[7, 2, 5, 2, 9, 4, 1]",30,"[2, 0, 1, 1, 4, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V.       Elevation Of Justin The Elder.--Reign Of Justinian.--I.,"[4, 1, 9, 2, 6, 3, 5, 5, 2, 9, 1]",47,"[1, 0, 4, 1, 2, 1, 2, 1, 1, 4, 1]",18,0.0,10,0,0,3
+The      Empress Theodora.--II.,"[3, 7, 8, 2]",20,"[1, 2, 3, 1]",7,0.0,16,0,0,0
+"Factions Of The Circus, And Sedition      Of Constantinople.--III.","[8, 2, 3, 6, 3, 8, 2, 14, 3]",49,"[2, 1, 1, 2, 1, 3, 1, 4, 1]",16,0.0,10,0,0,3
+Trade And Manufacture Of Silk.--IV.,"[5, 3, 11, 2, 4, 2]",27,"[1, 1, 4, 1, 1, 1]",9,0.0,16,0,0,0
+Finances And Taxes.--V.,"[8, 3, 5, 1]",17,"[2, 1, 1, 0]",4,0.0,0,0,0,0
+Edifices Of Justinian.--Church Of      St.,"[8, 2, 9, 6, 2, 2]",29,"[3, 1, 4, 1, 1, 0]",10,0.0,16,0,0,0
+"Sophia.--Fortifications And Frontiers Of The Eastern      Empire.--Abolition Of The Schools Of Athens, And The      Consulship Of Rome.","[6, 14, 3, 9, 2, 3, 7, 6, 9, 2, 3, 7, 2, 6, 3, 3, 10, 2, 4]",101,"[3, 5, 1, 3, 1, 1, 3, 2, 4, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1]",36,0.0,19,0,0,3
+"Chapter XLI: Conquests Of Justinian, Character Of Balisarius.--Part I.","[7, 3, 9, 2, 9, 9, 2, 10, 4, 1]",56,"[2, 1, 2, 1, 4, 3, 1, 4, 1, 1]",20,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Conquests Of Justinian In The West.--Character And First      Campaigns Of Belisarius--He Invades And Subdues The Vandal      Kingdom Of Africa--His Triumph.--The Gothic War.--He      Recovers Sicily, Naples, And Rome.--Siege Of Rome By The      Goths.--Their Retreat And Losses.--Surrender Of Ravenna.--      Glory Of Belisarius.--His Domestic Shame And Misfortunes.","[9, 2, 9, 2, 3, 4, 9, 3, 5, 9, 2, 10, 2, 7, 3, 7, 3, 6, 7, 2, 6, 3, 7, 3, 6, 3, 2, 8, 6, 6, 3, 4, 5, 2, 4, 2, 3, 5, 5, 7, 3, 6, 9, 2, 7, 5, 2, 10, 3, 8, 5, 3, 11]",268,"[2, 1, 4, 1, 1, 1, 3, 1, 1, 2, 1, 4, 1, 2, 1, 1, 1, 2, 2, 1, 3, 1, 1, 1, 2, 1, 1, 3, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 3, 1, 3, 2, 1, 4, 1, 3, 1, 1, 3]",88,0.125,8,2,2,2
+Chapter XLII: State Of The Barbaric World.--Part I.,"[7, 4, 5, 2, 3, 8, 5, 4, 1]",39,"[2, 1, 1, 1, 1, 3, 1, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"State Of The Barbaric World.--Establishment Of The Lombards      On the Danube.--Tribes And Inroads Of The Sclavonians.--      Origin, Empire, And Embassies Of The Turks.--The Flight Of      The Avars.--Chosroes I, Or Nushirvan, King Of Persia.--His      Prosperous Reign And Wars With The Romans.--The Colchian Or      Lazic War.--The AEthiopians.","[5, 2, 3, 8, 5, 13, 2, 3, 8, 2, 3, 6, 6, 3, 7, 2, 3, 11, 6, 6, 3, 9, 2, 3, 5, 3, 6, 2, 3, 5, 8, 1, 2, 9, 4, 2, 6, 3, 10, 5, 3, 4, 4, 3, 6, 3, 8, 2, 5, 3, 3, 11]",250,"[1, 1, 1, 3, 1, 4, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 4, 3, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 3, 1, 3, 1, 1, 1, 1, 1, 2, 1, 3, 1, 2, 1, 1, 4]",82,0.0,1,2,2,2
+"Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part I.","[7, 5, 4, 7, 3, 5, 2, 10, 5, 2, 9, 4, 1]",64,"[2, 1, 1, 3, 1, 2, 1, 4, 2, 1, 4, 1, 1]",24,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Rebellions Of Africa.--Restoration Of The Gothic Kingdom By      Totila.--Loss And Recovery Of Rome.--Final Conquest Of Italy      By Narses.--Extinction Of The Ostrogoths.--Defeat Of The      Franks And Alemanni.--Last Victory, Disgrace, And Death Of      Belisarius.--Death And Character Of Justinian.--Comet,      Earthquakes, And Plague.","[10, 2, 6, 11, 2, 3, 6, 7, 2, 6, 4, 3, 8, 2, 4, 5, 8, 2, 5, 2, 6, 10, 2, 3, 10, 6, 2, 3, 6, 3, 8, 4, 7, 8, 3, 5, 2, 10, 5, 3, 9, 2, 9, 5, 11, 3, 6]",249,"[3, 1, 3, 4, 1, 1, 2, 2, 1, 3, 1, 1, 4, 1, 1, 2, 2, 1, 3, 1, 1, 3, 1, 1, 3, 3, 1, 1, 1, 1, 4, 1, 3, 2, 1, 2, 1, 4, 2, 1, 3, 1, 4, 2, 3, 1, 1]",90,0.0,13,2,2,2
+Chapter XLIV: Idea Of The Roman Jurisprudence.--Part I.,"[7, 4, 4, 2, 3, 5, 13, 4, 1]",43,"[2, 1, 3, 1, 1, 2, 4, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+"Idea Of The Roman Jurisprudence.--The Laws Of The Kings--The      Twelve Of The Decemvirs.--The Laws Of The People.--The      Decrees Of The Senate.--The Edicts Of The Magistrates And      Emperors--Authority Of The Civilians.--Code, Pandects,      Novels, And Institutes Of Justinian:--I.","[4, 2, 3, 5, 13, 3, 4, 2, 3, 5, 3, 6, 2, 3, 9, 3, 4, 2, 3, 6, 3, 7, 2, 3, 6, 3, 6, 2, 3, 11, 3, 8, 9, 2, 3, 9, 4, 8, 6, 3, 10, 2, 9, 1]",208,"[3, 1, 1, 2, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 3, 1, 3, 4, 1, 1, 4, 1, 2, 2, 1, 3, 1, 4, 1]",71,0.0,1,2,2,2
+Rights Of Persons.-      -II.,"[6, 2, 7, 2]",17,"[1, 1, 2, 1]",5,0.0,0,0,0,0
+Rights Of Things.--III.,"[6, 2, 6, 3]",17,"[1, 1, 1, 1]",4,0.0,0,0,0,0
+Private Injuries And Actions.--      IV.,"[7, 8, 3, 7, 2]",27,"[2, 3, 1, 2, 1]",9,0.0,16,0,0,0
+Crimes And Punishments.,"[6, 3, 11]",20,"[1, 1, 3]",5,0.0,0,0,0,0
+Chapter XLV: State Of Italy Under The Lombards.--Part I.,"[7, 3, 5, 2, 5, 5, 3, 8, 4, 1]",43,"[2, 0, 1, 1, 3, 2, 1, 2, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Reign Of The Younger Justin.--Embassy Of The Avars.--Their      Settlement On The Danube.--Conquest Of Italy By The      Lombards.--Adoption And Reign Of Tiberius.--Of Maurice.--      State Of Italy Under The Lombards And The Exarchs.--Of      Ravenna.--Distress Of Rome.--Character And Pontificate Of      Gregory The First.,"[5, 2, 3, 7, 6, 7, 2, 3, 5, 5, 10, 2, 3, 6, 8, 2, 5, 2, 3, 8, 8, 3, 5, 2, 8, 2, 7, 5, 2, 5, 5, 3, 8, 3, 3, 7, 2, 7, 8, 2, 4, 9, 3, 11, 2, 7, 3, 5]",233,"[1, 1, 1, 2, 2, 3, 1, 1, 2, 1, 3, 1, 1, 2, 2, 1, 3, 1, 1, 2, 3, 1, 1, 1, 3, 1, 2, 1, 1, 3, 2, 1, 2, 1, 1, 2, 1, 3, 2, 1, 1, 3, 1, 4, 1, 3, 1, 1]",80,0.125,8,2,2,2
+Chapter XLVI: Troubles In Persia.--Part I.,"[7, 4, 8, 2, 6, 4, 1]",32,"[2, 1, 1, 1, 3, 1, 1]",10,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Revolutions On Persia After The Death Of Chosroes On      Nushirvan.--His Son Hormouz, A Tyrant, Is Deposed.--      Usurpation Of Baharam.--Flight And Restoration Of Chosroes      II.--His Gratitude To The Romans.--The Chagan Of The Avars.-      -Revolt Of The Army Against Maurice.--His Death.--Tyranny Of      Phocas.--Elevation Of Heraclius.--The Persian War.--Chosroes      Subdues Syria, Egypt, And Asia Minor.--Siege Of      Constantinople By The Persians And Avars.--Persian      Expeditions.--Victories And Triumph Of Heraclius.","[11, 2, 6, 5, 3, 5, 2, 8, 2, 9, 3, 3, 7, 1, 6, 2, 7, 10, 2, 7, 6, 3, 11, 2, 8, 2, 3, 9, 2, 3, 6, 3, 6, 2, 3, 5, 6, 2, 3, 4, 7, 7, 3, 5, 7, 2, 6, 9, 2, 9, 3, 7, 3, 8, 7, 5, 5, 3, 4, 5, 5, 2, 14, 2, 3, 8, 3, 5, 7, 11, 9, 3, 7, 2, 9]",387,"[4, 1, 3, 2, 1, 2, 1, 1, 1, 3, 1, 1, 2, 1, 2, 1, 2, 4, 1, 3, 1, 1, 4, 1, 1, 1, 1, 3, 1, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 2, 2, 2, 1, 2, 3, 1, 2, 4, 1, 3, 1, 3, 1, 1, 1, 3, 2, 1, 3, 2, 2, 1, 4, 1, 1, 3, 1, 2, 3, 4, 3, 1, 1, 1, 3]",137,0.0,15,2,2,2
+Chapter XLVII: Ecclesiastical Discord.--Part I.,"[7, 5, 14, 7, 4, 1]",38,"[2, 1, 6, 2, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Theological History Of The Doctrine Of The Incarnation.--The      Human And Divine Nature Of Christ.--Enmity Of The Patriarchs      Of Alexandria And Constantinople.--St.,"[11, 7, 2, 3, 8, 2, 3, 11, 3, 5, 3, 6, 6, 2, 6, 6, 2, 3, 10, 2, 10, 3, 14, 2]",130,"[4, 3, 1, 1, 2, 1, 1, 4, 1, 2, 1, 2, 2, 1, 1, 3, 1, 1, 3, 1, 5, 1, 4, 0]",46,0.0,5,2,2,3
+Cyril And Nestorius.-      -Third General Council Of Ephesus.--Heresy Of Eutyches.--      Fourth General Council Of Chalcedon.--Civil And      Ecclesiastical Discord.--Intolerance Of Justinian.--The      Three Chapters.--The Monothelite Controversy.--State Of The      Oriental Sects:--I.,"[5, 3, 9, 5, 7, 7, 2, 7, 6, 2, 8, 6, 7, 7, 2, 9, 5, 3, 14, 7, 11, 2, 9, 3, 5, 8, 3, 11, 11, 5, 2, 3, 8, 5, 1]",208,"[2, 1, 3, 1, 3, 2, 1, 3, 3, 1, 2, 1, 3, 2, 1, 3, 2, 1, 6, 2, 4, 1, 4, 1, 1, 2, 1, 4, 4, 1, 1, 1, 4, 1, 1]",74,0.025,1,2,2,2
+The Nestorians.--II.,"[3, 10, 2]",15,"[1, 4, 1]",6,0.0,0,0,0,0
+The Jacobites.--      III.,"[3, 9, 3]",15,"[1, 3, 1]",5,0.0,0,0,0,0
+The Maronites.--IV.,"[3, 9, 2]",14,"[1, 3, 1]",5,0.0,0,0,0,0
+The Armenians.--V.,"[3, 9, 1]",13,"[1, 4, 0]",5,0.0,0,0,0,0
+The Copts And      Abyssinians.,"[3, 5, 3, 11]",22,"[1, 1, 1, 5]",8,0.0,16,0,0,0
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part I.,"[7, 6, 10, 3, 10, 2, 3, 5, 8, 4, 1]",59,"[2, 1, 3, 1, 3, 1, 1, 1, 3, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part VI.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Plan Of The Two Last Volumes.--Succession And Characters Of      The Greek Emperors Of Constantinople, From The Time Of      Heraclius To The Latin Conquest.","[4, 2, 3, 3, 4, 7, 10, 3, 10, 2, 3, 5, 8, 2, 14, 4, 3, 4, 2, 9, 2, 3, 5, 8]",120,"[1, 1, 1, 1, 1, 2, 3, 1, 3, 1, 1, 1, 3, 1, 4, 1, 1, 1, 1, 3, 1, 1, 2, 2]",38,0.0,5,0,0,3
+VOLUME FIVE  Chapter XLIX: Conquest Of Italy By The Franks.--Part I.,"[6, 4, 7, 4, 8, 2, 5, 2, 3, 6, 4, 1]",52,"[2, 1, 2, 1, 2, 1, 3, 1, 1, 1, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+"Introduction, Worship, And Persecution Of Images.--Revolt Of      Italy And Rome.--Temporal Dominion Of The Popes.--Conquest      Of Italy By The Franks.--Establishment Of Images.--Character      And Coronation Of Charlemagne.--Restoration And Decay Of The      Roman Empire In The West.--Independence Of Italy.--      Constitution Of The Germanic Body.","[12, 7, 3, 11, 2, 6, 6, 2, 5, 3, 4, 8, 8, 2, 3, 5, 8, 2, 5, 2, 3, 6, 13, 2, 6, 9, 3, 10, 2, 11, 11, 3, 5, 2, 3, 5, 6, 2, 3, 4, 12, 2, 5, 12, 2, 3, 8, 4]",261,"[4, 2, 1, 4, 1, 2, 2, 1, 3, 1, 1, 3, 3, 1, 1, 1, 2, 1, 3, 1, 1, 1, 4, 1, 2, 3, 1, 4, 1, 3, 4, 1, 2, 1, 1, 2, 2, 1, 1, 1, 4, 1, 3, 4, 1, 1, 3, 2]",94,0.0,13,2,2,2
+Chapter L: Description Of Arabia And Its Inhabitants.--Part I.,"[7, 1, 11, 2, 6, 3, 3, 11, 4, 1]",49,"[2, 0, 3, 1, 4, 1, 1, 4, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+"Description Of Arabia And Its Inhabitants.--Birth,      Character, And Doctrine Of Mahomet.--He Preaches At Mecca.--      Flies To Medina.--Propagates His Religion By The Sword.--      Voluntary Or Reluctant Submission Of The Arabs.--His Death      And Successors.--The Claims And Fortunes Of All And His      Descendants.","[11, 2, 6, 3, 3, 11, 5, 9, 3, 8, 2, 7, 2, 8, 2, 5, 5, 2, 6, 10, 3, 8, 2, 3, 5, 9, 2, 9, 10, 2, 3, 5, 3, 5, 3, 10, 3, 6, 3, 8, 2, 3, 3, 3, 11]",234,"[3, 1, 4, 1, 1, 4, 1, 3, 1, 2, 1, 3, 1, 2, 1, 2, 1, 1, 3, 3, 1, 3, 1, 1, 1, 4, 1, 3, 3, 1, 1, 2, 1, 2, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 3]",80,0.0,1,2,2,2
+Chapter LI: Conquests By The Arabs.--Part I.,"[7, 2, 9, 2, 3, 5, 4, 1]",33,"[2, 1, 2, 1, 1, 2, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part V. Part VI.,"[4, 1, 4, 2]",11,"[1, 0, 1, 1]",3,0.0,0,0,0,0
+Part VII.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part VIII.,"[4, 4]",8,"[1, 1]",2,0.0,0,0,0,0
+Part IX.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"The Conquest Of Persia, Syria, Egypt, Africa, And Spain, By      The Arabs Or Saracens.--Empire Of The Caliphs, Or Successors      Of Mahomet.--State Of The Christians, &c., Under Their      Government.","[3, 8, 2, 6, 5, 5, 6, 3, 5, 2, 3, 5, 2, 8, 6, 2, 3, 7, 2, 10, 2, 7, 5, 2, 3, 10, 1, 5, 5, 10]",143,"[1, 2, 1, 3, 3, 2, 3, 1, 1, 1, 1, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 3, 1, 1, 1, 3, 0, 2, 1, 3]",51,0.0,5,2,2,3
+Chapter LII: More Conquests By The Arabs.--Part I.,"[7, 3, 4, 9, 2, 3, 5, 4, 1]",38,"[2, 1, 1, 2, 1, 1, 2, 1, 1]",12,0.5,6,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       The Two Sieges Of Constantinople By The Arabs.--Their      Invasion Of France, And Defeat By Charles Martel.--Civil War      Of The Ommiades And Abbassides.--Learning Of The Arabs.--      Luxury Of The Caliphs.--Naval Enterprises On Crete, Sicily,      And Rome.--Decay And Division Of The Empire Of The Caliphs.-      -Defeats And Victories Of The Greek Emperors.","[4, 1, 3, 3, 6, 2, 14, 2, 3, 5, 5, 8, 2, 6, 3, 6, 2, 7, 6, 5, 3, 2, 3, 8, 3, 10, 8, 2, 3, 5, 6, 2, 3, 7, 5, 11, 2, 5, 6, 3, 4, 5, 3, 8, 2, 3, 6, 2, 3, 7, 7, 3, 9, 2, 3, 5, 8]",270,"[1, 0, 1, 1, 2, 1, 4, 1, 1, 2, 1, 3, 1, 1, 1, 3, 1, 1, 2, 2, 1, 1, 1, 3, 1, 3, 3, 1, 1, 2, 3, 1, 1, 2, 2, 3, 1, 1, 3, 1, 1, 2, 1, 3, 1, 1, 2, 1, 1, 2, 3, 1, 3, 1, 1, 1, 3]",93,0.0,13,2,2,2
+Chapter LIII: Fate Of The Eastern Empire.--Part I.,"[7, 4, 4, 2, 3, 7, 6, 4, 1]",38,"[2, 1, 1, 1, 1, 3, 2, 1, 1]",13,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Fate Of The Eastern Empire In The Tenth Century.--Extent And      Division.--Wealth And Revenue.--Palace Of Constantinople.--      Titles And Offices.--Pride And Power Of The Emperors.--      Tactics Of The Greeks, Arabs, And Franks.--Loss Of The Latin      Tongue.--Studies And Solitude Of The Greeks.","[4, 2, 3, 7, 6, 2, 3, 5, 7, 6, 3, 8, 6, 3, 7, 6, 2, 14, 6, 3, 7, 5, 3, 5, 2, 3, 8, 7, 2, 3, 6, 5, 3, 6, 4, 2, 3, 5, 6, 7, 3, 8, 2, 3, 6]",217,"[1, 1, 1, 3, 2, 1, 1, 1, 3, 2, 1, 3, 2, 1, 2, 2, 1, 4, 1, 1, 2, 1, 1, 2, 1, 1, 3, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 3, 1, 1, 1]",69,0.0,1,2,2,2
+Chapter LIV: Origin And Doctrine Of The Paulicians.--Part I.,"[7, 3, 6, 3, 8, 2, 3, 10, 4, 1]",47,"[2, 1, 3, 1, 2, 1, 1, 4, 1, 1]",17,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Origin And Doctrine Of The Paulicians.--Their Persecution By      The Greek Emperors.--Revolt In Armenia &c.--Transplantation      Into Thrace.--Propagation In The West.--The Seeds,      Character, And Consequences Of The Reformation.","[6, 3, 8, 2, 3, 10, 5, 11, 2, 3, 5, 8, 6, 2, 7, 1, 15, 4, 6, 11, 2, 3, 4, 3, 5, 9, 3, 12, 2, 3, 11]",175,"[3, 1, 2, 1, 1, 4, 1, 4, 1, 1, 1, 3, 2, 1, 4, 0, 4, 2, 1, 4, 1, 1, 1, 1, 1, 3, 1, 3, 1, 1, 4]",59,0.0,11,2,2,2
+"Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part I.","[7, 2, 3, 10, 3, 10, 3, 3, 8, 4, 1]",54,"[2, 0, 1, 4, 1, 4, 1, 1, 3, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Bulgarians.--Origin, Migrations, And Settlement Of The      Hungarians.--Their Inroads In The East And West.--The      Monarchy Of Russia.--Geography And Trade.--Wars Of The      Russians Against The Greek Empire.--Conversion Of The      Barbarians.","[3, 10, 6, 10, 3, 10, 2, 3, 10, 5, 7, 2, 3, 4, 3, 4, 3, 8, 2, 6, 9, 3, 5, 4, 2, 3, 8, 7, 3, 5, 6, 10, 2, 3, 10]",184,"[1, 4, 3, 3, 1, 3, 1, 1, 4, 1, 2, 1, 1, 2, 1, 1, 1, 3, 1, 3, 3, 1, 1, 1, 1, 1, 3, 2, 1, 1, 2, 3, 1, 1, 4]",64,0.0,11,2,2,2
+"Chapter LVI: The Saracens, The Franks And The Normans.--Part I.","[7, 3, 3, 8, 3, 6, 3, 3, 7, 4, 1]",48,"[2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1]",15,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       The Saracens, Franks, And Greeks, In Italy.--First      Adventures And Settlement Of The Normans.--Character And      Conquest Of Robert Guiscard, Duke Of Apulia--Deliverance Of      Sicily By His Brother Roger.--Victories Of Robert Over The      Emperors Of The East And West.--Roger, King Of Sicily,      Invades Africa And Greece.--The Emperor Manuel Comnenus.--      Wars Of The Greeks And Normans.--Extinction Of The Normans.","[4, 1, 3, 8, 6, 3, 6, 2, 5, 5, 10, 3, 10, 2, 3, 7, 9, 3, 8, 2, 6, 8, 4, 2, 6, 11, 2, 6, 2, 3, 7, 5, 9, 2, 6, 4, 3, 8, 2, 3, 4, 3, 4, 5, 4, 2, 6, 7, 6, 3, 6, 3, 7, 6, 8, 4, 2, 3, 6, 3, 7, 10, 2, 3, 7]",320,"[1, 0, 1, 3, 1, 1, 1, 1, 3, 1, 3, 1, 3, 1, 1, 2, 3, 1, 2, 1, 2, 2, 1, 1, 4, 4, 1, 3, 1, 1, 2, 2, 3, 1, 2, 2, 1, 3, 1, 1, 2, 1, 1, 2, 1, 1, 3, 2, 3, 1, 1, 1, 3, 2, 3, 1, 1, 1, 1, 1, 2, 3, 1, 1, 2]",110,0.0,18,2,2,2
+Chapter LVII: The Turks.--Part I.,"[7, 4, 3, 5, 4, 1]",24,"[2, 1, 1, 1, 1, 1]",7,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"The Turks Of The House Of Seljuk.--Their Revolt Against      Mahmud Conqueror Of Hindostan.--Togrul Subdues Persia, And      Protects The Caliphs.--Defeat And Captivity Of The Emperor      Romanus Diogenes By Alp Arslan.--Power And Magnificence Of      Malek Shah.--Conquest Of Asia Minor And Syria.--State And      Oppression Of Jerusalem.--Pilgrimages To The Holy Sepulchre.","[3, 5, 2, 3, 5, 2, 6, 5, 6, 7, 6, 9, 2, 9, 6, 7, 6, 3, 8, 3, 7, 6, 3, 9, 2, 3, 7, 7, 8, 2, 3, 6, 5, 3, 12, 2, 5, 4, 8, 2, 4, 5, 3, 5, 5, 3, 10, 2, 9, 11, 2, 3, 4, 9]",282,"[1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 1, 3, 2, 1, 3, 1, 2, 1, 2, 3, 1, 4, 1, 1, 3, 3, 2, 1, 1, 2, 2, 1, 4, 1, 2, 1, 2, 1, 3, 2, 1, 3, 1, 1, 3, 1, 4, 3, 1, 1, 2, 2]",98,-0.05,13,2,2,2
+Chapter LVIII: The First Crusade.--Part I.,"[7, 5, 3, 5, 7, 4, 1]",32,"[2, 1, 1, 1, 2, 1, 1]",9,0.25,12,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Part V.       Origin And Numbers Of The First Crusade.--Characters Of The      Latin Princes.--Their March To Constantinople.--Policy Of      The Greek Emperor Alexius.--Conquest Of Nice, Antioch, And      Jerusalem, By The Franks.--Deliverance Of The Holy      Sepulchre.--Godfrey Of Bouillon, First King Of Jerusalem.--      Institutions Of The French Or Latin Kingdom.","[4, 1, 6, 3, 7, 2, 3, 5, 7, 10, 2, 3, 5, 7, 5, 5, 2, 14, 6, 2, 3, 5, 7, 7, 8, 2, 4, 7, 3, 9, 2, 3, 6, 11, 2, 3, 4, 9, 7, 2, 8, 5, 4, 2, 9, 12, 2, 3, 6, 2, 5, 7]",268,"[1, 0, 3, 1, 2, 1, 1, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1, 4, 3, 1, 1, 1, 3, 3, 2, 1, 1, 2, 1, 4, 1, 1, 1, 4, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 4, 4, 1, 1, 1, 1, 2, 2]",87,0.22,14,2,2,2
+VOLUME SIX Chapter LIX: The Crusades.--Part I.,"[6, 3, 7, 3, 3, 8, 4, 1]",35,"[2, 1, 2, 1, 1, 2, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Preservation Of The Greek Empire.--Numbers, Passage, And      Event, Of The Second And Third Crusades.--St.","[12, 2, 3, 5, 6, 7, 7, 3, 5, 2, 3, 6, 3, 5, 8, 2]",79,"[4, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 1, 1, 2, 0]",24,0.0,4,0,0,3
+Bernard.--      Reign Of Saladin In Egypt And Syria.--His Conquest Of      Jerusalem.--Naval Crusades.--Richard The First Of England.--      Pope Innocent The Third; And The Fourth And Fifth Crusades.-      -The Emperor Frederic The Second.--Louis The Ninth Of      France; And The Two Last Crusades.--Expulsion Of The Latins      Or Franks By The Mamelukes.,"[7, 5, 2, 7, 2, 5, 3, 5, 3, 8, 2, 9, 5, 8, 7, 3, 5, 2, 7, 4, 8, 3, 5, 3, 3, 6, 3, 5, 8, 3, 7, 8, 3, 6, 5, 3, 5, 2, 6, 3, 3, 3, 4, 8, 9, 2, 3, 6, 2, 6, 2, 3, 9]",254,"[2, 1, 1, 3, 1, 2, 1, 3, 1, 2, 1, 4, 2, 2, 2, 1, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 2, 1, 3, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1, 3]",81,0.15,8,2,2,2
+Chapter LX: The Fourth Crusade.--Part I.,"[7, 2, 3, 6, 7, 4, 1]",30,"[2, 0, 1, 1, 2, 1, 1]",8,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Schism Of The Greeks And Latins.--State Of Constantinople.--      Revolt Of The Bulgarians.--Isaac Angelus Dethroned By His      Brother Alexius.--Origin Of The Fourth Crusade.--Alliance Of      The French And Venetians With The Son Of Isaac.--Their Naval      Expedition To Constantinople.--The Two Sieges And Final      Conquest Of The City By The Latins.,"[6, 2, 3, 6, 3, 6, 5, 2, 14, 6, 2, 3, 10, 5, 7, 9, 2, 3, 7, 7, 6, 2, 3, 6, 7, 8, 2, 3, 6, 3, 9, 4, 3, 3, 2, 5, 5, 5, 10, 2, 14, 3, 3, 6, 3, 5, 8, 2, 3, 4, 2, 3, 6]",264,"[1, 1, 1, 1, 1, 2, 1, 1, 4, 2, 1, 1, 4, 2, 3, 2, 1, 1, 2, 3, 3, 1, 1, 1, 2, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 2, 1, 2, 4, 1, 4, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 1, 2]",89,0.0,13,2,2,2
+Chapter LXI: Partition Of The Empire By The French And Venetians.--Part I.,"[7, 3, 9, 2, 3, 6, 2, 3, 6, 3, 9, 4, 1]",58,"[2, 1, 3, 1, 1, 2, 1, 1, 1, 1, 4, 1, 1]",20,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Partition Of The Empire By The French And Venetians,--Five      Latin Emperors Of The Houses Of Flanders And Courtenay.--      Their Wars Against The Bulgarians And Greeks.--Weakness And      Poverty Of The Latin Empire.--Recovery Of Constantinople By      The Greeks.--General Consequences Of The Crusades.","[9, 2, 3, 6, 2, 3, 6, 3, 9, 4, 5, 8, 2, 3, 6, 2, 8, 3, 9, 5, 4, 7, 3, 10, 3, 6, 8, 3, 7, 2, 3, 5, 6, 8, 2, 14, 2, 3, 6, 7, 12, 2, 3, 8]",232,"[3, 1, 1, 2, 1, 1, 1, 1, 4, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 1, 1, 2, 1, 4, 1, 1, 3, 1, 3, 1, 1, 2, 2, 4, 1, 4, 1, 1, 1, 3, 3, 1, 1, 2]",77,0.0,1,2,2,2
+Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part I.,"[7, 4, 5, 8, 2, 4, 3, 14, 4, 1]",52,"[2, 1, 1, 3, 1, 1, 1, 4, 1, 1]",16,0.3,12,1,1,1
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+The Greek Emperors Of Nice And Constantinople.--Elevation      And Reign Of Michael Palaeologus.--His False Union With The      Pope And The Latin Church.--Hostile Designs Of Charles Of      Anjou.--Revolt Of Sicily.--War Of The Catalans In Asia And      Greece.--Revolutions And Present State Of Athens.,"[3, 5, 8, 2, 4, 3, 14, 9, 3, 5, 2, 7, 11, 3, 5, 5, 4, 3, 4, 3, 3, 5, 6, 7, 7, 2, 7, 2, 5, 6, 2, 6, 3, 2, 3, 8, 2, 4, 3, 6, 11, 3, 7, 5, 2, 6]",226,"[1, 1, 3, 1, 1, 1, 4, 4, 1, 1, 1, 2, 4, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 2, 1, 3, 1, 1, 1, 3, 1, 3, 1, 1, 4, 1, 2, 1, 1, 2]",75,0.05,1,2,2,2
+Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.--Part I.,"[7, 5, 5, 4, 3, 3, 4, 2, 3, 5, 6, 4, 1]",52,"[2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]",16,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Civil Wars, And Ruin Of The Greek Empire.--Reigns Of      Andronicus, The Elder And Younger, And John Palaeologus.--      Regency, Revolt, Reign, And Abdication Of John Cantacuzene.--      Establishment Of A Genoese Colony At Pera Or Galata.--Their      Wars With The Empire And City Of Constantinople.","[5, 4, 3, 4, 2, 3, 5, 6, 6, 2, 10, 3, 5, 3, 7, 3, 4, 11, 7, 6, 5, 3, 10, 2, 4, 11, 13, 2, 1, 7, 6, 2, 4, 2, 6, 5, 4, 4, 3, 6, 3, 4, 2, 14]",222,"[2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 4, 1, 2, 1, 2, 1, 1, 4, 3, 2, 1, 1, 4, 1, 1, 4, 4, 1, 1, 2, 3, 1, 2, 1, 3, 1, 1, 1, 1, 2, 1, 2, 1, 4]",77,0.0,1,2,2,2
+"Chapter LXIV: Moguls, Ottoman Turks.--Part I.","[7, 4, 6, 7, 5, 4, 1]",34,"[2, 1, 2, 3, 1, 1, 1]",11,0.0,16,0,0,0
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Conquests Of Zingis Khan And The Moguls From China To      Poland.--Escape Of Constantinople And The Greeks.--Origin Of      The Ottoman Turks In Bithynia.--Reigns And Victories Of      Othman, Orchan, Amurath The First, And Bajazet The First.--      Foundation And Progress Of The Turkish Monarchy In Asia And      Europe.--Danger Of Constantinople And The Greek Empire.","[9, 2, 6, 4, 3, 3, 6, 4, 5, 2, 6, 6, 2, 14, 3, 3, 6, 6, 2, 3, 7, 5, 2, 8, 6, 3, 9, 2, 6, 6, 7, 3, 5, 3, 7, 3, 5, 10, 3, 8, 2, 3, 7, 8, 2, 4, 3, 6, 6, 2, 14, 3, 3, 5, 6]",277,"[2, 1, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 4, 1, 1, 1, 3, 1, 1, 3, 1, 1, 4, 1, 1, 3, 1, 2, 2, 3, 1, 1, 1, 3, 1, 1, 3, 1, 2, 1, 1, 2, 3, 1, 3, 1, 2, 2, 1, 4, 1, 1, 1, 2]",93,0.166666666667,8,2,2,2
+"Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part I.","[7, 3, 9, 2, 6, 2, 9, 3, 3, 5, 4, 1]",54,"[2, 0, 4, 1, 2, 1, 3, 1, 1, 2, 1, 1]",19,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+"Elevation Of Timour Or Tamerlane To The Throne Of      Samarcand.--His Conquests In Persia, Georgia, Tartary      Russia, India, Syria, And Anatolia.--His Turkish War.--      Defeat And Captivity Of Bajazet.--Death Of Timour.--Civil      War Of The Sons Of Bajazet.--Restoration Of The Turkish      Monarchy By Mahomet The First.--Siege Of Constantinople By      Amurath The Second.","[9, 2, 6, 2, 9, 2, 3, 6, 2, 9, 3, 9, 2, 6, 7, 7, 6, 5, 5, 3, 8, 3, 7, 3, 6, 3, 9, 2, 7, 5, 2, 6, 5, 3, 2, 3, 4, 2, 7, 11, 2, 3, 7, 8, 2, 7, 3, 5, 5, 2, 14, 2, 7, 3, 6]",277,"[4, 1, 2, 1, 3, 1, 1, 1, 1, 3, 1, 2, 1, 3, 3, 3, 3, 3, 3, 1, 5, 1, 2, 1, 3, 1, 4, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 1, 3, 4, 1, 1, 2, 3, 1, 3, 1, 1, 2, 1, 4, 1, 3, 1, 2]",108,0.0,18,2,2,2
+Chapter LXVI: Union Of The Greek And Latin Churches.--Part I.,"[7, 4, 5, 2, 3, 5, 3, 5, 8, 4, 1]",47,"[2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Applications Of The Eastern Emperors To The Popes.--Visits      To The West, Of John The First, Manuel, And John The Second,      Palaeologus.--Union Of The Greek And Latin Churches, Promoted      By The Council Of Basil, And Concluded At Ferrara And      Florence.--State Of Literature At Constantinople.--Its      Revival In Italy By The Greek Fugitives.--Curiosity And      Emulation Of The Latins.","[12, 2, 3, 7, 8, 2, 3, 5, 6, 2, 3, 4, 2, 4, 3, 5, 6, 3, 4, 3, 6, 11, 5, 2, 3, 5, 3, 5, 8, 8, 2, 3, 7, 2, 5, 3, 9, 2, 7, 3, 8, 5, 2, 10, 2, 14, 3, 7, 2, 5, 2, 3, 5, 9, 9, 3, 9, 2, 3, 6]",295,"[4, 1, 1, 3, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 4, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 1, 4, 1, 4, 1, 3, 1, 3, 1, 1, 1, 3, 4, 1, 4, 1, 1, 2]",101,0.0625,7,2,2,2
+Chapter LXVII: Schism Of The Greeks And Latins.--Part I.,"[7, 5, 6, 2, 3, 6, 3, 6, 4, 1]",43,"[2, 1, 1, 1, 1, 1, 1, 2, 1, 1]",12,0.0,16,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Schism Of The Greeks And Latins.--Reign And Character Of      Amurath The Second.--Crusade Of Ladislaus, King Of Hungary.-      -His Defeat And Death.--John Huniades.--Scanderbeg.--      Constantine Palaeologus, Last Emperor Of The East.","[6, 2, 3, 6, 3, 6, 5, 3, 9, 2, 7, 3, 6, 7, 2, 9, 4, 2, 7, 3, 6, 3, 5, 4, 8, 10, 11, 11, 4, 7, 2, 3, 4]",173,"[1, 1, 1, 1, 1, 2, 1, 1, 3, 1, 3, 1, 2, 2, 1, 3, 1, 1, 3, 1, 3, 1, 2, 1, 3, 3, 3, 4, 1, 3, 1, 1, 2]",59,0.0,11,2,2,2
+"Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part I.","[7, 6, 5, 2, 7, 3, 6, 10, 2, 7, 6, 4, 1]",66,"[2, 1, 1, 1, 3, 1, 2, 3, 1, 3, 2, 1, 1]",22,0.0,4,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Reign And Character Of Mahomet The Second.--Siege, Assault,      And Final Conquest, Of Constantinople By The Turks.--Death      Of Constantine Palaeologus.--Servitude Of The Greeks.--      Extinction Of The Roman Empire In The East.--Consternation      Of Europe.--Conquests And Death Of Mahomet The Second.","[5, 3, 9, 2, 7, 3, 6, 5, 7, 3, 5, 8, 2, 14, 2, 3, 5, 5, 2, 11, 11, 9, 2, 3, 6, 10, 2, 3, 5, 6, 2, 3, 4, 13, 2, 6, 9, 3, 5, 2, 7, 3, 6]",229,"[1, 1, 3, 1, 3, 1, 2, 2, 2, 1, 2, 2, 1, 4, 1, 1, 1, 2, 1, 3, 4, 3, 1, 1, 1, 3, 1, 1, 2, 2, 1, 1, 2, 4, 1, 2, 2, 1, 2, 1, 3, 1, 2]",77,0.0,1,2,2,2
+Chapter LXIX: State Of Rome From The Twelfth Century.--Part I.,"[7, 4, 5, 2, 4, 4, 3, 7, 7, 4, 1]",48,"[2, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1]",14,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"State Of Rome From The Twelfth Century.--Temporal Dominion      Of The Popes.--Seditions Of The City.--Political Heresy Of      Arnold Of Brescia.--Restoration Of The Republic.--The      Senators.--Pride Of The Romans.--Their Wars.--They Are      Deprived Of The Election And Presence Of The Popes, Who      Retire To Avignon.--The Jubilee.--Noble Families Of Rome.--      Feud Of The Colonna And Ursini.","[5, 2, 4, 4, 3, 7, 7, 8, 8, 2, 3, 5, 9, 2, 3, 4, 9, 6, 2, 6, 2, 7, 11, 2, 3, 8, 3, 8, 5, 2, 3, 6, 5, 4, 4, 3, 8, 2, 3, 8, 3, 8, 2, 3, 5, 3, 6, 2, 7, 3, 7, 5, 8, 2, 4, 4, 2, 3, 7, 3, 6]",289,"[1, 1, 1, 1, 1, 1, 3, 3, 3, 1, 1, 1, 3, 1, 1, 2, 4, 3, 1, 2, 1, 3, 4, 1, 1, 3, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 2, 1, 1, 1, 1, 2, 1, 3, 1, 3, 1, 3, 1, 1, 1, 1, 1, 3, 1, 3]",101,0.0,18,2,2,2
+Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part I.,"[7, 3, 5, 10, 2, 3, 14, 5, 4, 1]",54,"[2, 0, 2, 3, 1, 1, 6, 1, 1, 1]",18,0.0,10,0,0,3
+Part II.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+Part III.,"[4, 3]",7,"[1, 1]",2,0.0,0,0,0,0
+Part IV.,"[4, 2]",6,"[1, 1]",2,0.0,0,0,0,0
+"Character And Coronation Of Petrarch.--Restoration Of The      Freedom And Government Of Rome By The Tribune Rienzi.--His      Virtues And Vices, His Expulsion And Death.--Return Of The      Popes From Avignon.--Great Schism Of The West.--Reunion Of      The Latin Church.--Last Struggles Of Roman Liberty.--      Statutes Of Rome.--Final Settlement Of The Ecclesiastical      State.","[9, 3, 10, 2, 8, 11, 2, 3, 7, 3, 10, 2, 4, 2, 3, 7, 6, 3, 7, 3, 5, 3, 9, 3, 5, 6, 2, 3, 5, 4, 7, 5, 6, 2, 3, 4, 7, 2, 3, 5, 6, 4, 9, 2, 5, 7, 8, 2, 4, 5, 10, 2, 3, 14, 5]",280,"[3, 1, 4, 1, 2, 4, 1, 1, 2, 1, 3, 1, 1, 1, 1, 2, 3, 1, 1, 1, 1, 1, 3, 1, 2, 2, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 3, 2, 1, 1, 2, 3, 1, 1, 6, 1]",91,0.0,13,2,2,2
+Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.--Part I.,"[7, 4, 8, 2, 3, 5, 2, 4, 2, 3, 9, 7, 4, 1]",61,"[2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1]",19,-0.15,9,0,0,3
+Part II       Prospect Of The Ruins Of Rome In The Fifteenth Century.--      Four Causes Of Decay And Destruction.--Example Of The      Coliseum.--Renovation Of The City.--Conclusion Of The Whole      Work.     ,"[4, 2, 8, 2, 3, 5, 2, 4, 2, 3, 9, 7, 4, 6, 2, 5, 3, 11, 7, 2, 3, 8, 10, 2, 3, 4, 10, 2, 3, 5, 4]",145,"[1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1, 1, 2, 1, 3, 2, 1, 1, 3, 4, 1, 1, 2, 3, 1, 1, 1, 1]",47,0.025,5,2,2,3

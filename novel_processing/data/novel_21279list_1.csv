@@ -1,0 +1,264 @@
+0,wrd_length,total_char,syl_count,syl_sum,sentiment,cluster_20,cluster_3_syl,cluster_3no_syl,cluster_5
+"                2_B_R_0_2_B             By     Kurt Vonnegut, Jr.   Transcriber note: This etext was produced from Worlds of If, January 1962.","[11, 2, 4, 8, 2, 11, 4, 4, 5, 3, 8, 4, 6, 2, 2, 7, 4]",87,"[0, 1, 1, 3, 0, 3, 1, 1, 2, 1, 2, 1, 1, 1, 1, 3, 0]",22,0.0,16,1,1,4
+Extensive research did not uncover any evidence that the U.S. copyright on this publication was renewed.,"[9, 8, 3, 3, 7, 3, 8, 4, 3, 3, 9, 2, 4, 11, 3, 7]",87,"[3, 3, 1, 1, 3, 2, 3, 1, 1, 1, 3, 1, 1, 4, 1, 2]",31,0.0,1,1,1,4
+Got a problem?,"[3, 1, 7]",11,"[1, 1, 2]",4,0.0,15,0,0,3
+Just pick up the phone.,"[4, 4, 2, 3, 5]",18,"[1, 1, 1, 1, 1]",5,0.0,0,0,0,3
+It solved them all--and all the same way!,"[2, 6, 4, 3, 3, 3, 3, 4, 3]",31,"[1, 1, 1, 1, 1, 1, 1, 1, 1]",9,0.0,7,0,0,3
+"2      B      R      0      2      B   by KURT VONNEGUT, JR.     Everything was perfectly swell.","[1, 1, 1, 1, 1, 1, 2, 4, 8, 2, 10, 3, 9, 5]",49,"[0, 0, 0, 0, 0, 0, 1, 1, 3, 0, 4, 1, 3, 1]",14,1.0,9,2,2,0
+"There were no prisons, no slums, no insane asylums, no cripples, no poverty, no wars.","[5, 4, 2, 7, 2, 5, 2, 6, 7, 2, 8, 2, 7, 2, 4]",65,"[1, 1, 1, 2, 1, 1, 1, 2, 3, 1, 1, 1, 3, 1, 1]",21,0.5,2,2,2,0
+All diseases were conquered.,"[3, 8, 4, 9]",24,"[1, 3, 1, 2]",7,0.0,0,0,0,3
+So was old age.,"[2, 3, 3, 3]",11,"[1, 1, 1, 1]",4,0.1,15,0,0,3
+"Death, barring accidents, was an adventure for volunteers.","[5, 7, 9, 3, 2, 9, 3, 10]",48,"[2, 2, 3, 1, 1, 3, 1, 3]",16,0.0,3,0,0,1
+The population of the United States was stabilized at forty-million souls.,"[3, 10, 2, 3, 6, 6, 3, 10, 2, 13, 5]",63,"[1, 4, 1, 1, 2, 1, 1, 3, 1, 4, 1]",20,0.0,3,0,0,1
+"One bright morning in the Chicago Lying-in Hospital, a man named Edward K. Wehling, Jr., waited for his wife to give birth.","[3, 6, 7, 2, 3, 7, 8, 8, 1, 3, 5, 6, 1, 7, 2, 6, 3, 3, 4, 2, 4, 5]",96,"[1, 1, 2, 1, 1, 3, 2, 3, 1, 1, 1, 2, 0, 2, 0, 1, 1, 1, 1, 1, 1, 1]",28,0.7,19,2,2,0
+He was the only man waiting.,"[2, 3, 3, 4, 3, 7]",22,"[1, 1, 1, 2, 1, 2]",8,0.0,0,0,0,3
+Not many people were born a day any more.,"[3, 4, 6, 4, 4, 1, 3, 3, 4]",32,"[1, 2, 1, 1, 1, 1, 1, 2, 1]",11,0.125,7,0,0,1
+"Wehling was fifty-six, a mere stripling in a population whose average age was one hundred and twenty-nine.","[7, 3, 9, 1, 4, 9, 2, 1, 10, 5, 7, 3, 3, 3, 7, 3, 11]",88,"[2, 1, 3, 1, 1, 2, 1, 1, 4, 1, 3, 1, 1, 1, 1, 1, 3]",28,-0.325,17,1,1,4
+X-rays had revealed that his wife was going to have triplets.,"[6, 3, 8, 4, 3, 4, 3, 5, 2, 4, 8]",50,"[1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 2]",14,0.0,3,0,0,1
+The children would be his first.,"[3, 8, 5, 2, 3, 5]",26,"[1, 2, 1, 1, 1, 1]",7,0.25,10,0,0,3
+"Young Wehling was hunched in his chair, his head in his hand.","[5, 7, 3, 7, 2, 3, 5, 3, 4, 2, 3, 4]",48,"[1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1]",14,0.1,3,0,0,1
+"He was so rumpled, so still and colorless as to be virtually invisible.","[2, 3, 2, 7, 2, 5, 3, 9, 2, 2, 2, 9, 9]",57,"[1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 3, 3]",19,0.0,3,0,0,1
+"His camouflage was perfect, since the waiting room had a disorderly and demoralized air, too.","[3, 10, 3, 7, 5, 3, 7, 4, 3, 1, 10, 3, 11, 3, 3]",76,"[1, 3, 1, 2, 1, 1, 2, 1, 1, 1, 4, 1, 4, 1, 1]",25,1.0,19,2,2,0
+Chairs and ashtrays had been moved away from the walls.,"[6, 3, 8, 3, 4, 5, 4, 4, 3, 5]",45,"[1, 1, 2, 1, 1, 1, 2, 1, 1, 1]",12,0.0,3,0,0,1
+The floor was paved with spattered dropcloths.,"[3, 5, 3, 5, 4, 9, 10]",39,"[1, 1, 1, 1, 1, 2, 2]",9,0.0,7,0,0,3
+The room was being redecorated.,"[3, 4, 3, 5, 11]",26,"[1, 1, 1, 1, 4]",8,0.0,0,0,0,3
+It was being redecorated as a memorial to a man who had volunteered to die.,"[2, 3, 5, 11, 2, 1, 8, 2, 1, 3, 3, 3, 11, 2, 3]",60,"[1, 1, 1, 4, 1, 1, 4, 1, 1, 1, 1, 1, 3, 1, 1]",23,0.0,16,0,0,1
+"A sardonic old man, about two hundred years old, sat on a stepladder, painting a mural he did not like.","[1, 8, 3, 3, 5, 3, 7, 5, 3, 3, 2, 1, 10, 8, 1, 5, 2, 3, 3, 4]",80,"[1, 3, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 3, 2, 1, 2, 1, 1, 1, 1]",28,0.1,16,1,1,4
+"Back in the days when people aged visibly, his age would have been guessed at thirty-five or so.","[4, 2, 3, 4, 4, 6, 4, 7, 3, 3, 5, 4, 4, 7, 2, 11, 2, 2]",77,"[1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1]",22,-0.05,16,1,1,4
+Aging had touched him that much before the cure for aging was found.,"[5, 3, 7, 3, 4, 4, 6, 3, 4, 3, 5, 3, 5]",55,"[2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1]",16,0.2,6,0,0,1
+The mural he was working on depicted a very neat garden.,"[3, 5, 2, 3, 7, 2, 8, 1, 4, 4, 6]",45,"[1, 2, 1, 1, 2, 1, 2, 1, 2, 2, 2]",17,0.2,6,0,0,1
+"Men and women in white, doctors and nurses, turned the soil, planted seedlings, sprayed bugs, spread fertilizer.","[3, 3, 5, 2, 5, 7, 3, 6, 6, 3, 4, 7, 9, 7, 4, 6, 10]",90,"[1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 0, 1, 2, 4]",23,0.0,16,1,1,4
+"Men and women in purple uniforms pulled up weeds, cut down plants that were old and sickly, raked leaves, carried refuse to trash-burners.","[3, 3, 5, 2, 6, 8, 6, 2, 5, 3, 4, 6, 4, 4, 3, 3, 6, 5, 6, 7, 6, 2, 13]",112,"[1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 3]",32,-0.256613756614,17,1,1,4
+"Never, never, never--not even in medieval Holland nor old Japan--had a garden been more formal, been better tended.","[5, 5, 5, 3, 4, 2, 8, 7, 3, 3, 5, 3, 1, 6, 4, 4, 6, 4, 6, 6]",90,"[2, 2, 2, 1, 2, 1, 4, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1]",32,0.275,14,1,1,4
+"Every plant had all the loam, light, water, air and nourishment it could use.","[5, 5, 3, 3, 3, 4, 5, 5, 3, 3, 11, 2, 5, 3]",60,"[3, 1, 1, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1]",19,0.4,2,2,2,0
+"A hospital orderly came down the corridor, singing under his breath a popular song:       If you don't like my kisses, honey,      Here's what I will do:      I'll go see a girl in purple,      Kiss this sad world toodle-oo.","[1, 8, 7, 4, 4, 3, 8, 7, 5, 3, 6, 1, 7, 4, 2, 3, 2, 3, 4, 2, 6, 5, 4, 2, 4, 1, 4, 2, 1, 3, 2, 3, 1, 4, 2, 6, 4, 4, 3, 5, 9]",159,"[1, 3, 3, 1, 1, 1, 3, 2, 2, 1, 2, 1, 3, 1, 1, 1, 1, 0, 1, 1, 1, 2, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3]",52,-0.0185185185185,4,1,1,2
+"If you don't want my lovin',      Why should I take up all this space?","[2, 3, 2, 3, 4, 2, 5, 3, 6, 1, 4, 2, 3, 4, 5]",49,"[1, 1, 1, 0, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1]",15,0.0,3,0,0,1
+"I'll get off this old planet,      Let some sweet baby have my place.","[1, 3, 3, 3, 4, 3, 6, 3, 4, 5, 4, 4, 2, 5]",50,"[1, 0, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1]",15,0.225,6,0,0,1
+The orderly looked in at the mural and the muralist.,"[3, 7, 6, 2, 2, 3, 5, 3, 3, 8]",42,"[1, 3, 1, 1, 1, 1, 2, 1, 1, 3]",15,0.0,3,0,0,1
+"""Looks so real,"" he said, ""I can practically imagine I'm standing in the middle of it.""","[5, 2, 4, 2, 4, 1, 3, 11, 7, 1, 2, 8, 2, 3, 6, 2, 2]",65,"[1, 1, 2, 1, 1, 1, 1, 4, 3, 1, 0, 2, 1, 1, 1, 1, 1]",23,0.1,16,1,1,1
+"""What makes you think you're not in it?""","[4, 5, 3, 5, 3, 3, 3, 2, 2]",30,"[1, 1, 1, 1, 1, 0, 1, 1, 1]",8,0.0,7,0,0,3
+said the painter.,"[4, 3, 7]",14,"[1, 1, 2]",4,0.0,15,0,0,3
+He gave a satiric smile.,"[2, 4, 1, 7, 5]",19,"[1, 1, 1, 3, 1]",7,0.3,10,0,0,3
+"""It's called 'The Happy Garden of Life,' you know.""","[2, 2, 6, 4, 5, 6, 2, 4, 3, 4]",38,"[1, 0, 1, 0, 2, 2, 1, 1, 1, 1]",10,0.8,18,2,2,0
+"""That's good of Dr. Hitz,"" said the orderly.","[4, 2, 4, 2, 2, 4, 4, 3, 7]",32,"[1, 0, 1, 1, 0, 1, 1, 1, 3]",9,0.7,18,2,2,0
+"*       *       *       *       *  He was referring to one of the male figures in white, whose head was a portrait of Dr. Benjamin Hitz, the hospital's Chief Obstetrician.","[2, 3, 9, 2, 3, 2, 3, 4, 7, 2, 5, 5, 4, 3, 1, 8, 2, 2, 8, 4, 3, 8, 2, 5, 12]",109,"[1, 1, 3, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 0, 3, 1, 1, 3, 0, 2, 5]",37,0.0,1,1,1,4
+Hitz was a blindingly handsome man.,"[4, 3, 1, 10, 8, 3]",29,"[1, 1, 1, 3, 2, 1]",9,0.5,10,2,2,0
+"""Lot of faces still to fill in,"" said the orderly.","[3, 2, 5, 5, 2, 4, 2, 4, 3, 7]",37,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 3]",12,0.0,7,0,0,1
+He meant that the faces of many of the figures in the mural were still blank.,"[2, 5, 4, 3, 5, 2, 4, 2, 3, 7, 2, 3, 5, 4, 5, 5]",61,"[1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 1]",20,0.25,6,2,2,1
+All blanks were to be filled with portraits of important people on either the hospital staff or from the Chicago Office of the Federal Bureau of Termination.,"[3, 6, 4, 2, 2, 6, 4, 9, 2, 9, 6, 2, 6, 3, 8, 5, 2, 4, 3, 7, 6, 2, 3, 7, 6, 2, 11]",130,"[1, 1, 1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 2, 1, 3, 1, 1, 1, 1, 3, 2, 1, 1, 3, 3, 1, 4]",43,0.4,11,1,1,2
+"""Must be nice to be able to make pictures that look like something,"" said the orderly.","[4, 2, 4, 2, 2, 4, 2, 4, 8, 4, 4, 4, 9, 4, 3, 7]",67,"[1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 3]",21,0.55,2,2,2,0
+The painter's face curdled with scorn.,"[3, 7, 2, 4, 7, 4, 5]",32,"[1, 2, 0, 1, 1, 1, 1]",7,0.0,7,0,0,3
+"""You think I'm proud of this daub?""","[3, 5, 1, 2, 5, 2, 4, 4]",26,"[1, 1, 1, 0, 1, 1, 1, 1]",7,0.8,18,2,2,0
+he said.,"[2, 4]",6,"[1, 1]",2,0.0,15,0,0,3
+"""You think this is my idea of what life really looks like?""","[3, 5, 4, 2, 2, 4, 2, 4, 4, 6, 5, 4]",45,"[1, 1, 1, 1, 1, 3, 1, 1, 1, 3, 1, 1]",16,0.2,6,0,0,1
+"""What's your idea of what life looks like?""","[4, 2, 4, 4, 2, 4, 4, 5, 4]",33,"[1, 0, 1, 3, 1, 1, 1, 1, 1]",10,0.0,7,0,0,3
+said the orderly.,"[4, 3, 7]",14,"[1, 1, 3]",5,0.0,0,0,0,3
+The painter gestured at a foul dropcloth.,"[3, 7, 8, 2, 1, 4, 9]",34,"[1, 2, 2, 1, 1, 1, 2]",10,0.0,7,0,0,3
+"""There's a good picture of it,"" he said.","[5, 2, 1, 4, 7, 2, 2, 2, 4]",29,"[1, 0, 1, 1, 2, 1, 1, 1, 1]",9,0.7,18,2,2,0
+"""Frame that, and you'll have a picture a damn sight more honest than this one.""","[5, 4, 3, 3, 3, 4, 1, 7, 1, 4, 5, 4, 6, 4, 4, 3]",61,"[1, 1, 1, 1, 0, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1]",17,0.55,2,2,2,0
+"""You're a gloomy old duck, aren't you?""","[3, 3, 1, 6, 3, 4, 3, 3, 3]",29,"[1, 0, 1, 2, 1, 1, 1, 0, 1]",8,0.1,7,0,0,3
+said the orderly.,"[4, 3, 7]",14,"[1, 1, 3]",5,0.0,0,0,0,3
+"""Is that a crime?""","[2, 4, 1, 5]",12,"[1, 1, 1, 1]",4,0.0,15,0,0,3
+said the painter.,"[4, 3, 7]",14,"[1, 1, 2]",4,0.0,15,0,0,3
+The orderly shrugged.,"[3, 7, 8]",18,"[1, 3, 1]",5,0.0,0,0,0,3
+"""If you don't like it here, Grandpa--"" he said, and he finished the thought with the trick telephone number that people who didn't want to live any more were supposed to call.","[2, 3, 2, 3, 4, 2, 4, 7, 2, 4, 3, 2, 8, 3, 7, 4, 3, 5, 9, 6, 4, 6, 3, 3, 3, 4, 2, 4, 3, 4, 4, 8, 2, 4]",137,"[1, 1, 1, 0, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 0, 1, 1, 1, 2, 1, 1, 2, 1, 1]",39,0.318181818182,11,1,1,2
+"The zero in the telephone number he pronounced ""naught.""","[3, 4, 2, 3, 9, 6, 2, 10, 6]",45,"[1, 2, 1, 1, 3, 2, 1, 2, 1]",14,0.0,3,0,0,1
+"The number was: ""2 B R 0 2 B.""","[3, 6, 3, 1, 1, 1, 1, 1, 1]",18,"[1, 2, 1, 0, 0, 0, 0, 0, 0]",4,0.0,0,0,0,3
+"It was the telephone number of an institution whose fanciful sobriquets included: ""Automat,"" ""Birdland,"" ""Cannery,"" ""Catbox,"" ""De-louser,"" ""Easy-go,"" ""Good-by, Mother,"" ""Happy Hooligan,"" ""Kiss-me-quick,"" ""Lucky Pierre,"" ""Sheepdip,"" ""Waring Blendor,"" ""Weep-no-more"" and ""Why Worry?""","[2, 3, 3, 9, 6, 2, 2, 11, 5, 8, 10, 8, 7, 8, 7, 6, 9, 7, 7, 6, 5, 8, 13, 5, 6, 8, 6, 7, 12, 3, 3, 5]",207,"[1, 1, 1, 3, 2, 1, 1, 4, 1, 3, 3, 2, 3, 2, 3, 2, 3, 4, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 3, 1, 1, 2]",69,0.566666666667,13,1,1,2
+"""To be or not to be"" was the telephone number of the municipal gas chambers of the Federal Bureau of Termination.","[2, 2, 2, 3, 2, 2, 3, 3, 9, 6, 2, 3, 9, 3, 8, 2, 3, 7, 6, 2, 11]",90,"[1, 1, 1, 1, 1, 1, 1, 1, 3, 2, 1, 1, 4, 1, 2, 1, 1, 3, 3, 1, 4]",35,0.0,1,1,1,4
+*       *       *       *       *  The painter thumbed his nose at the orderly.,"[3, 7, 7, 3, 4, 2, 3, 7]",36,"[1, 2, 1, 1, 1, 1, 1, 3]",11,0.0,7,0,0,1
+"""When I decide it's time to go,"" he said, ""it won't be at the Sheepdip.""","[4, 1, 6, 2, 2, 4, 2, 2, 2, 4, 2, 2, 3, 2, 2, 3, 8]",51,"[1, 1, 2, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 2]",17,0.0,3,0,0,1
+"""A do-it-yourselfer, eh?""","[1, 16, 2]",19,"[1, 5, 1]",7,0.0,0,0,0,3
+said the orderly.,"[4, 3, 7]",14,"[1, 1, 3]",5,0.0,0,0,0,3
+"""Messy business, Grandpa.","[5, 8, 7]",20,"[2, 3, 2]",7,-0.2,0,0,0,3
+"Why don't you have a little consideration for the people who have to clean up after you?""","[3, 2, 3, 3, 4, 1, 6, 13, 3, 3, 6, 3, 4, 2, 5, 2, 5, 3]",71,"[1, 1, 0, 1, 1, 1, 1, 5, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1]",23,0.0895833333333,16,1,1,4
+The painter expressed with an obscenity his lack of concern for the tribulations of his survivors.,"[3, 7, 9, 4, 2, 9, 3, 4, 2, 7, 3, 3, 12, 2, 3, 9]",82,"[1, 2, 2, 1, 1, 4, 1, 1, 1, 2, 1, 1, 4, 1, 1, 3]",27,0.0,16,1,1,4
+"""The world could do with a good deal more mess, if you ask me,"" he said.","[3, 5, 5, 2, 4, 1, 4, 4, 4, 4, 2, 3, 3, 2, 2, 4]",52,"[1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1]",17,0.341666666667,6,2,2,1
+The orderly laughed and moved on.,"[3, 7, 7, 3, 5, 2]",27,"[1, 3, 1, 1, 1, 1]",8,0.7,18,2,2,0
+"Wehling, the waiting father, mumbled something without raising his head.","[7, 3, 7, 6, 7, 9, 7, 7, 3, 4]",60,"[2, 1, 2, 2, 1, 3, 2, 2, 1, 2]",18,0.0,3,0,0,1
+And then he fell silent again.,"[3, 4, 2, 4, 6, 5]",24,"[1, 1, 1, 1, 2, 2]",8,0.0,0,0,0,3
+"A coarse, formidable woman strode into the waiting room on spike heels.","[1, 6, 10, 5, 6, 4, 3, 7, 4, 2, 5, 5]",58,"[1, 1, 3, 2, 1, 2, 1, 2, 1, 1, 1, 1]",17,0.0,3,0,0,1
+"Her shoes, stockings, trench coat, bag and overseas cap were all purple, the purple the painter called ""the color of grapes on Judgment Day.""","[3, 5, 9, 6, 4, 3, 3, 8, 3, 4, 3, 6, 3, 6, 3, 7, 6, 3, 5, 2, 6, 2, 8, 3]",111,"[1, 0, 2, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1]",30,0.0,1,1,1,4
+"The medallion on her purple musette bag was the seal of the Service Division of the Federal Bureau of Termination, an eagle perched on a turnstile.","[3, 9, 2, 3, 6, 7, 3, 3, 3, 4, 2, 3, 7, 8, 2, 3, 7, 6, 2, 11, 2, 5, 7, 2, 1, 9]",120,"[1, 3, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 3, 1, 1, 3, 3, 1, 4, 1, 2, 1, 1, 1, 2]",42,0.0,1,1,1,2
+"The woman had a lot of facial hair--an unmistakable mustache, in fact.","[3, 5, 3, 1, 3, 2, 6, 4, 2, 12, 8, 2, 4]",55,"[1, 2, 1, 1, 1, 1, 3, 1, 1, 4, 2, 1, 1]",20,0.0,3,0,0,1
+"A curious thing about gas-chamber hostesses was that, no matter how lovely and feminine they were when recruited, they all sprouted mustaches within five years or so.","[1, 7, 5, 5, 11, 9, 3, 4, 2, 6, 3, 6, 3, 8, 4, 4, 4, 9, 4, 3, 8, 9, 6, 4, 5, 2, 2]",137,"[1, 2, 1, 2, 3, 2, 1, 1, 1, 2, 1, 3, 1, 3, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1]",41,0.2,11,1,1,2
+"""Is this where I'm supposed to come?""","[2, 4, 5, 1, 2, 8, 2, 4]",28,"[1, 1, 1, 1, 0, 2, 1, 1]",8,0.0,7,0,0,3
+she said to the painter.,"[3, 4, 2, 3, 7]",19,"[0, 1, 1, 1, 2]",5,0.0,0,0,0,3
+"""A lot would depend on what your business was,"" he said.","[1, 3, 5, 6, 2, 4, 4, 8, 3, 2, 4]",42,"[1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1]",14,0.0,3,0,0,1
+"""You aren't about to have a baby, are you?""","[3, 3, 3, 5, 2, 4, 1, 4, 3, 3]",31,"[1, 1, 0, 2, 1, 1, 1, 2, 1, 1]",11,0.0,7,0,0,3
+"""They told me I was supposed to pose for some picture,"" she said.","[4, 4, 2, 1, 3, 8, 2, 4, 3, 4, 7, 3, 4]",49,"[1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 0, 1]",14,0.0,3,0,0,1
+"""My name's Leora Duncan.""","[2, 4, 2, 5, 6]",19,"[1, 1, 0, 2, 2]",6,0.0,0,0,0,3
+She waited.,"[3, 6]",9,"[0, 1]",1,0.0,15,0,0,3
+"""And you dunk people,"" he said.","[3, 3, 4, 6, 2, 4]",22,"[1, 1, 1, 1, 1, 1]",6,0.0,0,0,0,3
+"""What?""",[4],4,[1],1,0.0,15,0,0,3
+she said.,"[3, 4]",7,"[0, 1]",1,0.0,15,0,0,3
+"""Skip it,"" he said.","[4, 2, 2, 4]",12,"[1, 1, 1, 1]",4,0.0,15,0,0,3
+"""That sure is a beautiful picture,"" she said.","[4, 4, 2, 1, 9, 7, 3, 4]",34,"[1, 1, 1, 1, 4, 2, 0, 1]",11,0.675,18,2,2,0
+"""Looks just like heaven or something.""","[5, 4, 4, 6, 2, 9]",30,"[1, 1, 1, 3, 1, 3]",10,0.0,7,0,0,3
+"""Or something,"" said the painter.","[2, 9, 4, 3, 7]",25,"[1, 3, 1, 1, 2]",8,0.0,0,0,0,3
+He took a list of names from his smock pocket.,"[2, 4, 1, 4, 2, 5, 4, 3, 5, 6]",36,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 2]",11,0.0,7,0,0,1
+"""Duncan, Duncan, Duncan,"" he said, scanning the list.","[6, 6, 6, 2, 4, 8, 3, 4]",39,"[2, 2, 2, 1, 1, 2, 1, 1]",12,0.0,7,0,0,1
+"""Yes--here you are.","[3, 4, 3, 3]",13,"[0, 1, 1, 1]",3,0.0,15,0,0,3
+You're entitled to be immortalized.,"[3, 3, 8, 2, 2, 12]",30,"[1, 0, 2, 1, 1, 4]",9,0.0,7,0,0,3
+See any faceless body here you'd like me to stick your head on?,"[3, 3, 8, 4, 4, 3, 2, 4, 2, 2, 5, 4, 4, 2]",50,"[1, 2, 3, 2, 1, 1, 0, 1, 1, 1, 1, 1, 2, 1]",18,0.0,3,0,0,1
+"We've got a few choice ones left.""","[2, 3, 3, 1, 3, 6, 4, 4]",26,"[1, 0, 1, 1, 1, 1, 1, 1]",7,-0.1,0,0,0,3
+She studied the mural bleakly.,"[3, 7, 3, 5, 7]",25,"[0, 2, 1, 2, 3]",8,-1.0,5,0,0,3
+"""Gee,"" she said, ""they're all the same to me.","[3, 3, 4, 4, 3, 3, 3, 4, 2, 2]",31,"[1, 0, 1, 1, 0, 1, 1, 1, 1, 1]",8,0.0,7,0,0,3
+"I don't know anything about art.""","[1, 2, 3, 4, 8, 5, 3]",26,"[1, 1, 0, 1, 3, 2, 1]",9,0.0,7,0,0,3
+"""A body's a body, eh?""","[1, 4, 2, 1, 4, 2]",14,"[1, 2, 0, 1, 2, 1]",7,0.0,0,0,0,3
+"he said, ""All righty.","[2, 4, 3, 6]",15,"[1, 1, 1, 2]",5,0.0,0,0,0,3
+"As a master of fine art, I recommend this body here.""","[2, 1, 6, 2, 4, 3, 1, 9, 4, 4, 4]",40,"[1, 1, 2, 1, 1, 1, 1, 3, 1, 2, 1]",15,0.416666666667,10,2,2,0
+He indicated a faceless figure of a woman who was carrying dried stalks to a trash-burner.,"[2, 9, 1, 8, 6, 2, 1, 5, 3, 3, 8, 5, 6, 2, 1, 12]",74,"[1, 3, 1, 3, 2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 3]",25,-0.2,17,1,1,4
+"""Well,"" said Leora Duncan, ""that's more the disposal people, isn't it?","[4, 4, 5, 6, 4, 2, 4, 3, 8, 6, 2, 3, 2]",53,"[1, 1, 2, 2, 1, 0, 1, 1, 3, 1, 1, 0, 1]",15,0.5,2,2,2,0
+"I mean, I'm in service.","[1, 4, 1, 2, 2, 7]",17,"[1, 2, 1, 0, 1, 2]",7,-0.3125,8,0,0,3
+"I don't do any disposing.""","[1, 2, 3, 2, 3, 9]",20,"[1, 1, 0, 1, 2, 3]",8,0.0,0,0,0,3
+The painter clapped his hands in mock delight.,"[3, 7, 7, 3, 5, 2, 4, 7]",38,"[1, 2, 1, 1, 1, 1, 1, 2]",10,0.0,7,0,0,1
+"""You say you don't know anything about art, and then you prove in the next breath that you know more about it than I do!","[3, 3, 3, 2, 3, 4, 8, 5, 3, 3, 4, 3, 5, 2, 3, 4, 6, 4, 3, 4, 4, 5, 2, 4, 1, 2]",93,"[1, 1, 1, 1, 0, 1, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1]",30,0.3125,14,1,1,4
+Of course the sheave-carrier is wrong for a hostess!,"[2, 6, 3, 14, 2, 5, 3, 1, 7]",43,"[1, 1, 1, 6, 1, 1, 1, 1, 2]",15,-0.625,8,0,0,3
+"A snipper, a pruner--that's more your line.""","[1, 7, 1, 6, 4, 2, 4, 4, 4]",33,"[1, 2, 1, 2, 1, 0, 1, 1, 1]",10,0.5,10,2,2,0
+He pointed to a figure in purple who was sawing a dead branch from an apple tree.,"[2, 7, 2, 1, 6, 2, 6, 3, 3, 6, 1, 4, 6, 4, 2, 5, 4]",64,"[1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1]",20,-0.2,3,0,0,1
+"""How about her?""","[3, 5, 3]",11,"[1, 2, 1]",4,0.0,15,0,0,3
+he said.,"[2, 4]",6,"[1, 1]",2,0.0,15,0,0,3
+"""You like her at all?""","[3, 4, 3, 2, 3]",15,"[1, 1, 1, 1, 1]",5,0.0,0,0,0,3
+"""Gosh--"" she said, and she blushed and became humble--""that--that puts me right next to Dr.","[4, 3, 4, 3, 3, 7, 3, 6, 6, 4, 4, 4, 2, 5, 4, 2, 2]",66,"[1, 0, 1, 1, 0, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0]",15,0.0285714285714,3,0,0,1
+"Hitz.""",[4],4,[1],1,0.0,15,0,0,3
+"""That upsets you?""","[4, 6, 3]",13,"[1, 2, 1]",4,0.0,15,0,0,3
+he said.,"[2, 4]",6,"[1, 1]",2,0.0,15,0,0,3
+"""Good gravy, no!""","[4, 5, 2]",11,"[1, 2, 1]",4,0.875,12,2,2,0
+she said.,"[3, 4]",7,"[0, 1]",1,0.0,15,0,0,3
+"""It's--it's just such an honor.""","[2, 2, 2, 2, 4, 4, 2, 5]",23,"[1, 0, 1, 0, 1, 1, 1, 2]",7,0.0,0,0,0,3
+"""Ah, You admire him, eh?""","[2, 3, 6, 3, 2]",16,"[1, 1, 2, 1, 1]",6,0.0,0,0,0,3
+he said.,"[2, 4]",6,"[1, 1]",2,0.0,15,0,0,3
+"""Who doesn't admire him?""","[3, 4, 3, 6, 3]",19,"[1, 0, 0, 2, 1]",4,0.0,0,0,0,3
+"she said, worshiping the portrait of Hitz.","[3, 4, 10, 3, 8, 2, 4]",34,"[0, 1, 3, 1, 2, 1, 1]",9,0.0,7,0,0,3
+"It was the portrait of a tanned, white-haired, omnipotent Zeus, two hundred and forty years old.","[2, 3, 3, 8, 2, 1, 6, 12, 10, 4, 3, 7, 3, 5, 5, 3]",77,"[1, 1, 1, 2, 1, 1, 1, 3, 4, 1, 1, 1, 1, 2, 2, 1]",24,0.1,16,1,1,4
+"""Who doesn't admire him?""","[3, 4, 3, 6, 3]",19,"[1, 0, 0, 2, 1]",4,0.0,0,0,0,3
+she said again.,"[3, 4, 5]",12,"[0, 1, 2]",3,0.0,15,0,0,3
+"""He was responsible for setting up the very first gas chamber in Chicago.""","[2, 3, 11, 3, 7, 2, 3, 4, 5, 3, 7, 2, 7]",59,"[1, 1, 3, 1, 2, 1, 1, 2, 1, 1, 2, 1, 3]",20,0.2625,6,2,2,1
+"""Nothing would please me more,"" said the painter, ""than to put you next to him for all time.","[7, 5, 6, 2, 4, 4, 3, 7, 4, 2, 3, 3, 4, 2, 3, 3, 3, 4]",69,"[2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",21,0.25,6,2,2,1
+"Sawing off a limb--that strikes you as appropriate?""","[6, 3, 1, 4, 4, 7, 3, 2, 11]",41,"[2, 1, 1, 1, 1, 1, 1, 1, 4]",13,0.5,10,2,2,0
+"""That is kind of like what I do,"" she said.","[4, 2, 4, 2, 4, 4, 1, 2, 3, 4]",30,"[1, 1, 1, 1, 1, 1, 1, 1, 0, 1]",9,0.6,18,2,2,0
+She was demure about what she did.,"[3, 3, 6, 5, 4, 3, 3]",27,"[0, 1, 2, 2, 1, 0, 1]",7,0.0,0,0,0,3
+What she did was make people comfortable while she killed them.,"[4, 3, 3, 3, 4, 6, 11, 5, 3, 6, 4]",52,"[1, 0, 1, 1, 1, 1, 3, 1, 0, 1, 1]",11,0.1,3,0,0,1
+"*       *       *       *       *  And, while Leora Duncan was posing for her portrait, into the waitingroom bounded Dr. Hitz himself.","[3, 5, 5, 6, 3, 6, 3, 3, 8, 4, 3, 11, 7, 2, 4, 7]",80,"[1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 1, 3, 1, 0, 1, 2]",23,0.0,16,1,1,4
+"He was seven feet tall, and he boomed with importance, accomplishments, and the joy of living.","[2, 3, 5, 4, 4, 3, 2, 6, 4, 10, 15, 3, 3, 3, 2, 6]",75,"[1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 4, 1, 1, 1, 1, 2]",23,0.8,19,2,2,0
+"""Well, Miss Duncan!","[4, 4, 6]",14,"[1, 1, 2]",4,0.0,15,0,0,3
+"Miss Duncan!""","[4, 6]",10,"[1, 2]",3,0.0,15,0,0,3
+"he said, and he made a joke.","[2, 4, 3, 2, 4, 1, 4]",20,"[1, 1, 1, 1, 1, 1, 1]",7,0.0,0,0,0,3
+"""What are you doing here?""","[4, 3, 3, 5, 4]",19,"[1, 1, 1, 1, 1]",5,0.0,0,0,0,3
+he said.,"[2, 4]",6,"[1, 1]",2,0.0,15,0,0,3
+"""This isn't where the people leave.","[4, 2, 3, 5, 3, 6, 5]",28,"[1, 1, 0, 1, 1, 1, 2]",7,0.0,0,0,0,3
+"This is where they come in!""","[4, 2, 5, 4, 4, 2]",21,"[1, 1, 1, 1, 1, 1]",6,0.0,0,0,0,3
+"""We're going to be in the same picture together,"" she said shyly.","[2, 3, 5, 2, 2, 2, 3, 4, 7, 8, 3, 4, 5]",50,"[1, 0, 1, 1, 1, 1, 1, 1, 2, 3, 0, 1, 2]",15,0.0,3,0,0,1
+"""Good!""",[4],4,[1],1,0.875,12,2,2,0
+said Dr. Hitz heartily.,"[4, 2, 4, 8]",18,"[1, 0, 1, 4]",6,0.0,0,0,0,3
+"""And, say, isn't that some picture?""","[3, 3, 2, 3, 4, 4, 7]",26,"[1, 1, 1, 0, 1, 1, 2]",7,0.0,0,0,0,3
+"""I sure am honored to be in it with you,"" she said.","[1, 4, 2, 7, 2, 2, 2, 2, 4, 3, 3, 4]",36,"[1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1]",12,0.5,10,2,2,0
+"""Let me tell you,"" he said, ""I'm honored to be in it with you.","[3, 2, 4, 3, 2, 4, 1, 2, 7, 2, 2, 2, 2, 4, 3]",43,"[1, 1, 1, 1, 1, 1, 1, 0, 2, 1, 1, 1, 1, 1, 1]",15,0.0,3,0,0,1
+"Without women like you, this wonderful world we've got wouldn't be possible.""","[7, 5, 4, 3, 4, 9, 5, 2, 3, 3, 5, 3, 2, 8]",63,"[2, 2, 1, 1, 1, 3, 1, 1, 0, 1, 1, 0, 1, 2]",17,0.5,2,2,2,0
+He saluted her and moved toward the door that led to the delivery rooms.,"[2, 7, 3, 3, 5, 6, 3, 4, 4, 3, 2, 3, 8, 5]",58,"[1, 2, 1, 1, 1, 2, 1, 1, 1, 0, 1, 1, 4, 1]",18,0.0,3,0,0,1
+"""Guess what was just born,"" he said.","[5, 4, 3, 4, 4, 2, 4]",26,"[1, 1, 1, 1, 1, 1, 1]",7,0.0,0,0,0,3
+"""I can't,"" she said.","[1, 2, 3, 3, 4]",13,"[1, 1, 0, 0, 1]",3,0.0,15,0,0,3
+"""Triplets!""",[8],8,[2],2,0.0,15,0,0,3
+he said.,"[2, 4]",6,"[1, 1]",2,0.0,15,0,0,3
+"""Triplets!""",[8],8,[2],2,0.0,15,0,0,3
+she said.,"[3, 4]",7,"[0, 1]",1,0.0,15,0,0,3
+She was exclaiming over the legal implications of triplets.,"[3, 3, 10, 4, 3, 5, 12, 2, 8]",50,"[0, 1, 3, 2, 1, 2, 4, 1, 2]",16,0.2,6,0,0,1
+The law said that no newborn child could survive unless the parents of the child could find someone who would volunteer to die.,"[3, 3, 4, 4, 2, 7, 5, 5, 7, 6, 3, 7, 2, 3, 5, 5, 4, 7, 3, 5, 9, 2, 3]",104,"[1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1]",30,0.0,1,1,1,4
+"Triplets, if they were all to live, called for three volunteers.","[8, 2, 4, 4, 3, 2, 4, 6, 3, 5, 10]",51,"[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3]",14,0.136363636364,6,0,0,1
+"""Do the parents have three volunteers?""","[2, 3, 7, 4, 5, 10]",31,"[1, 1, 2, 1, 1, 3]",9,0.0,7,0,0,3
+said Leora Duncan.,"[4, 5, 6]",15,"[1, 2, 2]",5,0.0,0,0,0,3
+"""Last I heard,"" said Dr. Hitz, ""they had one, and were trying to scrape another two up.""","[4, 1, 5, 4, 2, 4, 4, 3, 3, 3, 4, 6, 2, 6, 7, 3, 2]",63,"[1, 1, 2, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1]",19,0.0,3,0,0,1
+"""I don't think they made it,"" she said.","[1, 2, 3, 5, 4, 4, 2, 3, 4]",28,"[1, 1, 0, 1, 1, 1, 1, 0, 1]",7,0.0,0,0,0,3
+"""Nobody made three appointments with us.","[6, 4, 5, 12, 4, 2]",33,"[3, 1, 1, 3, 1, 1]",10,0.0,7,0,0,3
+"Nothing but singles going through today, unless somebody called in after I left.","[7, 3, 7, 5, 7, 5, 6, 8, 6, 2, 5, 1, 4]",66,"[2, 1, 1, 1, 1, 2, 2, 4, 1, 1, 2, 1, 1]",20,0.0,16,0,0,1
+"What's the name?""","[4, 2, 3, 4]",13,"[1, 0, 1, 1]",3,0.0,15,0,0,3
+"""Wehling,"" said the waiting father, sitting up, red-eyed and frowzy.","[7, 4, 3, 7, 6, 7, 2, 8, 3, 6]",53,"[2, 1, 1, 2, 2, 2, 1, 1, 1, 2]",15,0.0,3,0,0,1
+"""Edward K. Wehling, Jr., is the name of the happy father-to-be.""","[6, 1, 7, 2, 2, 3, 4, 2, 3, 5, 12]",47,"[2, 0, 2, 0, 1, 1, 1, 1, 1, 2, 3]",14,0.8,9,2,2,0
+"He raised his right hand, looked at a spot on the wall, gave a hoarsely wretched chuckle.","[2, 6, 3, 5, 4, 6, 2, 1, 4, 2, 3, 4, 4, 1, 8, 8, 7]",70,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1]",19,0.285714285714,6,2,2,1
+"""Present,"" he said.","[7, 2, 4]",13,"[2, 1, 1]",4,0.0,15,0,0,3
+"""Oh, Mr. Wehling,"" said Dr. Hitz, ""I didn't see you.""","[2, 2, 7, 4, 2, 4, 1, 3, 3, 3, 3]",34,"[1, 0, 2, 1, 0, 1, 1, 1, 0, 1, 1]",9,0.0,7,0,0,3
+"""The invisible man,"" said Wehling.","[3, 9, 3, 4, 7]",26,"[1, 3, 1, 1, 2]",8,0.0,0,0,0,3
+"""They just phoned me that your triplets have been born,"" said Dr. Hitz.","[4, 4, 6, 2, 4, 4, 8, 4, 4, 4, 4, 2, 4]",54,"[1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 0, 1]",13,0.0,3,0,0,1
+"""They're all fine, and so is the mother.","[4, 3, 3, 4, 3, 2, 2, 3, 6]",30,"[1, 0, 1, 1, 1, 1, 1, 1, 2]",9,0.416666666667,10,2,2,0
+"I'm on my way in to see them now.""","[1, 2, 2, 2, 3, 2, 2, 3, 4, 3]",24,"[1, 0, 1, 1, 1, 1, 1, 1, 1, 1]",9,0.0,0,0,0,3
+"""Hooray,"" said Wehling emptily.","[6, 4, 7, 7]",24,"[2, 1, 2, 3]",8,-0.1,0,0,0,3
+"""You don't sound very happy,"" said Dr. Hitz.","[3, 2, 3, 5, 4, 5, 4, 2, 4]",32,"[1, 1, 0, 1, 2, 2, 1, 0, 1]",9,0.7,18,2,2,0
+"""What man in my shoes wouldn't be happy?""","[4, 3, 2, 2, 5, 5, 3, 2, 5]",31,"[1, 1, 1, 1, 0, 1, 0, 1, 2]",8,0.8,18,2,2,0
+said Wehling.,"[4, 7]",11,"[1, 2]",3,0.0,15,0,0,3
+He gestured with his hands to symbolize care-free simplicity.,"[2, 8, 4, 3, 5, 2, 9, 9, 10]",52,"[1, 2, 1, 1, 1, 1, 3, 3, 4]",17,0.0,3,0,0,1
+"""All I have to do is pick out which one of the triplets is going to live, then deliver my maternal grandfather to the Happy Hooligan, and come back here with a receipt.""","[3, 1, 4, 2, 2, 2, 4, 3, 5, 3, 2, 3, 8, 2, 5, 2, 4, 4, 7, 2, 8, 11, 2, 3, 5, 8, 3, 4, 4, 4, 4, 1, 7]",132,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 3, 1, 3, 3, 1, 1, 2, 3, 1, 1, 1, 1, 1, 1, 2]",44,0.312121212121,11,1,1,2
+"*       *       *       *       *  Dr. Hitz became rather severe with Wehling, towered over him.","[2, 4, 6, 6, 6, 4, 7, 7, 4, 3]",49,"[0, 1, 2, 2, 2, 1, 2, 2, 2, 1]",15,0.0,3,0,0,1
+"""You don't believe in population control, Mr.","[3, 2, 3, 7, 2, 10, 7, 2]",36,"[1, 1, 0, 3, 1, 4, 2, 0]",12,0.0,7,0,0,1
+"Wehling?""",[7],7,[2],2,0.0,15,0,0,3
+he said.,"[2, 4]",6,"[1, 1]",2,0.0,15,0,0,3
+"""I think it's perfectly keen,"" said Wehling tautly.","[1, 5, 2, 2, 9, 4, 4, 7, 6]",40,"[1, 1, 1, 0, 3, 1, 1, 2, 2]",12,1.0,9,2,2,0
+"""Would you like to go back to the good old days, when the population of the Earth was twenty billion--about to become forty billion, then eighty billion, then one hundred and sixty billion?","[5, 3, 4, 2, 2, 4, 2, 3, 4, 3, 4, 4, 3, 10, 2, 3, 5, 3, 6, 7, 5, 2, 6, 5, 7, 4, 6, 7, 4, 3, 7, 3, 5, 7]",150,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 2, 1, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 2]",48,0.266666666667,11,1,1,2
+"Do you know what a drupelet is, Mr.","[2, 3, 4, 4, 1, 8, 2, 2]",26,"[1, 1, 1, 1, 1, 3, 1, 0]",9,0.0,7,0,0,3
+"Wehling?""",[7],7,[2],2,0.0,15,0,0,3
+said Hitz.,"[4, 4]",8,"[1, 1]",2,0.0,15,0,0,3
+"""Nope,"" said Wehling sulkily.","[4, 4, 7, 7]",22,"[1, 1, 2, 3]",7,0.0,0,0,0,3
+"""A drupelet, Mr. Wehling, is one of the little knobs, one of the little pulpy grains of a blackberry,"" said Dr. Hitz.","[1, 8, 2, 7, 2, 3, 2, 3, 6, 5, 3, 2, 3, 6, 5, 6, 2, 1, 10, 4, 2, 4]",87,"[1, 3, 0, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 0, 1]",26,-0.1875,17,1,1,4
+"""Without population control, human beings would now be packed on this surface of this old planet like drupelets on a blackberry!","[7, 10, 7, 5, 6, 5, 3, 2, 6, 2, 4, 7, 2, 4, 3, 6, 4, 9, 2, 1, 10]",105,"[2, 4, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 3, 1, 1, 3]",33,0.0625,1,1,1,4
+"Think of it!""","[5, 2, 2]",9,"[1, 1, 1]",3,0.0,15,0,0,3
+Wehling continued to stare at the same spot on the wall.,"[7, 9, 2, 5, 2, 3, 4, 4, 2, 3, 4]",45,"[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]",13,0.0,3,0,0,1
+"""In the year 2000,"" said Dr. Hitz, ""before scientists stepped in and laid down the law, there wasn't even enough drinking water to go around, and nothing to eat but sea-weed--and still people insisted on their right to reproduce like jackrabbits.","[2, 3, 4, 4, 4, 2, 4, 6, 10, 7, 2, 3, 4, 4, 3, 3, 5, 3, 3, 4, 6, 8, 5, 2, 2, 6, 3, 7, 2, 3, 3, 8, 3, 5, 6, 8, 2, 5, 5, 2, 9, 4, 11]",195,"[1, 1, 2, 0, 1, 0, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 2, 2, 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 3, 1, 3]",57,0.0433862433862,4,1,1,2
+"And their right, if possible, to live forever.""","[3, 5, 5, 2, 8, 2, 4, 7]",36,"[1, 1, 1, 1, 2, 1, 1, 3]",11,0.140692640693,7,0,0,1
+"""I want those kids,"" said Wehling quietly.","[1, 4, 5, 4, 4, 7, 7]",32,"[1, 1, 1, 1, 1, 2, 3]",10,0.0,7,0,0,3
+"""I want all three of them.""","[1, 4, 3, 5, 2, 4]",19,"[1, 1, 1, 1, 1, 1]",6,0.0,0,0,0,3
+"""Of course you do,"" said Dr. Hitz.","[2, 6, 3, 2, 4, 2, 4]",23,"[1, 1, 1, 1, 1, 0, 1]",6,0.0,0,0,0,3
+"""That's only human.""","[4, 2, 4, 5]",15,"[1, 0, 2, 2]",5,0.0,0,0,0,3
+"""I don't want my grandfather to die, either,"" said Wehling.","[1, 2, 3, 4, 2, 11, 2, 3, 6, 4, 7]",45,"[1, 1, 0, 1, 1, 3, 1, 1, 2, 1, 2]",14,0.0,3,0,0,1
+"""Nobody's really happy about taking a close relative to the Catbox,"" said Dr. Hitz gently, sympathetically.","[6, 2, 6, 5, 5, 6, 1, 5, 8, 2, 3, 6, 4, 2, 4, 6, 15]",86,"[3, 0, 3, 2, 2, 2, 1, 1, 3, 1, 1, 2, 1, 0, 1, 2, 6]",31,0.333333333333,14,1,1,4
+"""I wish people wouldn't call it that,"" said Leora Duncan.","[1, 4, 6, 5, 3, 4, 2, 4, 4, 5, 6]",44,"[1, 1, 1, 1, 0, 1, 1, 1, 1, 2, 2]",12,0.0,7,0,0,1
+"""What?""",[4],4,[1],1,0.0,15,0,0,3
+said Dr. Hitz.,"[4, 2, 4]",10,"[1, 0, 1]",2,0.0,15,0,0,3
+"""I wish people wouldn't call it 'the Catbox,' and things like that,"" she said.","[1, 4, 6, 5, 3, 4, 2, 4, 6, 3, 6, 4, 4, 3, 4]",59,"[1, 1, 1, 1, 0, 1, 1, 0, 2, 1, 1, 1, 1, 0, 1]",13,0.0,3,0,0,1
+"""It gives people the wrong impression.""","[2, 5, 6, 3, 5, 10]",31,"[1, 1, 1, 1, 1, 3]",8,-0.5,8,0,0,3
+"""You're absolutely right,"" said Dr. Hitz.","[3, 3, 10, 5, 4, 2, 4]",31,"[1, 0, 5, 1, 1, 0, 1]",9,0.285714285714,10,0,0,1
+"""Forgive me.""","[7, 2]",9,"[2, 1]",3,0.0,15,0,0,3
+"He corrected himself, gave the municipal gas chambers their official title, a title no one ever used in conversation.","[2, 9, 7, 4, 3, 9, 3, 8, 5, 8, 5, 1, 5, 2, 3, 4, 4, 2, 12]",96,"[1, 2, 2, 1, 1, 4, 1, 2, 1, 4, 1, 1, 1, 1, 1, 2, 1, 1, 4]",32,0.0,1,1,1,4
+"""I should have said, 'Ethical Suicide Studios,'"" he said.","[1, 6, 4, 4, 8, 7, 7, 2, 4]",43,"[1, 1, 1, 1, 3, 2, 2, 1, 1]",13,0.2,6,0,0,1
+"""That sounds so much better,"" said Leora Duncan.","[4, 6, 2, 4, 6, 4, 5, 6]",37,"[1, 1, 1, 1, 2, 1, 2, 2]",11,0.5,10,2,2,0
+"""This child of yours--whichever one you decide to keep, Mr. Wehling,"" said Dr. Hitz.","[4, 5, 2, 5, 9, 3, 3, 6, 2, 4, 2, 7, 4, 2, 4]",62,"[1, 1, 1, 1, 3, 1, 1, 2, 1, 1, 0, 2, 1, 0, 1]",17,0.0,3,0,0,1
+"""He or she is going to live on a happy, roomy, clean, rich planet, thanks to population control.","[2, 2, 3, 2, 5, 2, 4, 2, 1, 5, 5, 5, 4, 6, 6, 2, 10, 7]",73,"[1, 1, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 4, 2]",25,0.375606060606,14,2,2,4
+"In a garden like that mural there.""","[2, 1, 6, 4, 4, 5, 5]",27,"[1, 1, 2, 1, 1, 2, 1]",9,0.0,7,0,0,3
+He shook his head.,"[2, 5, 3, 4]",14,"[1, 1, 1, 2]",5,0.0,0,0,0,3
+"""Two centuries ago, when I was a young man, it was a hell that nobody thought could last another twenty years.","[3, 9, 3, 4, 1, 3, 1, 5, 3, 2, 3, 1, 4, 4, 6, 7, 5, 4, 7, 6, 5]",86,"[1, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 3, 2, 2]",30,0.05,16,1,1,4
+"Now centuries of peace and plenty stretch before us as far as the imagination cares to travel.""","[3, 9, 2, 5, 3, 6, 7, 6, 2, 2, 3, 2, 3, 11, 5, 2, 6]",77,"[1, 3, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 5, 1, 1, 2]",27,0.1,16,1,1,4
+He smiled luminously.,"[2, 6, 10]",18,"[1, 1, 4]",6,0.6,18,2,2,0
+The smile faded as he saw that Wehling had just drawn a revolver.,"[3, 5, 5, 2, 2, 3, 4, 7, 3, 4, 5, 1, 8]",52,"[1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 3]",16,0.3,6,2,2,1
+Wehling shot Dr. Hitz dead.,"[7, 4, 2, 4, 4]",21,"[2, 1, 0, 1, 2]",6,-0.2,0,0,0,3
+"""There's room for one--a great big one,"" he said.","[5, 2, 4, 3, 3, 1, 5, 3, 3, 2, 4]",35,"[1, 0, 1, 1, 1, 1, 2, 1, 1, 1, 1]",11,0.4,10,2,2,0
+And then he shot Leora Duncan.,"[3, 4, 2, 4, 5, 6]",24,"[1, 1, 1, 1, 2, 2]",8,0.0,0,0,0,3
+"""It's only death,"" he said to her as she fell.","[2, 2, 4, 5, 2, 4, 2, 3, 2, 3, 4]",33,"[1, 0, 2, 2, 1, 1, 1, 1, 1, 0, 1]",11,0.0,7,0,0,3
+"""There!",[5],5,[1],1,0.0,15,0,0,3
+"Room for two.""","[4, 3, 3]",10,"[1, 1, 1]",3,0.0,15,0,0,3
+"And then he shot himself, making room for all three of his children.","[3, 4, 2, 4, 7, 6, 4, 3, 3, 5, 2, 3, 8]",54,"[1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2]",16,0.0,3,0,0,1
+Nobody came running.,"[6, 4, 7]",17,"[3, 1, 2]",6,0.0,0,0,0,3
+"Nobody, seemingly, heard the shots.","[6, 9, 5, 3, 5]",28,"[3, 3, 2, 1, 1]",10,0.0,7,0,0,3
+"The painter sat on the top of his stepladder, looking down reflectively on the sorry scene.","[3, 7, 3, 2, 3, 3, 2, 3, 10, 7, 4, 12, 2, 3, 5, 5]",74,"[1, 2, 1, 1, 1, 1, 1, 1, 3, 2, 1, 5, 1, 1, 2, 1]",25,-0.0518518518519,16,1,1,4
+"*       *       *       *       *  The painter pondered the mournful puzzle of life demanding to be born and, once born, demanding to be fruitful ... to multiply and to live as long as possible--to do all that on a very small planet that would have to last forever.","[3, 7, 8, 3, 8, 6, 2, 4, 9, 2, 2, 4, 3, 4, 4, 9, 2, 2, 8, 2, 8, 3, 2, 4, 2, 4, 2, 8, 2, 2, 3, 4, 2, 1, 4, 5, 6, 4, 5, 4, 2, 4, 7]",180,"[1, 2, 2, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 3]",58,-0.0477272727273,4,1,1,2
+All the answers that the painter could think of were grim.,"[3, 3, 7, 4, 3, 7, 5, 5, 2, 4, 4]",47,"[1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1]",13,-1.0,5,0,0,3
+"Even grimmer, surely, than a Catbox, a Happy Hooligan, an Easy Go.","[4, 7, 6, 4, 1, 6, 1, 5, 8, 2, 4, 2]",50,"[2, 2, 3, 1, 1, 2, 1, 2, 3, 1, 3, 1]",22,0.577777777778,2,2,2,0
+He thought of war.,"[2, 7, 2, 3]",14,"[1, 1, 1, 1]",4,0.0,15,0,0,3
+He thought of plague.,"[2, 7, 2, 6]",17,"[1, 1, 1, 1]",4,0.0,0,0,0,3
+He thought of starvation.,"[2, 7, 2, 10]",21,"[1, 1, 1, 3]",6,0.0,0,0,0,3
+He knew that he would never paint again.,"[2, 4, 4, 2, 5, 5, 5, 5]",32,"[1, 1, 1, 1, 1, 2, 1, 2]",10,0.0,7,0,0,3
+He let his paintbrush fall to the dropcloths below.,"[2, 3, 3, 10, 4, 2, 3, 10, 5]",42,"[1, 1, 1, 2, 1, 1, 1, 2, 2]",12,0.0,7,0,0,1
+"And then he decided he had had about enough of life in the Happy Garden of Life, too, and he came slowly down from the ladder.","[3, 4, 2, 7, 2, 3, 3, 5, 6, 2, 4, 2, 3, 5, 6, 2, 4, 3, 3, 2, 4, 6, 4, 4, 3, 6]",98,"[1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2]",33,0.214814814815,14,1,1,4
+"He took Wehling's pistol, really intending to shoot himself.","[2, 4, 7, 2, 6, 6, 9, 2, 5, 7]",50,"[1, 1, 2, 0, 2, 3, 3, 1, 1, 2]",16,0.2,6,0,0,1
+But he didn't have the nerve.,"[3, 2, 3, 3, 4, 3, 5]",23,"[1, 1, 1, 0, 1, 1, 1]",6,0.0,0,0,0,3
+And then he saw the telephone booth in the corner of the room.,"[3, 4, 2, 3, 3, 9, 5, 2, 3, 6, 2, 3, 4]",49,"[1, 1, 1, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1]",16,0.0,3,0,0,1
+"He went to it, dialed the well-remembered number: ""2 B R 0 2 B.""","[2, 4, 2, 2, 6, 3, 15, 6, 1, 1, 1, 1, 1, 1]",46,"[1, 1, 1, 1, 2, 1, 4, 2, 0, 0, 0, 0, 0, 0]",13,0.0,3,0,0,1
+"""Federal Bureau of Termination,"" said the very warm voice of a hostess.","[7, 6, 2, 11, 4, 3, 4, 4, 5, 2, 1, 7]",56,"[3, 3, 1, 4, 1, 1, 2, 1, 1, 1, 1, 2]",21,0.78,9,2,2,0
+"""How soon could I get an appointment?""","[3, 4, 5, 1, 3, 2, 11]",29,"[1, 1, 1, 1, 1, 1, 3]",9,0.0,7,0,0,3
+"he asked, speaking very carefully.","[2, 5, 8, 4, 9]",28,"[1, 1, 3, 2, 4]",11,-0.13,7,0,0,3
+"""We could probably fit you in late this afternoon, sir,"" she said.","[2, 5, 8, 3, 3, 2, 4, 4, 9, 3, 3, 4]",50,"[1, 1, 3, 1, 1, 1, 1, 1, 3, 1, 0, 1]",15,0.05,3,0,0,1
+"""It might even be earlier, if we get a cancellation.""","[2, 5, 4, 2, 7, 2, 2, 3, 1, 12]",40,"[1, 1, 2, 1, 4, 1, 1, 1, 1, 4]",17,0.0,3,0,0,1
+"""All right,"" said the painter, ""fit me in, if you please.""","[3, 5, 4, 3, 7, 3, 2, 2, 2, 3, 6]",40,"[1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2]",13,0.342857142857,10,2,2,1
+"And he gave her his name, spelling it out.","[3, 2, 4, 3, 3, 4, 8, 2, 3]",32,"[1, 1, 1, 1, 1, 1, 2, 1, 1]",10,0.0,7,0,0,3
+"""Thank you, sir,"" said the hostess.","[5, 3, 3, 4, 3, 7]",25,"[1, 1, 1, 1, 1, 2]",7,0.0,0,0,0,3
+"""Your city thanks you; your country thanks you; your planet thanks you.","[4, 4, 6, 3, 4, 7, 6, 3, 4, 6, 6, 3]",56,"[1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1]",15,0.2,6,0,0,1
+"But the deepest thanks of all is from future generations.""","[3, 3, 7, 6, 2, 3, 2, 4, 6, 11]",47,"[1, 1, 2, 1, 1, 1, 1, 1, 2, 4]",15,0.1,3,0,0,1
+END     ,[3],3,[1],1,0.0,15,0,0,3
