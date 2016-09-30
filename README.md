@@ -10,7 +10,7 @@ The first novel I've chosen to explore using data science is the *Wizard of Oz*.
 
 After breaking the *Wizard of Oz* up into twenty pieces and running a sentiment analyses on the individual pieces I discovered that the dips and rises in sentiment follow Michael Hauge's Six Stage Plot Structure. 
 
-![Six Plot Structure](https://raw.githubusercontent.com/ravenruckus/novel_processing/master/wizardofoz/six-plot.jpg)
+![Six Plot Structure](https://github.com/ravenruckus/novel_processing/blob/master/novel_processing/six-plot.jpg)
 
 I'm excited to explore and compare other novels and the patterns they make. You can find a rough draft of my project paper here. [Draft Paper - in progress](https://github.com/ravenruckus/novel_processing/blob/master/wizardofoz/draft_paper.ipynb)
 
