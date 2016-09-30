@@ -12,7 +12,7 @@ After breaking the *Wizard of Oz* up into twenty pieces and running a sentiment 
 
 ![Six Plot Structure](https://github.com/ravenruckus/novel_processing/blob/master/novel_processing/six-plot.jpg)
 
-I'm excited to explore and compare other novels and the patterns they make. You can find a rough draft of my project paper here. [Draft Paper - in progress](https://github.com/ravenruckus/novel_processing/blob/master/wizardofoz/draft_paper.ipynb)
+I'm excited to explore and compare other novels and the patterns they make. You can find a rough draft of my project paper here. [Draft Paper - in progress](https://github.com/ravenruckus/novel_processing/blob/master/novel_processing/draft_paper.ipynb)
 
 I'm in the process of exploring several popular novels from the [Gutenberg Project](https://www.gutenberg.org/browse/scores/top) and plan to cluster them by their content and compare their sentiment patterns.
 
